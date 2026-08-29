@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Collector intermediate/resumability files -- not needed to run the app,
+# and the raw files duplicate what's already in the filtered final CSVs
+*_raw.csv
+*.done
+
+# OS cruft
+.DS_Store

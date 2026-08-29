@@ -1,0 +1,3597 @@
+date,home_team,away_team,home_score,away_score,status,game_id
+2025-08-29,St. Scholastica,Loras,0,0,FINAL,6476118
+2025-08-29,UMass Dartmouth,Regis (MA),1,1,FINAL,6496202
+2025-08-29,Roger Williams,Salve Regina,0,0,FINAL,6496205
+2025-08-29,Smith,UMass Boston,0,1,FINAL,6475645
+2025-08-29,Stevens,Claremont-M-S,1,1,FINAL,6496163
+2025-08-29,Montclair St.,Coast Guard,2,0,FINAL,6496221
+2025-08-29,Stockton,Scranton,0,1,FINAL,6496230
+2025-08-29,Eastern Conn. St.,St. Joseph's (L.I.),1,1,FINAL,6474292
+2025-08-29,Maryville (TN),Farmingdale St.,0,3,FINAL,6471944
+2025-08-29,Lesley,Wentworth,0,0,FINAL,6476183
+2025-08-29,Colby-Sawyer,Westfield St.,1,1,FINAL,6476306
+2025-08-29,SUNY New Paltz,Russell Sage,4,0,FINAL,6496190
+2025-08-29,Earlham,Alma,0,3,FINAL,6475867
+2025-08-29,Mary Washington,Randolph-Macon,5,0,FINAL,6496191
+2025-08-29,Skidmore,SUNY Brockport,1,1,FINAL,6472835
+2025-08-29,Trinity Washington,Piedmont,0,12,FINAL,6473093
+2025-08-29,Juniata,Geneva,0,1,FINAL,6473162
+2025-08-29,Utica,Lycoming,1,2,FINAL,6473579
+2025-08-29,Anna Maria,New England Col.,0,1,FINAL,6473715
+2025-08-29,Martin Luther,Buena Vista,0,2,FINAL,6474903
+2025-08-29,Rockford,Olivet,1,2,FINAL,6474971
+2025-08-29,Marymount (VA),Shenandoah,1,0,FINAL,6475118
+2025-08-29,Lewis & Clark,Wis.-Oshkosh,1,1,FINAL,6496204
+2025-08-29,Buffalo St.,Keuka,5,0,FINAL,6496218
+2025-08-29,Rensselaer,Suffolk,0,1,FINAL,6476552
+2025-08-29,Hood,Gettysburg,1,2,FINAL,6472644
+2025-08-29,Bard,Rutgers-Newark,1,0,FINAL,6473182
+2025-08-29,SUNY Oneonta,Hartwick,0,0,FINAL,6473775
+2025-08-29,Delaware Valley,Bryn Mawr,0,1,FINAL,6473842
+2025-08-29,Rhode Island Col.,Salem St.,0,1,FINAL,6474770
+2025-08-29,New Jersey City,SUNY Delhi,2,0,FINAL,6474862
+2025-08-29,York (PA),Wash. & Lee,0,3,FINAL,6475096
+2025-08-29,Arcadia,Haverford,1,0,FINAL,6475223
+2025-08-29,Nazareth,Endicott,2,0,FINAL,6475393
+2025-08-29,Valley Forge,Gwynedd Mercy,0,4,FINAL,6476529
+2025-08-29,Hope,MSOE,3,0,FINAL,6476810
+2025-08-29,Concordia Chicago,Elmhurst,0,4,FINAL,6477056
+2025-08-29,RIT,Grove City,2,2,FINAL,6477514
+2025-08-29,Mount Aloysius,Westminster (PA),1,1,FINAL,6496185
+2025-08-29,Kean,King's (PA),2,1,FINAL,6496186
+2025-08-29,Dominican (IL),Wheaton (IL),0,1,FINAL,6496193
+2025-08-29,Plattsburgh St.,VTSU Castleton,2,1,FINAL,6496194
+2025-08-29,La Roche,Thiel,4,0,FINAL,6496199
+2025-08-29,St. Joseph's (ME),U New England,0,2,FINAL,6496203
+2025-08-29,Emerson,Husson,4,1,FINAL,6496219
+2025-08-29,Calvin,Wartburg,2,0,FINAL,6496222
+2025-08-29,Minn.-Morris,Saint Mary's (MN),0,5,FINAL,6496223
+2025-08-29,Union (NY),WPI,0,1,FINAL,6496227
+2025-08-29,St. Mary's (MD),Neumann,3,1,FINAL,6496229
+2025-08-29,Rochester (NY),Cortland,2,0,FINAL,6496237
+2025-08-29,Lebanon Valley,Moravian,1,0,FINAL,6473427
+2025-08-29,Bethel (MN),Northwestern-St. Paul,2,2,FINAL,6475907
+2025-08-29,WashU,Westminster (MO),8,0,FINAL,6472596
+2025-08-29,Agnes Scott,Berry,0,4,FINAL,6472707
+2025-08-29,SUNY Poly,Marywood,0,4,FINAL,6472862
+2025-08-29,St. Olaf,Wis.-Eau Claire,4,0,FINAL,6473256
+2025-08-29,Rutgers-Camden,Stevenson,1,4,FINAL,6473702
+2025-08-29,Wilson,Penn St.-Altoona,3,3,FINAL,6473731
+2025-08-29,Batten,Saint Benedict,3,0,FINAL,6474856
+2025-08-29,Adrian,Hiram,3,1,FINAL,6475509
+2025-08-29,Greenville,Lake Forest,1,4,FINAL,6475718
+2025-08-29,Belhaven,Centenary (LA),5,0,FINAL,6475818
+2025-08-29,Nichols,Albertus Magnus,0,4,FINAL,6477248
+2025-08-29,Houghton,SUNY Canton,6,0,FINAL,6477377
+2025-08-29,Wis.-La Crosse,Carroll (WI),7,0,FINAL,6477382
+2025-08-29,Pitt.-Bradford,SUNY Cobleskill ,3,2,FINAL,6477477
+2025-08-29,UC Santa Cruz,Linfield,0,0,FINAL,6477585
+2025-08-29,Wis.-Stevens Point,St. Catherine,0,3,FINAL,6477661
+2025-08-29,Saint Vincent,Pitt.-Greensburg,4,0,FINAL,6477665
+2025-08-29,SUNY Maritime,Brooklyn,4,2,FINAL,6496187
+2025-08-29,Hanover,Trine,0,2,FINAL,6496188
+2025-08-29,Marian (WI),Augustana (IL),1,0,FINAL,6496192
+2025-08-29,Pfeiffer,Averett,0,2,FINAL,6496196
+2025-08-29,Clarkson,Hartford,2,2,FINAL,6496197
+2025-08-29,Chris. Newport,Merchant Marine,3,0,FINAL,6496200
+2025-08-29,Marietta,Wittenberg,0,0,FINAL,6496233
+2025-08-29,DeSales,William Smith,1,8,FINAL,6472758
+2025-08-29,Manchester,DePauw,1,3,FINAL,6496285
+2025-08-29,Fitchburg St.,Saint Joseph (CT),1,0,FINAL,6472583
+2025-08-29,Greensboro,East. Mennonite,3,0,FINAL,6472589
+2025-08-29,Augsburg,Wis.-Platteville,0,2,FINAL,6472953
+2025-08-29,Catholic,Franklin & Marshall,0,2,FINAL,6473458
+2025-08-29,UW-River Falls,Crown (MN),3,0,FINAL,6473846
+2025-08-29,Ill. Wesleyan,Simpson,1,2,FINAL,6474370
+2025-08-29,Dallas,Hardin-Simmons,1,7,FINAL,6474463
+2025-08-29,Mt. St. Mary (NY),NYU,0,6,FINAL,6474671
+2025-08-29,Mary Hardin-Baylor,Concordia (TX),1,0,FINAL,6475613
+2025-08-29,Macalester,Carthage,1,0,FINAL,6476661
+2025-08-29,Central (IA),Edgewood,1,0,FINAL,6476893
+2025-08-29,Pomona-Pitzer,North Central (IL),3,0,FINAL,6477156
+2025-08-29,Ozarks (AR),Howard Payne,1,5,FINAL,6477442
+2025-08-29,Manhattanville,Drew,0,3,FINAL,6477607
+2025-08-29,Wm. Paterson,Centenary (NJ),3,0,FINAL,6477714
+2025-08-29,SUNY Geneseo,Heidelberg,1,1,FINAL,6477770
+2025-08-29,Albion,Bluffton,8,1,FINAL,6496161
+2025-08-29,Eureka,Monmouth (IL),0,3,FINAL,6496164
+2025-08-29,Dubuque,Grinnell,0,0,FINAL,6496283
+2025-08-29,Salisbury,TCNJ,1,4,FINAL,6496284
+2025-08-29,Albright,Penn St.-Abington,0,0,FINAL,6520173
+2025-08-29,St. Thomas (TX),Pacific Lutheran,1,1,FINAL,6474377
+2025-08-29,Southwestern (TX),Puget Sound,0,2,FINAL,6474998
+2025-08-29,Franklin,St. Mary's (IN),0,2,FINAL,6471939
+2025-08-29,Whittier,Whitworth,1,0,FINAL,6472616
+2025-08-29,SUNY Potsdam,St. Lawrence,0,0,FINAL,6473318
+2025-08-29,Centre,Covenant,3,1,FINAL,6473374
+2025-08-29,Penn St. Harrisburg,Dickinson,0,0,FINAL,6473508
+2025-08-29,Misericordia,Susquehanna,2,0,FINAL,6474201
+2025-08-29,Swarthmore,Transylvania,3,0,FINAL,6475827
+2025-08-29,Widener,Washington Col.,0,1,FINAL,6475965
+2025-08-29,Goucher,McDaniel,0,4,FINAL,6476113
+2025-08-29,Wis. Lutheran,Ripon,2,1,FINAL,6476683
+2025-08-29,Southern Me.,Rivier,5,4,FINAL,6477047
+2025-08-29,Brandeis,Bridgewater St.,5,1,FINAL,6477295
+2025-08-29,Muskingum,Wash. & Jeff.,0,2,FINAL,6477484
+2025-08-29,Guilford,Mary Baldwin,2,0,FINAL,6495989
+2025-08-29,FDU-Florham,Ramapo,0,0,FINAL,6496259
+2025-08-29,UChicago,East Tex. Baptist,6,0,FINAL,6496260
+2025-08-29,Allegheny,Capital,1,4,FINAL,6496261
+2025-08-29,Waynesburg,Mount Union,2,1,FINAL,6496262
+2025-08-29,Penn St.-Berks,Ursinus,2,3,FINAL,6496264
+2025-08-29,Ithaca,Elmira,2,0,FINAL,6496265
+2025-08-29,Wis.-Superior,Gustavus Adolphus,0,4,FINAL,6496266
+2025-08-29,Wilmington (OH),Oberlin,1,1,FINAL,6496267
+2025-08-29,Norwich,VTSU-Johnson,0,0,FINAL,6496268
+2025-08-29,CWRU,Franciscan,7,0,FINAL,6473662
+2025-08-29,Mt. St. Joseph,Ohio Wesleyan,2,0,FINAL,6476220
+2025-08-29,Bridgewater (VA),Carnegie Mellon,1,0,FINAL,6476797
+2025-08-29,Illinois Col.,Principia,1,0,FINAL,6477181
+2025-08-29,Luther,Bethany Lutheran,5,1,FINAL,6496162
+2025-08-29,Wis.-Stout,Hamline,1,0,FINAL,6496195
+2025-08-29,Lawrence,Concordia Wisconsin,2,2,FINAL,6496258
+2025-08-29,Millikin,Knox,4,0,FINAL,6496275
+2025-08-29,Sewanee,Spalding,3,1,FINAL,6474080
+2025-08-29,North Park,Benedictine (IL),5,1,FINAL,6477868
+2025-08-29,Cal Lutheran,Fredonia,1,0,FINAL,6477763
+2025-08-29,Pacific (OR),Chapman,1,2,FINAL,6474428
+2025-08-30,Oswego St.,Wilkes,3,1,FINAL,6472106
+2025-08-30,Lynchburg,Denison,1,0,FINAL,6472468
+2025-08-30,WestConn,Emmanuel (MA),0,5,FINAL,6473343
+2025-08-30,Vassar,Sarah Lawrence,2,0,FINAL,6474497
+2025-08-30,Carleton,Johns Hopkins,1,1,FINAL,6474809
+2025-08-30,Penn St.-Behrend,Messiah,0,3,FINAL,6475174
+2025-08-30,New England Col.,Me.-Presque Isle,3,0,FINAL,6476365
+2025-08-30,Bethany (WV),Kenyon,0,2,FINAL,6476500
+2025-08-30,Nichols,Clark (MA),0,6,FINAL,6477561
+2025-08-30,Alfred,Chatham,2,0,FINAL,6471498
+2025-08-30,Millsaps,McMurry,0,1,FINAL,6471689
+2025-08-30,Alfred St.,Keystone,13,0,FINAL,6472082
+2025-08-30,Catholic,St. John Fisher,1,0,FINAL,6472516
+2025-08-30,Neumann,Salisbury,0,4,FINAL,6472587
+2025-08-30,Geneva,Baldwin Wallace,0,0,FINAL,6473167
+2025-08-30,Kean,Scranton,0,4,FINAL,6473904
+2025-08-30,Wellesley,Simmons,5,0,FINAL,6474236
+2025-08-30,SUNY Poly,SUNY Morrisville,3,3,FINAL,6474270
+2025-08-30,SUNY Oneonta,SUNY Brockport,0,3,FINAL,6475654
+2025-08-30,Curry,Mass. Maritime,6,0,FINAL,6477183
+2025-08-30,Kalamazoo,Beloit,4,0,FINAL,6472987
+2025-08-30,John Jay,Old Westbury,2,0,FINAL,6473158
+2025-08-30,Wooster,Alma,3,0,FINAL,6471657
+2025-08-30,Buffalo St.,Lycoming,3,8,FINAL,6472206
+2025-08-30,Colby-Sawyer,Husson,0,5,FINAL,6472212
+2025-08-30,Hilbert,SUNY Canton,3,0,FINAL,6473940
+2025-08-30,Roanoke,Rhodes,1,3,FINAL,6474290
+2025-08-30,Framingham St.,Lasell,2,2,FINAL,6475299
+2025-08-30,Muhlenberg,Coast Guard,4,2,FINAL,6477678
+2025-08-30,Sewanee,Farmingdale St.,4,0,FINAL,6471946
+2025-08-30,Otterbein,John Carroll,2,1,FINAL,6476623
+2025-08-30,Juniata,Westminster (PA),1,0,FINAL,6471723
+2025-08-30,St. Mary's (MD),TCNJ,0,0,FINAL,6472050
+2025-08-30,Methodist,East. Mennonite,0,0,FINAL,6472590
+2025-08-30,Penn St.-Altoona,Cedar Crest,3,0,FINAL,6473124
+2025-08-30,Thomas (ME),Plymouth St.,0,3,FINAL,6474335
+2025-08-30,RIT,Endicott,2,1,FINAL,6475415
+2025-08-30,Cornell College,North Central (MN),6,1,FINAL,6475487
+2025-08-30,Eastern,Penn St.-Abington,2,0,FINAL,6475505
+2025-08-30,Nazareth,Grove City,2,0,FINAL,6476060
+2025-08-30,Webster,Lake Forest,1,6,FINAL,6476636
+2025-08-30,Carnegie Mellon,Wittenberg,3,0,FINAL,6475230
+2025-08-30,Stockton,King's (PA),3,0,FINAL,6471420
+2025-08-30,Elms,UMass Dartmouth,1,4,FINAL,6471984
+2025-08-30,Calvin,MSOE,3,1,FINAL,6472291
+2025-08-30,Western New Eng.,WPI,0,2,FINAL,6472891
+2025-08-30,Maryville (TN),Spalding,1,0,FINAL,6474082
+2025-08-30,Hope,Wartburg,3,0,FINAL,6475325
+2025-08-30,Augsburg,Coe,2,0,FINAL,6472955
+2025-08-30,Ozarks (AR),MUW,2,1,FINAL,6474169
+2025-08-30,Gordon,MIT,0,2,FINAL,6474651
+2025-08-30,Houghton,Lancaster Bible,4,0,FINAL,6476020
+2025-08-30,Grinnell,Edgewood,0,1,FINAL,6476895
+2025-08-30,Mount Aloysius,Waynesburg,0,4,FINAL,6471365
+2025-08-30,St. Catherine,St. Norbert,1,0,FINAL,6471975
+2025-08-30,Rivier,Keene St.,2,4,FINAL,6471976
+2025-08-30,Marietta,Bridgewater (VA),0,2,FINAL,6472488
+2025-08-30,LaGrange,Berry,0,4,FINAL,6496077
+2025-08-30,Millikin,Simpson,0,0,FINAL,6475136
+2025-08-30,Austin,Lyon,3,0,FINAL,6496639
+2025-08-30,Aurora,Wheaton (IL),0,2,FINAL,6471627
+2025-08-31,SUNY Delhi,Rutgers-Newark,1,2,FINAL,6473169
+2025-08-31,Baldwin Wallace,Kenyon,0,2,FINAL,6477538
+2025-08-31,St. Lawrence,Hartford,0,1,FINAL,6471877
+2025-08-31,Lynchburg,Rhodes,0,0,FINAL,6473646
+2025-08-31,Bard,New Jersey City,1,3,FINAL,6473960
+2025-08-31,Batten,Merchant Marine,4,0,FINAL,6474230
+2025-08-31,William Smith,SUNY New Paltz,3,0,FINAL,6471499
+2025-08-31,FDU-Florham,UMSV,1,2,FINAL,6471530
+2025-08-31,Chris. Newport,Saint Benedict,2,0,FINAL,6471957
+2025-08-31,U New England,Worcester St.,1,2,FINAL,6472121
+2025-08-31,Ithaca,Heidelberg,1,0,FINAL,6472207
+2025-08-31,Neb. Wesleyan,Illinois Col.,4,5,FINAL,6472586
+2025-08-31,Ursinus,Delaware Valley,5,0,FINAL,6472993
+2025-08-31,Mary Washington,Penn St. Harrisburg,1,0,FINAL,6473515
+2025-08-31,Mount Holyoke,Anna Maria,4,0,FINAL,6473722
+2025-08-31,Mt. St. Mary (NY),Vassar,0,4,FINAL,6474557
+2025-08-31,Swarthmore,Wash. & Lee,1,0,FINAL,6475099
+2025-08-31,Emerson,Westfield St.,6,1,FINAL,6476318
+2025-08-31,Wentworth,Albertus Magnus,2,1,FINAL,6476475
+2025-08-31,Otterbein,Messiah,0,1,FINAL,6477154
+2025-08-31,McDaniel,Rutgers-Camden,0,0,FINAL,6477221
+2025-08-31,Carleton,Carthage,5,1,FINAL,6477232
+2025-08-31,NYU,Claremont-M-S,0,2,FINAL,6474686
+2025-08-31,Mary Hardin-Baylor,Puget Sound,1,1,FINAL,6475618
+2025-08-31,Hanover,Wilmington (OH),6,0,FINAL,6471477
+2025-08-31,Wooster,Earlham,3,0,FINAL,6471658
+2025-08-31,CWRU,Allegheny,6,0,FINAL,6472032
+2025-08-31,Stevens,Springfield,3,2,FINAL,6472308
+2025-08-31,Occidental,Fredonia,3,2,FINAL,6472647
+2025-08-31,Bryn Mawr,Notre Dame (MD),6,0,FINAL,6473844
+2025-08-31,Hendrix,MUW,3,0,FINAL,6474171
+2025-08-31,Susquehanna,Haverford,0,1,FINAL,6474203
+2025-08-31,Whittier,George Fox,1,0,FINAL,6475345
+2025-08-31,Widener,Transylvania,3,0,FINAL,6475967
+2025-08-31,Mitchell,Yeshiva,9,1,FINAL,6476289
+2025-08-31,Linfield,East Tex. Baptist,2,2,FINAL,6476980
+2025-08-31,Centenary (LA),Howard Payne,0,4,FINAL,6477119
+2025-08-31,Muskingum,Saint Vincent,0,3,FINAL,6477674
+2025-08-31,Willamette,Wis.-Oshkosh,0,1,FINAL,6472157
+2025-08-31,York (PA),Penn St.-Berks,4,0,FINAL,6472170
+2025-08-31,Montclair St.,JWU (Providence),1,1,FINAL,6472287
+2025-08-31,Roanoke,Denison,0,2,FINAL,6472472
+2025-08-31,Cal Lutheran,Whitworth,1,1,FINAL,6472620
+2025-08-31,Meredith,Piedmont,2,4,FINAL,6473095
+2025-08-31,Cortland,Arcadia,1,0,FINAL,6473440
+2025-08-31,Olivet,Anderson (IN),0,3,FINAL,6474973
+2025-08-31,Redlands,North Central (IL),0,2,FINAL,6475458
+2025-08-31,Adrian,Ohio Wesleyan,0,1,FINAL,6476222
+2025-08-31,Rockford,Elmhurst,0,10,FINAL,6476336
+2025-08-31,Central (IA),Wis.-Eau Claire,2,1,FINAL,6476944
+2025-08-31,Trinity (TX),Pacific Lutheran,1,1,FINAL,6474832
+2025-08-31,Penn St.-Behrend,John Carroll,1,1,FINAL,6476625
+2025-08-31,Lakeland,Lawrence,0,5,FINAL,6477339
+2025-08-31,Ripon,Marian (WI),0,5,FINAL,6471611
+2025-08-31,Rensselaer,Plattsburgh St.,1,0,FINAL,6471674
+2025-08-31,Rose-Hulman,Ohio Northern,0,1,FINAL,6471741
+2025-08-31,Wis.-Stout,Gustavus Adolphus,1,1,FINAL,6471816
+2025-08-31,UW-River Falls,St. Norbert,4,1,FINAL,6471980
+2025-08-31,Hamline,Coe,3,2,FINAL,6472765
+2025-08-31,Lewis & Clark,Chapman,0,3,FINAL,6473024
+2025-08-31,St. Olaf,Johns Hopkins,0,3,FINAL,6473259
+2025-08-31,Alfred St.,Penn College,0,2,FINAL,6473267
+2025-08-31,Concordia Chicago,Wis.-Stevens Point,0,2,FINAL,6477059
+2025-08-31,UC Santa Cruz,UChicago,0,1,FINAL,6471631
+2025-08-31,Alvernia,Immaculata,1,1,FINAL,6471936
+2025-08-31,Marywood,Goucher,10,1,FINAL,6472866
+2025-08-31,Martin Luther,Wis. Lutheran,0,4,FINAL,6474925
+2025-08-31,Wheaton (MA),Regis (MA),2,0,FINAL,6475940
+2025-08-31,Illinois Tech,North Park,3,0,FINAL,6477072
+2025-08-31,Dean,Rhode Island Col.,0,3,FINAL,6472134
+2025-08-31,St. Scholastica,Luther,0,1,FINAL,6474125
+2025-08-31,Washington Col.,Misericordia,0,2,FINAL,6476382
+2025-08-31,Oglethorpe,Agnes Scott,4,1,FINAL,6476964
+2025-09-01,Wis.-Whitewater,Bethel (MN),1,0,FINAL,6471400
+2025-09-01,Capital,Trine,0,3,FINAL,6471834
+2025-09-01,Keene St.,Roger Williams,1,6,FINAL,6471979
+2025-09-01,La Verne,George Fox,0,0,FINAL,6475342
+2025-09-01,DePauw,Greenville,2,1,FINAL,6475720
+2025-09-01,Webster,Knox,2,0,FINAL,6471706
+2025-09-01,N.C. Wesleyan,Piedmont,0,1,FINAL,6473097
+2025-09-01,Oberlin,Pitt.-Greensburg,0,4,FINAL,6473403
+2025-09-01,Mary Baldwin,Randolph,1,0,FINAL,6476888
+2025-09-01,Averett,Salem (NC),3,3,FINAL,6471848
+2025-09-01,Wilson,Gwynedd Mercy,1,0,FINAL,6475762
+2025-09-01,Concordia (TX),Southwestern (TX),1,2,FINAL,6475000
+2025-09-01,Minn.-Morris,Concordia-M'head,0,0,FINAL,6477645
+2025-09-01,Saint Mary's (MN),Wis.-Platteville,2,1,FINAL,6472333
+2025-09-02,Plymouth St.,Middlebury,0,7,FINAL,6471454
+2025-09-02,Geneva,Alfred,0,1,FINAL,6471500
+2025-09-02,Dean,Curry,1,6,FINAL,6472138
+2025-09-02,Keuka,Lycoming,0,5,FINAL,6473586
+2025-09-02,Hilbert,Houghton,0,4,FINAL,6473942
+2025-09-02,New Jersey City,Manhattanville,4,2,FINAL,6474865
+2025-09-02,Babson,Brandeis,0,0,FINAL,6476418
+2025-09-02,SUNY Canton,Utica,0,7,FINAL,6476855
+2025-09-02,SUNY Geneseo,Oswego St.,1,1,FINAL,6477420
+2025-09-02,Hamilton,Williams,0,2,FINAL,6471564
+2025-09-02,Pratt,John Jay,0,2,FINAL,6476850
+2025-09-02,Wis.-La Crosse,Wis.-Superior,6,0,FINAL,6472314
+2025-09-02,Union (NY),Smith,1,0,FINAL,6472371
+2025-09-02,Oglethorpe,Covenant,3,1,FINAL,6473376
+2025-09-02,Wentworth,MCLA,4,0,FINAL,6471894
+2025-09-02,Ill. Wesleyan,WashU,0,6,FINAL,6472600
+2025-09-02,Hartwick,SUNY Morrisville,3,0,FINAL,6473777
+2025-09-02,Rivier,WestConn,2,2,FINAL,6476881
+2025-09-02,UMass Dartmouth,Suffolk,0,1,FINAL,6471987
+2025-09-02,Connecticut Col.,Emmanuel (MA),2,1,FINAL,6472188
+2025-09-02,Wash. & Jeff.,Marietta,0,1,FINAL,6472491
+2025-09-02,Franklin & Marshall,Elizabethtown,5,1,FINAL,6472542
+2025-09-02,Amherst,WPI,1,0,FINAL,6472893
+2025-09-02,Lesley,MIT,0,6,FINAL,6474940
+2025-09-02,Ramapo,St. Joseph's (L.I.),2,1,FINAL,6475903
+2025-09-02,Mt. St. Mary (NY),Yeshiva,20,0,FINAL,6477583
+2025-09-02,Carroll (WI),Dubuque,1,1,FINAL,6471578
+2025-09-02,Millikin,Monmouth (IL),6,0,FINAL,6477259
+2025-09-03,Bowdoin,Thomas (ME),9,1,FINAL,6475549
+2025-09-03,Russell Sage,Nichols,1,0,FINAL,6475586
+2025-09-03,Concordia Chicago,Carthage,0,2,FINAL,6477061
+2025-09-03,Dominican (IL),North Park,2,1,FINAL,6477870
+2025-09-03,Clarkson,Plattsburgh St.,1,0,FINAL,6471676
+2025-09-03,Brooklyn,Saint Elizabeth,2,0,FINAL,6471787
+2025-09-03,Albright,Rowan,0,3,FINAL,6472057
+2025-09-03,Westfield St.,U New England,0,1,FINAL,6472123
+2025-09-03,Marywood,Lancaster Bible,0,2,FINAL,6472869
+2025-09-03,Wellesley,Endicott,1,0,FINAL,6474238
+2025-09-03,Western New Eng.,Springfield,2,0,FINAL,6474900
+2025-09-03,Olivet,Earlham,0,5,FINAL,6474976
+2025-09-03,Framingham St.,Clark (MA),0,10,FINAL,6475301
+2025-09-03,Bridgewater (VA),Catholic,2,0,FINAL,6475579
+2025-09-03,Goucher,Marymount (VA),0,5,FINAL,6475658
+2025-09-03,Salisbury,Washington Col.,1,1,FINAL,6475985
+2025-09-03,Rhode Island Col.,Salve Regina,2,0,FINAL,6477509
+2025-09-03,Eastern,Rutgers-Newark,1,0,FINAL,6496443
+2025-09-03,Bryn Mawr,Cedar Crest,3,0,FINAL,6473126
+2025-09-03,Kenyon,Thiel,9,0,FINAL,6473510
+2025-09-03,Penn St.-Abington,Gwynedd Mercy,1,0,FINAL,6476534
+2025-09-03,Southern Va.,Mary Washington,1,3,FINAL,6471399
+2025-09-03,Randolph-Macon,McDaniel,1,3,FINAL,6471594
+2025-09-03,Marian (WI),Beloit,1,0,FINAL,6471612
+2025-09-03,Wooster,Bluffton,3,0,FINAL,6471659
+2025-09-03,Albion,Capital,0,1,FINAL,6471835
+2025-09-03,Hood,St. Mary's (MD),0,1,FINAL,6472429
+2025-09-03,Hamline,Central (IA),2,2,FINAL,6472833
+2025-09-03,Oberlin,Kalamazoo,0,2,FINAL,6472989
+2025-09-03,DePauw,Franklin,2,0,FINAL,6473762
+2025-09-03,Lake Forest,Aurora,4,1,FINAL,6472451
+2025-09-03,Minn.-Morris,Martin Luther,3,5,FINAL,6474927
+2025-09-03,Edgewood,Cornell College,2,0,FINAL,6476897
+2025-09-03,Bethany Lutheran,Gustavus Adolphus,0,3,FINAL,6477627
+2025-09-03,Elmira,King's (PA),0,1,FINAL,6471421
+2025-09-03,Waynesburg,La Roche,8,0,FINAL,6471917
+2025-09-03,Stockton,Drew,1,1,FINAL,6472430
+2025-09-03,Trinity (CT),Anna Maria,7,0,FINAL,6473729
+2025-09-03,SUNY Poly,SUNY Potsdam,0,1,FINAL,6474122
+2025-09-03,Belhaven,LeTourneau,0,0,FINAL,6475742
+2025-09-03,MUW,Rhodes,0,1,FINAL,6474174
+2025-09-03,Mount Aloysius,Penn College,0,0,FINAL,6471366
+2025-09-03,Huntingdon,Millsaps,1,3,FINAL,6471690
+2025-09-03,Guilford,Methodist,1,1,FINAL,6471912
+2025-09-03,Salem St.,Keene St.,1,0,FINAL,6471990
+2025-09-03,Baldwin Wallace,Allegheny,1,1,FINAL,6472035
+2025-09-03,St. John Fisher,Buffalo St.,3,0,FINAL,6472210
+2025-09-03,Husson,Bates,1,2,FINAL,6472216
+2025-09-03,Adrian,Manchester,3,0,FINAL,6472460
+2025-09-03,Norwich,VTSU Castleton,2,1,FINAL,6472514
+2025-09-03,Elms,Fitchburg St.,2,1,FINAL,6472523
+2025-09-03,Rochester (NY),St. Lawrence,0,0,FINAL,6472578
+2025-09-03,Delaware Valley,Neumann,1,1,FINAL,6472609
+2025-09-03,York (PA),Gettysburg,1,0,FINAL,6472646
+2025-09-03,Emory,Berry,2,1,FINAL,6472711
+2025-09-03,Wartburg,St. Olaf,0,3,FINAL,6473261
+2025-09-03,Penn St. Harrisburg,Susquehanna,4,1,FINAL,6473519
+2025-09-03,John Carroll,CWRU,0,6,FINAL,6473664
+2025-09-03,Mount Union,Chatham,2,0,FINAL,6474011
+2025-09-03,Wilmington (OH),Spalding,2,0,FINAL,6474084
+2025-09-03,Alvernia,Lebanon Valley,0,1,FINAL,6474297
+2025-09-03,Eastern Conn. St.,Saint Joseph (CT),4,0,FINAL,6474368
+2025-09-03,Sarah Lawrence,CCNY,5,1,FINAL,6474499
+2025-09-03,Regis (MA),Gordon,0,5,FINAL,6474653
+2025-09-03,Albertus Magnus,Mount Holyoke,1,0,FINAL,6474758
+2025-09-03,Johns Hopkins,Messiah,0,1,FINAL,6474812
+2025-09-03,Shenandoah,Stevenson,1,1,FINAL,6475127
+2025-09-03,Ohio Northern,Wittenberg,2,2,FINAL,6475236
+2025-09-03,Muskingum,Hiram,1,0,FINAL,6475512
+2025-09-03,UMass Boston,Coast Guard,4,1,FINAL,6475647
+2025-09-03,Swarthmore,Rutgers-Camden,0,0,FINAL,6475831
+2025-09-03,Ohio Wesleyan,Franciscan,2,1,FINAL,6476225
+2025-09-03,Cairn,Centenary (NJ),2,2,FINAL,6476574
+2025-09-03,Muhlenberg,DeSales,2,1,FINAL,6476600
+2025-09-03,Mass. Maritime,Simmons,0,3,FINAL,6477002
+2025-09-03,Worcester St.,Wheaton (MA),2,0,FINAL,6477368
+2025-09-03,Augustana (IL),Illinois Col.,0,0,FINAL,6477384
+2025-09-03,Bridgewater St.,JWU (Providence),2,5,FINAL,6477572
+2025-09-03,Wm. Paterson,Wilkes,0,1,FINAL,6477717
+2025-09-03,Kean,FDU-Florham,2,1,FINAL,6471531
+2025-09-03,Misericordia,Moravian,4,0,FINAL,6473430
+2025-09-03,Juniata,Dickinson,0,4,FINAL,6477460
+2025-09-03,Luther,Wis.-Whitewater,1,1,FINAL,6471401
+2025-09-03,Wis.-Stout,St. Catherine,1,5,FINAL,6471817
+2025-09-03,St. Norbert,Wis.-Stevens Point,0,2,FINAL,6471986
+2025-09-03,Illinois Tech,North Central (IL),1,0,FINAL,6477074
+2025-09-03,Ripon,Lakeland,1,1,FINAL,6477342
+2025-09-03,Benedictine (IL),Elmhurst,0,1,FINAL,6477643
+2025-09-03,Crown (MN),Macalester,0,8,FINAL,6475426
+2025-09-04,Farmingdale St.,Yeshiva,11,0,FINAL,6471948
+2025-09-04,VTSU-Johnson,SUNY Potsdam,0,1,FINAL,6474133
+2025-09-04,Warren Wilson,LaGrange,0,0,FINAL,6477037
+2025-09-04,Rockford,Luther,0,7,FINAL,6474131
+2025-09-04,Howard Payne,Concordia (TX),4,0,FINAL,6476467
+2025-09-04,Hardin-Simmons,McMurry,2,0,FINAL,6475278
+2025-09-04,St. Mary's (IN),North Central (MN),5,1,FINAL,6471940
+2025-09-05,East Tex. Baptist,St. Thomas (TX),1,0,FINAL,6474754
+2025-09-05,Oswego St.,Keuka,4,0,FINAL,6476100
+2025-09-05,Carleton,Hope,3,0,FINAL,6477375
+2025-09-05,La Roche,Wash. & Jeff.,0,2,FINAL,6471918
+2025-09-05,Covenant,Rhodes,0,5,FINAL,6473379
+2025-09-05,Penn St.-Altoona,Bethany (WV),2,1,FINAL,6473733
+2025-09-05,Fredonia,Utica,2,2,FINAL,6476857
+2025-09-05,Concordia-M'head,Northwestern-St. Paul,0,1,FINAL,6477317
+2025-09-05,Concordia Chicago,Dubuque,0,4,FINAL,6471579
+2025-09-05,WashU,Calvin,2,0,FINAL,6472441
+2025-09-05,WPI,Cortland,1,1,FINAL,6472895
+2025-09-05,Meredith,Roanoke,0,2,FINAL,6474321
+2025-09-05,Saint Mary's (MN),Grinnell,2,0,FINAL,6472339
+2025-09-05,Denison,Baldwin Wallace,5,1,FINAL,6472474
+2025-09-05,Trine,RIT,0,0,FINAL,6476053
+2025-09-05,Wis.-La Crosse,Lawrence,5,0,FINAL,6477417
+2025-09-05,Maryville (TN),John Carroll,0,1,FINAL,6476320
+2025-09-05,Warren Wilson,Agnes Scott,2,4,FINAL,6476966
+2025-09-05,Wis.-Platteville,St. Scholastica,1,0,FINAL,6473517
+2025-09-05,Dallas,Trinity (TX),0,3,FINAL,6474467
+2025-09-05,Chris. Newport,Mary Hardin-Baylor,1,0,FINAL,6471961
+2025-09-05,UMass Dartmouth,Curry,2,1,FINAL,6471991
+2025-09-05,Piedmont,Oglethorpe,0,2,FINAL,6473099
+2025-09-05,Lynchburg,New Jersey City,2,0,FINAL,6473648
+2025-09-05,SUNY Morrisville,SUNY Cobleskill ,5,2,FINAL,6474272
+2025-09-05,Batten,Mt. St. Joseph,2,0,FINAL,6475693
+2025-09-05,Wheaton (IL),Wis.-Eau Claire,1,1,FINAL,6471628
+2025-09-05,Pacific Lutheran,Cal Lutheran,0,1,FINAL,6474836
+2025-09-05,Belhaven,Southwestern (TX),0,1,FINAL,6475002
+2025-09-05,Macalester,Simpson,0,1,FINAL,6475141
+2025-09-05,Puget Sound,Pomona-Pitzer,0,1,FINAL,6477812
+2025-09-05,Pacific (OR),UC Santa Cruz,0,3,FINAL,6474433
+2025-09-05,Willamette,Redlands,2,2,FINAL,6474521
+2025-09-05,Chapman,MSOE,1,1,FINAL,6476812
+2025-09-06,Notre Dame (MD),Goucher,1,2,FINAL,6476116
+2025-09-06,Plymouth St.,Nichols,5,2,FINAL,6474337
+2025-09-06,Hamilton,Middlebury,0,1,FINAL,6471455
+2025-09-06,Drew,Farmingdale St.,3,1,FINAL,6471949
+2025-09-06,TCNJ,NYU,2,4,FINAL,6472053
+2025-09-06,Trinity (CT),Bates,2,0,FINAL,6472320
+2025-09-06,JWU (Providence),Wesleyan (CT),0,1,FINAL,6472395
+2025-09-06,Fitchburg St.,Worcester St.,0,1,FINAL,6472584
+2025-09-06,Rivier,Regis (MA),3,2,FINAL,6475943
+2025-09-06,Colby,Bowdoin,1,0,FINAL,6476171
+2025-09-06,Carnegie Mellon,Ohio Northern,1,0,FINAL,6477457
+2025-09-06,Connecticut Col.,Amherst,0,3,FINAL,6472192
+2025-09-06,Vassar,Scranton,3,2,FINAL,6474559
+2025-09-06,Centenary (NJ),SUNY Maritime,8,1,FINAL,6471470
+2025-09-06,Spalding,Hanover,2,1,FINAL,6471479
+2025-09-06,MCLA,Framingham St.,4,1,FINAL,6471895
+2025-09-06,U New England,Southern Me.,2,1,FINAL,6472124
+2025-09-06,Dean,Colby-Sawyer,2,3,FINAL,6472140
+2025-09-06,SUNY Brockport,Buffalo St.,0,0,FINAL,6472213
+2025-09-06,Elizabethtown,Lebanon Valley,0,2,FINAL,6472544
+2025-09-06,SUNY Oneonta,Skidmore,1,0,FINAL,6472838
+2025-09-06,Augustana (IL),Wis.-Platteville,2,4,FINAL,6473522
+2025-09-06,Anna Maria,Bridgewater St.,0,7,FINAL,6473754
+2025-09-06,Hartwick,Rensselaer,1,0,FINAL,6473780
+2025-09-06,Swarthmore,Sarah Lawrence,3,0,FINAL,6474501
+2025-09-06,Misericordia,Gordon,4,0,FINAL,6474655
+2025-09-06,Salem St.,Mass. Maritime,4,0,FINAL,6474772
+2025-09-06,Franklin & Marshall,Wash. & Lee,0,1,FINAL,6475094
+2025-09-06,Transylvania,Sewanee,0,0,FINAL,6475789
+2025-09-06,Elmira,Penn College,0,6,FINAL,6476160
+2025-09-06,Ripon,Rockford,8,0,FINAL,6476338
+2025-09-06,Coast Guard,DeSales,2,0,FINAL,6476603
+2025-09-06,McDaniel,York (PA),0,2,FINAL,6477004
+2025-09-06,North Central (IL),Dominican (IL),1,0,FINAL,6477159
+2025-09-06,Tufts,Williams,2,1,FINAL,6471565
+2025-09-06,Fredonia,Keuka,1,1,FINAL,6476102
+2025-09-06,Utica,Oswego St.,0,1,FINAL,6476859
+2025-09-06,Lycoming,Mount Aloysius,7,1,FINAL,6471367
+2025-09-06,Carthage,Concordia Wisconsin,0,0,FINAL,6471381
+2025-09-06,Hilbert,Alfred,1,4,FINAL,6471501
+2025-09-06,Gettysburg,Randolph-Macon,2,0,FINAL,6471595
+2025-09-06,Heidelberg,Wooster,1,3,FINAL,6471660
+2025-09-06,Plattsburgh St.,VTSU-Johnson,6,1,FINAL,6471675
+2025-09-06,Springfield,Hartford,1,4,FINAL,6471878
+2025-09-06,Keene St.,Wheaton (MA),0,4,FINAL,6471995
+2025-09-06,Penn St.-Berks,Alfred St.,2,1,FINAL,6472183
+2025-09-06,St. Joseph's (L.I.),Stevens,1,0,FINAL,6472312
+2025-09-06,Centre,Wilmington (OH),1,0,FINAL,6472454
+2025-09-06,Elms,Norwich,2,1,FINAL,6472515
+2025-09-06,Penn St.-Behrend,St. John Fisher,1,0,FINAL,6472521
+2025-09-06,St. Olaf,Hope,3,1,FINAL,6473263
+2025-09-06,Covenant,John Carroll,0,2,FINAL,6473381
+2025-09-06,Grove City,CWRU,0,6,FINAL,6473666
+2025-09-06,Bryn Mawr,Hood,1,0,FINAL,6473849
+2025-09-06,Chatham,Pitt.-Bradford,6,0,FINAL,6474013
+2025-09-06,Susquehanna,Delaware Valley,4,0,FINAL,6474205
+2025-09-06,Merchant Marine,WestConn,0,1,FINAL,6474232
+2025-09-06,Simmons,Eastern Conn. St.,0,5,FINAL,6474294
+2025-09-06,Clark (MA),Western New Eng.,1,1,FINAL,6474905
+2025-09-06,Cairn,Eastern,0,4,FINAL,6475525
+2025-09-06,Salisbury,Rowan,0,1,FINAL,6475987
+2025-09-06,Emerson,Suffolk,0,0,FINAL,6476559
+2025-09-06,Albion,Earlham,3,0,FINAL,6476593
+2025-09-06,Webster,Benedictine (IL),2,0,FINAL,6476726
+2025-09-06,Salem (NC),Wesleyan (GA),7,0,FINAL,6476779
+2025-09-06,Brandeis,Rhode Island Col.,2,0,FINAL,6477297
+2025-09-06,Me.-Presque Isle,Maine Maritime,0,5,FINAL,6477366
+2025-09-06,Valley Forge,Brooklyn,0,1,FINAL,6477406
+2025-09-06,Kenyon,Franciscan,3,0,FINAL,6477444
+2025-09-06,Lakeland,Monmouth (IL),2,3,FINAL,6496565
+2025-09-06,Albright,Juniata,0,0,FINAL,6532115
+2025-09-06,Ithaca,Stockton,0,1,FINAL,6472237
+2025-09-06,Saint Joseph (CT),New England Col.,6,0,FINAL,6474608
+2025-09-06,Me.-Farmington,Wentworth,1,5,FINAL,6471548
+2025-09-06,St. Mary's (IN),Bluffton,5,0,FINAL,6471942
+2025-09-06,Augsburg,Bethany Lutheran,10,0,FINAL,6472957
+2025-09-06,St. Catherine,UW-River Falls,4,0,FINAL,6473851
+2025-09-06,LaGrange,MUW,1,0,FINAL,6474176
+2025-09-06,Illinois Col.,Ill. Wesleyan,0,3,FINAL,6474374
+2025-09-06,Mary Washington,N.C. Wesleyan,4,0,FINAL,6474550
+2025-09-06,Maranatha Baptist,Martin Luther,0,4,FINAL,6474929
+2025-09-06,Buena Vista,Minn.-Morris,1,2,FINAL,6475070
+2025-09-06,Coe,Crown (MN),1,1,FINAL,6475431
+2025-09-06,Haverford,Catholic,1,3,FINAL,6475584
+2025-09-06,Ramapo,Manhattanville,1,0,FINAL,6476275
+2025-09-06,Washington Col.,Stevenson,1,0,FINAL,6476384
+2025-09-06,Dickinson,Bridgewater (VA),2,0,FINAL,6476801
+2025-09-06,Knox,Aurora,1,0,FINAL,6471707
+2025-09-06,Immaculata,Cedar Crest,3,0,FINAL,6471938
+2025-09-06,Saint Mary's (MN),Lawrence,3,0,FINAL,6472346
+2025-09-06,St. Lawrence,Nazareth,2,1,FINAL,6473321
+2025-09-06,Alvernia,Wilkes,0,1,FINAL,6472108
+2025-09-06,Gustavus Adolphus,Wis.-Oshkosh,1,1,FINAL,6472160
+2025-09-06,Neb. Wesleyan,Northwestern-St. Paul,5,2,FINAL,6472595
+2025-09-06,UMass Boston,Russell Sage,1,0,FINAL,6475649
+2025-09-06,Mount Mary,Principia,0,2,FINAL,6477177
+2025-09-06,Lasell,Mt. St. Mary (NY),2,1,FINAL,6477636
+2025-09-06,King's (PA),Widener,1,2,FINAL,6471422
+2025-09-06,Hiram,Olivet,1,0,FINAL,6474978
+2025-09-06,Maryville (TN),Rhodes,1,2,FINAL,6476322
+2025-09-06,Wis.-Superior,Wis.-Stout,0,1,FINAL,6471818
+2025-09-06,Greenville,Calvin,0,1,FINAL,6472297
+2025-09-06,Union (NY),Babson,1,1,FINAL,6472376
+2025-09-06,St. Mary's (MD),William Smith,0,0,FINAL,6472435
+2025-09-06,Bethel (MN),Kalamazoo,0,3,FINAL,6472991
+2025-09-06,Geneva,Oberlin,0,0,FINAL,6473171
+2025-09-06,New Jersey City,Roanoke,0,1,FINAL,6474323
+2025-09-06,Millikin,Westminster (MO),2,1,FINAL,6474689
+2025-09-06,Randolph,William Peace,2,0,FINAL,6476147
+2025-09-06,Illinois Tech,Elmhurst,4,0,FINAL,6477076
+2025-09-06,Wis.-La Crosse,Grinnell,4,0,FINAL,6477261
+2025-09-06,Endicott,Roger Williams,0,1,FINAL,6472182
+2025-09-06,Pitt.-Greensburg,Penn St. Harrisburg,3,5,FINAL,6473524
+2025-09-06,Saint Benedict,Wartburg,1,2,FINAL,6474860
+2025-09-06,Averett,Greensboro,1,4,FINAL,6471849
+2025-09-06,Allegheny,Marietta,1,1,FINAL,6472037
+2025-09-06,Moravian,Marywood,0,2,FINAL,6472871
+2025-09-06,Shenandoah,Johns Hopkins,1,3,FINAL,6474814
+2025-09-06,MIT,Trinity (TX),3,1,FINAL,6474942
+2025-09-06,RIT,Wis.-Eau Claire,2,1,FINAL,6476946
+2025-09-06,Franklin,Muskingum,4,1,FINAL,6477781
+2025-09-06,Waynesburg,Keystone,15,0,FINAL,6471964
+2025-09-06,Rochester (NY),Clarkson,1,1,FINAL,6472580
+2025-09-06,Adrian,Otterbein,1,0,FINAL,6474120
+2025-09-06,Loras,North Park,3,0,FINAL,6476131
+2025-09-06,Wis.-Whitewater,Marian (WI),1,1,FINAL,6471402
+2025-09-06,FDU-Florham,Wm. Paterson,0,2,FINAL,6471532
+2025-09-06,LeTourneau,Millsaps,3,0,FINAL,6471691
+2025-09-06,Wittenberg,Asbury,4,2,FINAL,6472202
+2025-09-06,Neumann,Muhlenberg,1,2,FINAL,6472588
+2025-09-06,Lynchburg,Meredith,3,0,FINAL,6473651
+2025-09-06,Ohio Wesleyan,Hardin-Simmons,0,0,FINAL,6475281
+2025-09-06,SUNY Delhi,SUNY Poly,3,1,FINAL,6476837
+2025-09-06,Messiah,Ursinus,3,0,FINAL,6472998
+2025-09-06,Howard Payne,Texas Lutheran,1,3,FINAL,6471437
+2025-09-06,Wheaton (IL),Trine,1,0,FINAL,6471629
+2025-09-06,Saint Vincent,Marymount (VA),3,1,FINAL,6475664
+2025-09-06,Carroll (WI),Edgewood,0,0,FINAL,6476899
+2025-09-07,Amherst,Smith,2,1,FINAL,6477687
+2025-09-07,Claremont-M-S,MSOE,4,2,FINAL,6476815
+2025-09-07,Chris. Newport,Mt. St. Joseph,4,0,FINAL,6471963
+2025-09-07,Arcadia,NYU,0,0,FINAL,6474693
+2025-09-07,Drew,Ithaca,0,1,FINAL,6472240
+2025-09-07,Wesleyan (CT),WestConn,5,0,FINAL,6472399
+2025-09-07,Salisbury,William Smith,0,3,FINAL,6472762
+2025-09-07,Hartwick,Skidmore,1,1,FINAL,6472840
+2025-09-07,Emmanuel (MA),Colby,2,2,FINAL,6473345
+2025-09-07,Wash. & Jeff.,Penn St.-Altoona,4,1,FINAL,6473735
+2025-09-07,Dallas,MIT,0,7,FINAL,6474470
+2025-09-07,Mount Holyoke,DeSales,1,1,FINAL,6474732
+2025-09-07,Batten,Mary Hardin-Baylor,1,1,FINAL,6475620
+2025-09-07,SUNY Oneonta,Rensselaer,0,1,FINAL,6476504
+2025-09-07,Salem (NC),Agnes Scott,0,0,FINAL (OT),6476781
+2025-09-07,Cornell College,Minn.-Morris,4,0,FINAL,6477680
+2025-09-07,Wellesley,Brandeis,1,2,FINAL,6474241
+2025-09-07,Me.-Farmington,New England Col.,5,1,FINAL,6471549
+2025-09-07,East. Mennonite,Brevard,0,4,FINAL,6472597
+2025-09-07,Lewis & Clark,UC Santa Cruz,1,4,FINAL,6473027
+2025-09-07,Yeshiva,Old Westbury,0,8,FINAL,6473160
+2025-09-07,Saint Benedict,Emory,0,4,FINAL,6473820
+2025-09-07,Carthage,Bethel (MN),2,1,FINAL,6475910
+2025-09-07,Centenary (LA),Huntingdon,1,3,FINAL,6477141
+2025-09-07,TCNJ,SUNY New Paltz,1,0,FINAL,6471504
+2025-09-07,Denison,Carnegie Mellon,1,2,FINAL,6472475
+2025-09-07,Lakeland,Martin Luther,0,1,FINAL,6474931
+2025-09-07,Dubuque,St. Scholastica,2,1,FINAL,6471580
+2025-09-07,St. Norbert,Lake Forest,0,4,FINAL,6471992
+2025-09-07,Salve Regina,Connecticut Col.,0,1,FINAL,6472194
+2025-09-07,DePauw,Centre,0,2,FINAL,6473760
+2025-09-07,Belhaven,St. Thomas (TX),2,2,FINAL,6474761
+2025-09-07,Simpson,Carleton,0,3,FINAL,6475145
+2025-09-07,Colby-Sawyer,Thomas (ME),2,0,FINAL,6475552
+2025-09-07,Beloit,Concordia Chicago,1,1,FINAL,6476389
+2025-09-07,Capital,Hardin-Simmons,1,1,FINAL,6471836
+2025-09-07,Farmingdale St.,Stockton,1,1,FINAL,6471954
+2025-09-07,Middlebury,VTSU Castleton,5,0,FINAL,6471456
+2025-09-07,WashU,Rose-Hulman,4,0,FINAL,6471742
+2025-09-07,Wesleyan (GA),Berea,0,5,FINAL,6471759
+2025-09-07,Rowan,St. Mary's (MD),4,0,FINAL,6472439
+2025-09-07,Concordia-M'head,Neb. Wesleyan,0,0,FINAL,6472602
+2025-09-07,Pacific Lutheran,Pomona-Pitzer,0,1,FINAL,6474838
+2025-09-07,Puget Sound,Cal Lutheran,1,2,FINAL,6477765
+2025-09-07,Concordia Wisconsin,Kalamazoo,0,0,FINAL,6471382
+2025-09-07,Coe,Knox,0,2,FINAL,6471708
+2025-09-07,Saint Vincent,Penn St. Harrisburg,0,2,FINAL,6473528
+2025-09-07,Wash. & Lee,Johns Hopkins,2,1,FINAL,6474816
+2025-09-07,Linfield,Redlands,2,0,FINAL,6475460
+2025-09-07,Pitt.-Greensburg,Marymount (VA),0,0,FINAL,6475669
+2025-09-07,East Tex. Baptist,Southwestern (TX),0,0,FINAL,6475004
+2025-09-07,Wis.-Stevens Point,Hamline,0,0,FINAL,6472775
+2025-09-08,Albertus Magnus,Purchase,5,0,FINAL,6473982
+2025-09-08,St. Catherine,Emory,0,2,FINAL,6473822
+2025-09-08,Warren Wilson,William Peace,1,2,FINAL,6476149
+2025-09-08,Neumann,Wilson,2,0,FINAL,6472591
+2025-09-08,Gwynedd Mercy,Lancaster Bible,1,2,FINAL,6476024
+2025-09-08,Monmouth (IL),Blackburn,5,0,FINAL,6477128
+2025-09-08,Penn St.-Berks,Montclair St.,1,5,FINAL,6472189
+2025-09-08,Carroll (WI),Wis.-Whitewater,3,2,FINAL,6471403
+2025-09-08,John Jay,St. Joseph's (Brkln),3,0,FINAL,6475048
+2025-09-09,York (PA),Franklin & Marshall,1,2,FINAL,6496416
+2025-09-09,Smith,Cortland,2,5,FINAL,6473444
+2025-09-09,Nichols,Fitchburg St.,4,2,FINAL,6472594
+2025-09-09,Augustana (IL),Kalamazoo,0,1,FINAL,6473909
+2025-09-09,Western New Eng.,Union (NY),0,3,FINAL,6472379
+2025-09-09,Olivet,Manchester,1,0,FINAL,6472477
+2025-09-09,Plymouth St.,Norwich,1,2,FINAL,6472517
+2025-09-09,Heidelberg,CWRU,0,1,FINAL,6473669
+2025-09-09,Delaware Valley,Eastern,0,3,FINAL,6475532
+2025-09-09,Kenyon,Hiram,2,0,FINAL,6475514
+2025-09-09,Colby,Southern Me.,5,0,FINAL,6476174
+2025-09-09,Oswego St.,Hamilton,1,3,FINAL,6476768
+2025-09-09,Rockford,Beloit,0,3,FINAL,6476340
+2025-09-09,Lycoming,Westminster (PA),4,1,FINAL,6471725
+2025-09-09,Hartford,Eastern Conn. St.,3,0,FINAL,6471879
+2025-09-09,Elms,MCLA,4,0,FINAL,6471896
+2025-09-09,Bard,SUNY Poly,3,2,FINAL,6473963
+2025-09-09,Utica,SUNY Potsdam,2,0,FINAL,6474136
+2025-09-09,Saint Joseph (CT),Trinity (CT),0,3,FINAL,6474613
+2025-09-09,Hood,Goucher,2,0,FINAL,6476120
+2025-09-09,SUNY Delhi,Russell Sage,0,1,FINAL,6477815
+2025-09-09,Berry,Covenant,1,1,FINAL,6472713
+2025-09-09,Muhlenberg,Moravian,0,1,FINAL,6473432
+2025-09-09,Merchant Marine,Yeshiva,12,0,FINAL,6475378
+2025-09-09,Clarkson,SUNY Canton,6,0,FINAL,6475420
+2025-09-09,Mass. Maritime,Lesley,0,4,FINAL,6476185
+2025-09-09,Ohio Wesleyan,Baldwin Wallace,3,0,FINAL,6476227
+2025-09-09,Suffolk,Rivier,5,0,FINAL,6476561
+2025-09-09,Pitt.-Bradford,Houghton,0,6,FINAL,6477741
+2025-09-09,Simpson,Cornell College,10,0,FINAL,6475147
+2025-09-09,MSOE,Lake Forest,0,4,FINAL,6476639
+2025-09-09,Elmhurst,Ripon,2,0,FINAL,6477647
+2025-09-10,Mitchell,Albertus Magnus,0,6,FINAL,6530663
+2025-09-10,Concordia Wisconsin,Loras,1,4,FINAL,6471383
+2025-09-10,St. Joseph's (L.I.),Wm. Paterson,2,0,FINAL,6475912
+2025-09-10,St. Scholastica,Bethany Lutheran,4,0,FINAL,6476982
+2025-09-10,Brooklyn,Manhattanville,1,5,FINAL,6477408
+2025-09-10,Old Westbury,York (NY),4,0,FINAL,6473247
+2025-09-10,Skidmore,Plattsburgh St.,3,1,FINAL,6471677
+2025-09-10,Mary Baldwin,Hollins,3,0,FINAL,6471804
+2025-09-10,Meredith,Guilford,0,2,FINAL,6471913
+2025-09-10,Immaculata,Lebanon Valley,0,2,FINAL,6471941
+2025-09-10,Pitt.-Greensburg,Waynesburg,1,0,FINAL,6471959
+2025-09-10,Keene St.,Westfield St.,1,0,FINAL,6472002
+2025-09-10,Neumann,Albright,4,3,FINAL,6472064
+2025-09-10,Lasell,U New England,0,3,FINAL,6472126
+2025-09-10,Dean,Framingham St.,0,2,FINAL,6472146
+2025-09-10,Concordia-M'head,Wis.-Superior,0,0,FINAL,6472319
+2025-09-10,Earlham,Wilmington (OH),0,3,FINAL,6472455
+2025-09-10,Nazareth,Rochester (NY),1,4,FINAL,6472581
+2025-09-10,Keuka,Hilbert,1,1,FINAL,6473944
+2025-09-10,Salve Regina,Gordon,1,0,FINAL,6474657
+2025-09-10,Johns Hopkins,Salisbury,4,1,FINAL,6474818
+2025-09-10,New Jersey City,Mt. St. Mary (NY),2,1,FINAL,6474867
+2025-09-10,McDaniel,Messiah,0,1,FINAL,6475192
+2025-09-10,Regis (MA),Tufts,0,6,FINAL,6475261
+2025-09-10,Franklin,Alma,0,2,FINAL,6475876
+2025-09-10,N.C. Wesleyan,Randolph,2,1,FINAL,6476886
+2025-09-10,Wheaton (MA),Bridgewater St.,3,0,FINAL,6495846
+2025-09-10,Fredonia,SUNY Geneseo,2,1,FINAL,6495914
+2025-09-10,Centenary (NJ),Stockton,0,5,FINAL,6496526
+2025-09-10,Hanover,Otterbein,3,1,FINAL,6471481
+2025-09-10,Roanoke,Randolph-Macon,1,1,FINAL,6471596
+2025-09-10,UChicago,Wheaton (IL),7,0,FINAL,6471630
+2025-09-10,Franciscan,Wooster,0,1,FINAL,6471661
+2025-09-10,Elmira,Buffalo St.,4,2,FINAL,6472218
+2025-09-10,St. Olaf,Wis.-Stevens Point,6,1,FINAL,6473265
+2025-09-10,UW-River Falls,Gustavus Adolphus,3,0,FINAL,6473855
+2025-09-10,Bridgewater (VA),Mary Washington,3,1,FINAL,6474554
+2025-09-10,MSOE,Wis.-Oshkosh,2,1,FINAL,6472162
+2025-09-10,Huntingdon,MUW,2,2,FINAL,6474178
+2025-09-10,Illinois Col.,Central (IA),0,2,FINAL,6477669
+2025-09-10,Averett,Methodist,0,3,FINAL,6471850
+2025-09-10,Anna Maria,Simmons,2,3,FINAL,6472180
+2025-09-10,Coast Guard,Connecticut Col.,0,1,FINAL,6472196
+2025-09-10,Husson,St. Joseph's (ME),4,1,FINAL,6472220
+2025-09-10,Widener,Ursinus,0,1,FINAL,6473000
+2025-09-10,Oberlin,Muskingum,3,1,FINAL,6473405
+2025-09-10,Catholic,Marymount (VA),1,1,FINAL,6475590
+2025-09-10,Sewanee,Maryville (TN),2,0,FINAL,6475791
+2025-09-10,Ramapo,Penn St.-Abington,2,1,FINAL,6476278
+2025-09-10,North Park,St. Norbert,1,0,FINAL,6472000
+2025-09-10,Mount Aloysius,Saint Vincent,0,1,FINAL,6471368
+2025-09-10,Wilkes,King's (PA),0,0,FINAL,6471423
+2025-09-10,FDU-Florham,Rutgers-Newark,3,2,FINAL,6471533
+2025-09-10,Asbury,Berea,5,0,FINAL,6471760
+2025-09-10,Edgewood,Wis.-Stout,3,2,FINAL,6471819
+2025-09-10,Roger Williams,UMass Dartmouth,5,0,FINAL,6471997
+2025-09-10,Penn St.-Behrend,Allegheny,2,0,FINAL,6472038
+2025-09-10,Arcadia,TCNJ,1,0,FINAL,6472058
+2025-09-10,Penn St.-Berks,Haverford,0,1,FINAL,6472195
+2025-09-10,Calvin,North Central (IL),0,1,FINAL,6472306
+2025-09-10,Stevens,NYU,0,1,FINAL,6472317
+2025-09-10,Bates,Thomas (ME),8,0,FINAL,6472322
+2025-09-10,WPI,Wesleyan (CT),0,3,FINAL,6472400
+2025-09-10,Stevenson,St. Mary's (MD),1,0,FINAL,6472443
+2025-09-10,RIT,St. John Fisher,1,1,FINAL,6472524
+2025-09-10,Brevard,Piedmont,2,0,FINAL,6472635
+2025-09-10,Cedar Crest,John Jay,0,1,FINAL,6473128
+2025-09-10,Mount Union,Geneva,2,0,FINAL,6473173
+2025-09-10,Thiel,Penn College,1,6,FINAL,6473530
+2025-09-10,Cairn,Bryn Mawr,0,6,FINAL,6473853
+2025-09-10,Sarah Lawrence,Kean,1,1,FINAL,6473906
+2025-09-10,Susquehanna,Notre Dame (MD),4,0,FINAL,6474207
+2025-09-10,UMass Boston,Wellesley,0,0,FINAL,6474243
+2025-09-10,WestConn,Vassar,0,5,FINAL,6474563
+2025-09-10,Mount Holyoke,Wentworth,0,0,FINAL,6474728
+2025-09-10,MIT,JWU (Providence),3,0,FINAL,6474945
+2025-09-10,Shenandoah,Southern Va.,4,0,FINAL,6475134
+2025-09-10,Endicott,Emerson,1,0,FINAL,6475395
+2025-09-10,Centre,Transylvania,3,0,FINAL,6475794
+2025-09-10,Rowan,Swarthmore,2,1,FINAL,6475836
+2025-09-10,Scranton,Dickinson,3,1,FINAL,6476044
+2025-09-10,VTSU Castleton,Rensselaer,0,1,FINAL,6476260
+2025-09-10,Rutgers-Camden,Washington Col.,0,2,FINAL,6476387
+2025-09-10,Oglethorpe,LaGrange,1,0,FINAL,6476993
+2025-09-10,Brandeis,Clark (MA),5,0,FINAL,6477299
+2025-09-10,Curry,Rhode Island Col.,0,4,FINAL,6477330
+2025-09-10,Alvernia,Juniata,0,0,FINAL,6496534
+2025-09-10,Alfred,Alfred St.,3,0,FINAL,6471503
+2025-09-10,Spalding,Rose-Hulman,0,0,FINAL,6471743
+2025-09-10,Saint Mary's (MN),Wartburg,3,0,FINAL,6472349
+2025-09-10,Marietta,Bethany (WV),3,1,FINAL,6472493
+2025-09-10,Elizabethtown,Gettysburg,1,1,FINAL,6472548
+2025-09-10,Wittenberg,Mt. St. Joseph,2,2,FINAL,6475239
+2025-09-10,Carnegie Mellon,Wash. & Jeff.,10,0,FINAL,6477462
+2025-09-10,Wis.-Whitewater,Carthage,1,0,FINAL,6471404
+2025-09-10,Lawrence,Marian (WI),2,1,FINAL,6471613
+2025-09-10,Wis.-Platteville,Luther,2,1,FINAL,6473526
+2025-09-10,Ill. Wesleyan,Monmouth (IL),5,1,FINAL,6474379
+2025-09-10,Webster,Millikin,2,0,FINAL,6476728
+2025-09-10,Illinois Tech,Hope,2,2,FINAL,6477079
+2025-09-10,Augsburg,Wis.-Eau Claire,0,1,FINAL,6472959
+2025-09-11,St. Mary's (IN),Concordia Chicago,3,0,FINAL,6471943
+2025-09-11,Manhattanville,Yeshiva,12,0,FINAL,6477587
+2025-09-11,Mount Mary,Blackburn,0,2,FINAL,6477130
+2025-09-11,Lake Forest,Benedictine (IL),8,0,FINAL,6476641
+2025-09-11,Minn.-Morris,Hamline,0,6,FINAL,6472791
+2025-09-11,Purchase,Pratt,0,4,FINAL,6473984
+2025-09-11,Howard Payne,Schreiner,2,1,FINAL,6496413
+2025-09-11,Montclair St.,SUNY New Paltz,1,1,FINAL,6472294
+2025-09-11,Emory,Covenant,7,0,FINAL,6473396
+2025-09-11,SUNY Potsdam,Clarkson,2,0,FINAL,6474138
+2025-09-11,Salem St.,Colby-Sawyer,3,0,FINAL,6474774
+2025-09-11,Belhaven,Rhodes,0,2,FINAL,6475821
+2025-09-11,Lancaster Bible,York (PA),0,3,FINAL,6476029
+2025-09-11,Macalester,Bethel (MN),5,0,FINAL,6475914
+2025-09-11,Claremont-M-S,UC Santa Cruz,2,0,FINAL,6477523
+2025-09-12,Hollins,Salem (NC),2,4,FINAL,6471805
+2025-09-12,Rockford,Maranatha Baptist,4,0,FINAL,6476344
+2025-09-12,Eastern,Moravian,1,1,FINAL,6473434
+2025-09-12,CWRU,Chris. Newport,1,1,FINAL,6471968
+2025-09-12,SUNY Morrisville,Utica,0,5,FINAL,6474274
+2025-09-12,Shenandoah,Carnegie Mellon,1,1,FINAL,6475139
+2025-09-12,Nichols,JWU (Providence),0,4,FINAL,6477563
+2025-09-12,Meredith,Berry,1,2,FINAL,6472751
+2025-09-12,Cornell College,Augustana (IL),0,3,FINAL,6477388
+2025-09-12,Beloit,Edgewood,0,1,FINAL,6476396
+2025-09-12,Hope,Capital,2,0,FINAL,6471837
+2025-09-12,North Central (IL),WashU,0,1,FINAL,6472606
+2025-09-12,Southwestern (TX),McMurry,0,0,FINAL,6475009
+2025-09-12,Westminster (PA),Wilmington (OH),0,0,FINAL,6471726
+2025-09-12,Baldwin Wallace,Waynesburg,0,1,FINAL,6471966
+2025-09-12,Susquehanna,DeSales,1,2,FINAL,6474210
+2025-09-12,Greensboro,Roanoke,0,3,FINAL,6474381
+2025-09-12,Trinity (TX),Hardin-Simmons,2,1,FINAL,6475011
+2025-09-12,Wash. & Lee,Southern Va.,1,0,FINAL,6475101
+2025-09-12,Ohio Wesleyan,Ohio Northern,0,0,FINAL,6476229
+2025-09-12,Mass. Maritime,Bridgewater St.,0,7,FINAL,6477186
+2025-09-12,Hendrix,Millsaps,2,2,FINAL,6471692
+2025-09-12,Pacific (OR),Linfield,0,3,FINAL,6474436
+2025-09-12,George Fox,Willamette,0,0,FINAL,6474528
+2025-09-12,Crown (MN),St. Scholastica,0,4,FINAL,6475433
+2025-09-12,Mary Hardin-Baylor,Misericordia,1,4,FINAL,6475622
+2025-09-12,Lawrence,Elmhurst,1,1,FINAL,6477652
+2025-09-13,Monmouth (IL),Buena Vista,4,1,FINAL,6475075
+2025-09-13,SUNY New Paltz,King's (PA),5,0,FINAL,6471424
+2025-09-13,Trinity (CT),Middlebury,0,0,FINAL,6471457
+2025-09-13,RIT,Wooster,4,0,FINAL,6471662
+2025-09-13,Wesleyan (CT),Hamilton,1,1,FINAL,6472403
+2025-09-13,Fitchburg St.,Westfield St.,0,1,FINAL,6472599
+2025-09-13,Old Westbury,CCNY,1,0,FINAL,6473252
+2025-09-13,Brooklyn,Bard,0,2,FINAL,6473965
+2025-09-13,Warren Wilson,Sweet Briar,2,1,FINAL,6476743
+2025-09-13,Plattsburgh St.,Union (NY),0,4,FINAL,6471678
+2025-09-13,Simpson,Wis.-Platteville,0,2,FINAL,6473532
+2025-09-13,Amherst,Williams,0,1,FINAL,6471566
+2025-09-13,DePauw,Wheaton (IL),3,0,FINAL,6471632
+2025-09-13,UMass Dartmouth,Southern Me.,0,3,FINAL,6472001
+2025-09-13,Keene St.,Eastern Conn. St.,1,1,FINAL,6472125
+2025-09-13,Western New Eng.,U New England,1,2,FINAL,6472128
+2025-09-13,Bowdoin,Connecticut Col.,2,0,FINAL,6472199
+2025-09-13,Marywood,Stockton,2,0,FINAL,6472336
+2025-09-13,Saint Vincent,Wilmington (OH),2,0,FINAL,6472456
+2025-09-13,Albertus Magnus,Norwich,1,1,FINAL,6472518
+2025-09-13,Messiah,William Smith,3,0,FINAL,6472769
+2025-09-13,Bethany Lutheran,Hamline,1,1,FINAL,6472800
+2025-09-13,WPI,Clarkson,2,0,FINAL,6472898
+2025-09-13,North Park,Augsburg,2,1,FINAL,6472962
+2025-09-13,Gwynedd Mercy,Ursinus,1,2,FINAL,6472995
+2025-09-13,York (NY),Cedar Crest,1,6,FINAL,6473131
+2025-09-13,SUNY Canton,Alfred St.,0,4,FINAL,6473274
+2025-09-13,Kalamazoo,Concordia Chicago,2,0,FINAL,6473895
+2025-09-13,Vassar,UMSV,3,1,FINAL,6474568
+2025-09-13,Worcester St.,Framingham St.,1,0,FINAL,6475303
+2025-09-13,Merchant Marine,Coast Guard,0,0,FINAL,6475380
+2025-09-13,Wentworth,Endicott,1,2,FINAL,6475397
+2025-09-13,LeTourneau,LaGrange,4,0,FINAL,6475749
+2025-09-13,Lasell,Regis (MA),1,0,FINAL,6475945
+2025-09-13,Rivier,Mitchell,4,0,FINAL,6476291
+2025-09-13,Babson,Rowan,1,0,FINAL,6476424
+2025-09-13,Albion,Heidelberg,4,1,FINAL,6476597
+2025-09-13,Dickinson,Grove City,0,1,FINAL,6477469
+2025-09-13,Wm. Paterson,Penn St.-Abington,2,1,FINAL,6477719
+2025-09-13,Colby,Tufts,0,2,FINAL,6475263
+2025-09-13,Wilson,Mount Aloysius,0,2,FINAL,6471369
+2025-09-13,Keuka,Alfred,0,0,FINAL,6471505
+2025-09-13,FDU-Florham,Farmingdale St.,4,3,FINAL,6471534
+2025-09-13,Wellesley,Me.-Farmington,4,0,FINAL,6471550
+2025-09-13,VTSU-Johnson,MCLA,5,0,FINAL,6471897
+2025-09-13,Muskingum,Bluffton,1,2,FINAL,6472013
+2025-09-13,Wilkes,Lebanon Valley,0,1,FINAL,6472109
+2025-09-13,Emerson,Roger Williams,1,1,FINAL,6472184
+2025-09-13,Ithaca,Nazareth,0,0,FINAL,6472252
+2025-09-13,Denison,Centre,1,1,FINAL,6472478
+2025-09-13,Mary Baldwin,East. Mennonite,5,1,FINAL,6472604
+2025-09-13,Lehman,Valley Forge,1,2,FINAL,6473068
+2025-09-13,Kenyon,Geneva,4,0,FINAL,6473176
+2025-09-13,Oswego St.,St. Lawrence,1,2,FINAL,6473323
+2025-09-13,Olivet,Oberlin,0,4,FINAL,6473407
+2025-09-13,Lycoming,Pitt.-Greensburg,6,0,FINAL,6473595
+2025-09-13,Chatham,Penn St.-Altoona,3,3,FINAL,6473738
+2025-09-13,Maine Maritime,SUNY Cobleskill ,7,0,FINAL,6474043
+2025-09-13,Plymouth St.,Rhode Island Col.,1,5,FINAL,6474341
+2025-09-13,Brandeis,MIT,2,1,FINAL,6474947
+2025-09-13,Thomas (ME),SUNY Delhi,2,1,FINAL,6475554
+2025-09-13,Bridgewater (VA),Salisbury,1,0,FINAL,6475989
+2025-09-13,Scranton,Haverford,0,0,FINAL,6476051
+2025-09-13,Simmons,New England Col.,1,1,FINAL,6476367
+2025-09-13,SUNY Oneonta,Mt. St. Mary (NY),1,0,FINAL,6476511
+2025-09-13,Goucher,Alvernia,1,2,FINAL,6476612
+2025-09-13,Carthage,Wis. Lutheran,3,0,FINAL,6476697
+2025-09-13,Rutgers-Camden,Muhlenberg,0,0,FINAL,6477223
+2025-09-13,Benedictine (IL),Grinnell,0,1,FINAL,6477263
+2025-09-13,Millikin,Wis.-La Crosse,2,6,FINAL,6477424
+2025-09-13,Wash. & Jeff.,Juniata,1,2,FINAL,6477487
+2025-09-13,St. Joseph's (ME),Colby-Sawyer,2,0,FINAL,6477489
+2025-09-13,Rensselaer,Drew,1,0,FINAL,6477779
+2025-09-13,Dominican (IL),Dubuque,1,1,FINAL,6471581
+2025-09-13,UChicago,Calvin,2,1,FINAL,6471634
+2025-09-13,Rose-Hulman,Illinois Tech,0,3,FINAL,6471744
+2025-09-13,Hartford,Suffolk,0,1,FINAL,6471880
+2025-09-13,Bates,UMass Boston,2,0,FINAL,6472334
+2025-09-13,Neumann,Widener,1,4,FINAL,6472593
+2025-09-13,SUNY Geneseo,Hartwick,0,0,FINAL,6473782
+2025-09-13,Penn St.-Behrend,Houghton,0,0,FINAL,6473806
+2025-09-13,SUNY Brockport,Russell Sage,3,0,FINAL,6475660
+2025-09-13,Marymount (VA),Delaware Valley,1,0,FINAL,6475671
+2025-09-13,Carleton,Loras,0,2,FINAL,6476134
+2025-09-13,WestConn,VTSU Castleton,2,0,FINAL,6476262
+2025-09-13,Pitt.-Bradford,Bethany (WV),1,3,FINAL,6476507
+2025-09-13,Claremont-M-S,Chapman,2,1,FINAL,6476924
+2025-09-13,Schreiner,East Tex. Baptist,0,3,FINAL,6477017
+2025-09-13,Pomona-Pitzer,UC Santa Cruz,3,0,FINAL,6477590
+2025-09-13,Knox,Franklin,0,0,FINAL,6471709
+2025-09-13,Marian (WI),Carroll (WI),1,1,FINAL,6471614
+2025-09-13,Wis.-Oshkosh,Lake Forest,1,2,FINAL,6472164
+2025-09-13,Stevens,Sarah Lawrence,3,0,FINAL,6472318
+2025-09-13,UW-River Falls,Wis.-Superior,4,2,FINAL,6472321
+2025-09-13,Marietta,Transylvania,2,0,FINAL,6472496
+2025-09-13,Emmanuel (MA),Elms,7,0,FINAL,6472526
+2025-09-13,Franklin & Marshall,Penn St. Harrisburg,3,1,FINAL,6473473
+2025-09-13,York (PA),Bryn Mawr,4,0,FINAL,6473857
+2025-09-13,Wis.-Eau Claire,Saint Benedict,0,1,FINAL,6474869
+2025-09-13,Wartburg,Macalester,1,0,FINAL,6475327
+2025-09-13,Dean,Saint Joseph (CT),0,6,FINAL,6472150
+2025-09-13,Manchester,Illinois Col.,1,4,FINAL,6472481
+2025-09-13,Batten,Mary Washington,0,2,FINAL,6474561
+2025-09-13,Concordia Wisconsin,Wis.-Stevens Point,5,3,FINAL,6471384
+2025-09-13,Coe,Wis.-Whitewater,0,4,FINAL,6471405
+2025-09-13,Buffalo St.,Hilbert,4,1,FINAL,6472223
+2025-09-13,St. John Fisher,Elmira,6,0,FINAL,6472529
+2025-09-13,Stevenson,Elizabethtown,0,0,FINAL,6472550
+2025-09-13,Kean,John Jay,4,0,FINAL,6473913
+2025-09-13,Curry,Gordon,0,1,FINAL,6474659
+2025-09-13,Washington Col.,Hood,7,0,FINAL,6476391
+2025-09-13,Brevard,Averett,1,0,FINAL,6471851
+2025-09-13,Gustavus Adolphus,Luther,1,0,FINAL,6472265
+2025-09-13,Allegheny,Fredonia,0,1,FINAL,6472040
+2025-09-13,Augustana (IL),Neb. Wesleyan,1,0,FINAL,6472628
+2025-09-13,Greenville,Central (IA),1,3,FINAL,6475729
+2025-09-13,Wis.-Stout,Minn.-Morris,2,0,FINAL,6471820
+2025-09-13,Penn St.-Berks,Albright,2,0,FINAL,6472066
+2025-09-13,Spalding,Asbury,6,0,FINAL,6472222
+2025-09-13,Gettysburg,Catholic,1,0,FINAL,6472656
+2025-09-13,Rutgers-Newark,St. Joseph's (Brkln),11,0,FINAL,6473212
+2025-09-13,Randolph-Macon,St. Mary's (MD),2,0,FINAL,6471597
+2025-09-13,Swarthmore,TCNJ,2,2,FINAL,6472059
+2025-09-13,Maryville (TN),Lynchburg,1,4,FINAL,6473653
+2025-09-13,Adrian,Wittenberg,0,1,FINAL,6475243
+2025-09-13,Mary Hardin-Baylor,Austin,0,0,FINAL,6475624
+2025-09-13,Northwestern-St. Paul,St. Olaf,1,3,FINAL,6473270
+2025-09-13,Howard Payne,St. Thomas (TX),0,1,FINAL,6474767
+2025-09-14,Ohio Wesleyan,Chris. Newport,1,2,FINAL,6471971
+2025-09-14,Cortland,Carnegie Mellon,0,2,FINAL,6473449
+2025-09-14,Kalamazoo,Illinois Col.,4,0,FINAL,6473897
+2025-09-14,Misericordia,Texas Lutheran,1,0,FINAL,6471438
+2025-09-14,Buffalo St.,Wooster,0,0,FINAL,6471663
+2025-09-14,Trine,WashU,1,1,FINAL,6472608
+2025-09-14,Greensboro,Berry,0,6,FINAL,6472709
+2025-09-14,Southwestern (TX),Hardin-Simmons,3,4,FINAL,6475016
+2025-09-14,Thomas (ME),SUNY Cobleskill ,3,1,FINAL,6475556
+2025-09-14,Emory,Wash. & Lee,1,0,FINAL,6473824
+2025-09-14,Williams,Skidmore,4,0,FINAL,6471567
+2025-09-14,Salem (NC),Berea,3,2,FINAL,6471761
+2025-09-14,Denison,Mount Union,0,0,FINAL,6472479
+2025-09-14,Aurora,Webster,0,1,FINAL,6472541
+2025-09-14,Yeshiva,Purchase,0,10,FINAL,6473987
+2025-09-14,Maine Maritime,SUNY Delhi,3,1,FINAL,6474047
+2025-09-14,Rhodes,Hendrix,2,1,FINAL,6474597
+2025-09-14,John Carroll,Baldwin Wallace,1,0,FINAL,6476627
+2025-09-14,Centenary (LA),LaGrange,0,2,FINAL,6477145
+2025-09-14,Wis.-Stevens Point,Lawrence,2,2,FINAL,6477663
+2025-09-14,Penn College,Pitt.-Greensburg,3,1,FINAL,6477730
+2025-09-14,Grinnell,Wis.-Whitewater,1,0,FINAL,6471406
+2025-09-14,Vassar,Middlebury,0,1,FINAL,6471458
+2025-09-14,Hanover,Capital,0,2,FINAL,6471482
+2025-09-14,Ozarks (AR),Millsaps,0,0,FINAL,6471693
+2025-09-14,Farmingdale St.,Arcadia,0,2,FINAL,6471955
+2025-09-14,CWRU,Ohio Northern,6,0,FINAL,6473671
+2025-09-14,Mt. St. Joseph,Centre,0,1,FINAL,6475801
+2025-09-14,Wis.-Oshkosh,Saint Benedict,2,1,FINAL,6472168
+2025-09-14,Pacific (OR),George Fox,0,0,FINAL,6474438
+2025-09-14,Willamette,Linfield,1,4,FINAL,6474525
+2025-09-14,Oglethorpe,Huntingdon,6,0,FINAL,6476995
+2025-09-14,Manhattanville,Montclair St.,0,4,FINAL,6471506
+2025-09-14,Cornell College,Neb. Wesleyan,1,7,FINAL,6472634
+2025-09-14,Wartburg,Ill. Wesleyan,1,2,FINAL,6474383
+2025-09-14,Edgewood,Wis.-La Crosse,0,4,FINAL,6476901
+2025-09-14,Trinity (TX),McMurry,4,1,FINAL,6475014
+2025-09-14,Wis.-Stout,Bethel (MN),2,1,FINAL,6471821
+2025-09-14,Penn St.-Altoona,Juniata,0,1,FINAL,6473740
+2025-09-15,William Peace,Emory,0,9,FINAL,6473827
+2025-09-15,Hollins,Trinity Washington,10,0,FINAL,6471802
+2025-09-15,Beloit,Carroll (WI),0,3,FINAL,6476400
+2025-09-15,Saint Joseph (CT),WestConn,1,4,FINAL,6474617
+2025-09-15,Rutgers-Newark,Sarah Lawrence,2,0,FINAL,6473216
+2025-09-16,Colby-Sawyer,Keene St.,1,1,FINAL,6472127
+2025-09-16,Me.-Farmington,VTSU Lyndon,10,0,FINAL,6471551
+2025-09-16,Nichols,Rivier,2,7,FINAL,6477422
+2025-09-16,Old Westbury,Lehman,2,1,FINAL,6473066
+2025-09-16,Saint Vincent,La Roche,7,0,FINAL,6471920
+2025-09-16,Hilbert,Thiel,4,0,FINAL,6473534
+2025-09-16,Bryn Mawr,Rutgers-Camden,0,2,FINAL,6473860
+2025-09-16,Smith,Western New Eng.,1,1,FINAL,6474907
+2025-09-16,Babson,Endicott,0,0,FINAL,6475399
+2025-09-16,Bethel (MN),Saint Mary's (MN),0,1,FINAL,6472351
+2025-09-16,Wesleyan (CT),Springfield,6,0,FINAL,6472407
+2025-09-16,Hamline,Concordia-M'head,2,0,FINAL,6472802
+2025-09-16,St. Olaf,Carleton,1,1,FINAL,6473272
+2025-09-16,Wheaton (IL),Hope,0,3,FINAL,6471633
+2025-09-16,Dubuque,Wis.-Stevens Point,2,2,FINAL,6471582
+2025-09-16,TCNJ,Johns Hopkins,0,4,FINAL,6472062
+2025-09-16,UMSV,Rensselaer,0,0,FINAL,6496065
+2025-09-16,DePauw,Hanover,2,2,FINAL,6471483
+2025-09-16,Immaculata,Eastern,0,4,FINAL,6472045
+2025-09-16,U New England,Colby,0,3,FINAL,6472131
+2025-09-16,Wilmington (OH),Adrian,3,2,FINAL,6472457
+2025-09-16,Rochester (NY),St. John Fisher,3,2,FINAL,6472534
+2025-09-16,Regis (MA),Fitchburg St.,2,1,FINAL,6472603
+2025-09-16,Huntingdon,Berry,1,4,FINAL,6472715
+2025-09-16,SUNY Canton,St. Lawrence,0,7,FINAL,6473325
+2025-09-16,Covenant,Sewanee,0,3,FINAL,6473383
+2025-09-16,Otterbein,Oberlin,2,0,FINAL,6473409
+2025-09-16,Fredonia,Penn St.-Behrend,0,1,FINAL,6473808
+2025-09-16,Gordon,Tufts,1,2,FINAL,6474662
+2025-09-16,Pratt,St. Joseph's (Brkln),14,0,FINAL,6475053
+2025-09-16,Howard Payne,LeTourneau,2,0,FINAL,6475753
+2025-09-16,New England Col.,Mass. Maritime,2,0,FINAL,6476369
+2025-09-16,Clark (MA),Worcester St.,3,0,FINAL,6477370
+2025-09-16,Illinois Col.,Greenville,1,2,FINAL,6475736
+2025-09-16,Wis. Lutheran,Maranatha Baptist,12,0,FINAL,6476699
+2025-09-16,Bowdoin,Southern Me.,5,2,FINAL,6477051
+2025-09-16,Augsburg,Gustavus Adolphus,3,4,FINAL,6472964
+2025-09-17,Hiram,Pitt.-Bradford,5,0,FINAL,6475516
+2025-09-17,Russell Sage,WestConn,0,1,FINAL,6475595
+2025-09-17,Curry,UMass Boston,2,3,FINAL,6475651
+2025-09-17,Franciscan,Pitt.-Greensburg,2,1,FINAL,6477446
+2025-09-17,Saint Elizabeth,Keystone,4,1,FINAL,6471792
+2025-09-17,Concordia Chicago,Rockford,1,0,FINAL,6476347
+2025-09-17,Cortland,Alfred,1,0,FINAL,6471507
+2025-09-17,Centenary (NJ),FDU-Florham,0,5,FINAL,6471535
+2025-09-17,Randolph-Macon,Stevenson,1,1,FINAL,6471598
+2025-09-17,Norwich,Plattsburgh St.,0,2,FINAL,6471679
+2025-09-17,Wheaton (MA),Roger Williams,3,2,FINAL,6472186
+2025-09-17,Scranton,Ithaca,1,0,FINAL,6472255
+2025-09-17,Hartwick,SUNY Potsdam,0,1,FINAL,6473784
+2025-09-17,Plymouth St.,Wellesley,2,0,FINAL,6474245
+2025-09-17,Penn St.-Abington,Alvernia,1,0,FINAL,6474299
+2025-09-17,Eastern Conn. St.,Westfield St.,1,0,FINAL,6474319
+2025-09-17,SUNY Oneonta,Vassar,1,4,FINAL,6474575
+2025-09-17,Anna Maria,Albertus Magnus,1,4,FINAL,6475572
+2025-09-17,Hood,Marymount (VA),1,0,FINAL,6475673
+2025-09-17,Heidelberg,Alma,2,1,FINAL,6475887
+2025-09-17,Millikin,Trine,1,3,FINAL,6476056
+2025-09-17,Notre Dame (MD),Juniata,1,3,FINAL,6476618
+2025-09-17,Utica,Hamilton,0,1,FINAL,6476770
+2025-09-17,Middlebury,Union (NY),2,1,FINAL,6471459
+2025-09-17,William Smith,SUNY Geneseo,1,0,FINAL,6472731
+2025-09-17,Mary Baldwin,Wilson,2,2,FINAL,6475774
+2025-09-17,Anderson (IN),St. Mary's (IN),1,1,FINAL,6471945
+2025-09-17,Chris. Newport,Roanoke,2,0,FINAL,6471973
+2025-09-17,Messiah,Penn St.-Berks,7,0,FINAL,6472198
+2025-09-17,Cedar Crest,Gwynedd Mercy,0,4,FINAL,6473133
+2025-09-17,Meredith,Randolph,1,1,FINAL,6475365
+2025-09-17,DeSales,Haverford,0,0,FINAL,6476605
+2025-09-17,St. Catherine,Macalester,4,1,FINAL,6476663
+2025-09-17,Dominican (IL),MSOE,0,3,FINAL,6476821
+2025-09-17,Agnes Scott,Wesleyan (GA),1,0,FINAL,6476968
+2025-09-17,Muskingum,Earlham,4,0,FINAL,6477792
+2025-09-17,Lake Forest,Carthage,5,1,FINAL,6476643
+2025-09-17,Trinity (CT),Salve Regina,1,0,FINAL,6477614
+2025-09-17,Minn.-Morris,Bethany Lutheran,0,0,FINAL,6477683
+2025-09-17,Eureka,Knox,0,4,FINAL,6471710
+2025-09-17,Rose-Hulman,Webster,2,0,FINAL,6471745
+2025-09-17,UMass Dartmouth,WPI,0,2,FINAL,6472004
+2025-09-17,Allegheny,SUNY Brockport,0,1,FINAL,6472041
+2025-09-17,Gettysburg,Shenandoah,2,2,FINAL,6472662
+2025-09-17,Sweet Briar,Trinity Washington,10,0,FINAL,6474045
+2025-09-17,East Tex. Baptist,Hendrix,0,0,FINAL,6474599
+2025-09-17,St. Joseph's (L.I.),Merchant Marine,0,1,FINAL,6475382
+2025-09-17,Wentworth,Coast Guard,0,0,FINAL,6476480
+2025-09-17,Dickinson,York (PA),2,0,FINAL,6477011
+2025-09-17,Monmouth (IL),Coe,0,0,FINAL,6496568
+2025-09-17,Buena Vista,UW-River Falls,0,3,FINAL,6473864
+2025-09-17,Lycoming,King's (PA),4,3,FINAL,6471425
+2025-09-17,John Carroll,Westminster (PA),4,0,FINAL,6471727
+2025-09-17,Capital,Ohio Wesleyan,3,0,FINAL,6471838
+2025-09-17,Emmanuel (MA),Hartford,1,3,FINAL,6471881
+2025-09-17,VTSU Castleton,MCLA,5,0,FINAL,6471898
+2025-09-17,Greensboro,Guilford,0,0,FINAL,6471915
+2025-09-17,Albright,Wilkes,0,2,FINAL,6472070
+2025-09-17,Houghton,Buffalo St.,4,1,FINAL,6472231
+2025-09-17,Moravian,Stockton,0,2,FINAL,6472341
+2025-09-17,St. Mary's (MD),Catholic,2,1,FINAL,6472446
+2025-09-17,Marietta,Chatham,1,1,FINAL,6472499
+2025-09-17,Oswego St.,Marywood,1,3,FINAL,6472873
+2025-09-17,Rutgers-Newark,Mt. St. Mary (NY),5,1,FINAL,6473219
+2025-09-17,Arcadia,Franklin & Marshall,0,0,FINAL,6473482
+2025-09-17,Penn St. Harrisburg,McDaniel,1,2,FINAL,6473539
+2025-09-17,Penn College,Penn St.-Altoona,3,0,FINAL,6473742
+2025-09-17,Purchase,York (NY),4,0,FINAL,6473989
+2025-09-17,Spalding,Franklin,4,0,FINAL,6474087
+2025-09-17,Susquehanna,Muhlenberg,4,0,FINAL,6474212
+2025-09-17,Westminster (MO),Ill. Wesleyan,1,4,FINAL,6474390
+2025-09-17,NYU,Wm. Paterson,5,0,FINAL,6474697
+2025-09-17,Thomas (ME),Salem St.,0,0,FINAL,6474778
+2025-09-17,Bridgewater St.,MIT,1,6,FINAL,6474949
+2025-09-17,Springfield,Framingham St.,2,0,FINAL,6475305
+2025-09-17,Wartburg,Augustana (IL),5,1,FINAL,6475329
+2025-09-17,Cairn,Delaware Valley,2,3,FINAL,6475856
+2025-09-17,Ozarks (AR),Lyon,5,2,FINAL,6476007
+2025-09-17,Suffolk,Lesley,1,1,FINAL,6476187
+2025-09-17,Alfred St.,Elmira,2,0,FINAL,6476253
+2025-09-17,Drew,Ramapo,3,0,FINAL,6476282
+2025-09-17,Emerson,Amherst,0,2,FINAL,6476750
+2025-09-17,Caltech,Chapman,0,2,FINAL,6476926
+2025-09-17,St. Joseph's (ME),Simmons,1,0,FINAL,6477008
+2025-09-17,JWU (Providence),Brandeis,1,4,FINAL,6477302
+2025-09-17,Grove City,Carnegie Mellon,1,2,FINAL,6477466
+2025-09-17,Mount Union,Kenyon,0,0,FINAL,6477498
+2025-09-17,UMSV,CCNY,4,0,FINAL,6496566
+2025-09-17,Yeshiva,SUNY Maritime,0,6,FINAL,6471471
+2025-09-17,Farmingdale St.,SUNY New Paltz,0,1,FINAL,6471508
+2025-09-17,Mt. St. Joseph,Asbury,1,1,FINAL,6472260
+2025-09-17,Ursinus,Elizabethtown,0,0,FINAL,6472552
+2025-09-17,Lancaster Bible,Lebanon Valley,0,3,FINAL,6475170
+2025-09-17,Wittenberg,Transylvania,2,1,FINAL,6475247
+2025-09-17,Benedictine (IL),Concordia Wisconsin,0,3,FINAL,6471385
+2025-09-17,Lawrence,Wis.-Whitewater,1,1,FINAL,6471407
+2025-09-17,St. Norbert,Marian (WI),2,0,FINAL,6471615
+2025-09-17,North Park,UChicago,0,2,FINAL,6471635
+2025-09-17,Northwestern-St. Paul,Wis.-Stout,0,4,FINAL,6471822
+2025-09-17,Luther,Wis.-Eau Claire,2,0,FINAL,6472267
+2025-09-17,Wis.-Superior,North Central (MN),6,0,FINAL,6472323
+2025-09-17,Illinois Tech,Aurora,4,0,FINAL,6472546
+2025-09-17,Elmhurst,Kalamazoo,1,0,FINAL,6473911
+2025-09-17,Crown (MN),Martin Luther,1,2,FINAL,6474936
+2025-09-17,Edgewood,Lakeland,6,0,FINAL,6476903
+2025-09-17,Occidental,La Verne,1,0,FINAL,6472718
+2025-09-17,Claremont-M-S,Whittier,2,0,FINAL,6477525
+2025-09-17,Cal Lutheran,Pomona-Pitzer,1,2,FINAL,6477768
+2025-09-18,Loras,UC Santa Cruz,1,0,FINAL,6476136
+2025-09-18,Salisbury,Batten,1,2,FINAL,6475731
+2025-09-18,SUNY Delhi,SUNY Morrisville,3,2,FINAL,6474276
+2025-09-18,Immaculata,Widener,0,3,FINAL,6472061
+2025-09-18,Worcester St.,Keene St.,0,0,FINAL,6472129
+2025-09-18,Montclair St.,Stevens,1,1,FINAL,6472304
+2025-09-18,Covenant,Greenville,2,1,FINAL,6473385
+2025-09-18,Wis.-La Crosse,Simpson,5,0,FINAL,6475150
+2025-09-18,Concordia (TX),Hardin-Simmons,0,3,FINAL,6475283
+2025-09-18,Southern Va.,Bridgewater (VA),1,3,FINAL,6476803
+2025-09-18,Albion,Ohio Northern,2,0,FINAL,6477217
+2025-09-18,Howard Payne,McMurry,1,2,FINAL,6496414
+2025-09-19,Trinity Washington,Sweet Briar,0,10,FINAL,6474063
+2025-09-19,VTSU-Johnson,SUNY Canton,3,0,FINAL,6477386
+2025-09-19,Blackburn,Maranatha Baptist,1,0,FINAL,6477134
+2025-09-19,St. Mary's (IN),Wheaton (IL),0,0,FINAL,6471637
+2025-09-19,Centenary (LA),Millsaps,1,0,FINAL,6471694
+2025-09-19,St. Thomas (TX),MUW,4,0,FINAL,6474181
+2025-09-19,Ohio Wesleyan,Hanover,1,1,FINAL,6471484
+2025-09-19,Brevard,Meredith,2,0,FINAL,6472642
+2025-09-19,Centre,North Central (IL),3,2,FINAL,6475805
+2025-09-20,Russell Sage,Alfred,0,2,FINAL,6475602
+2025-09-20,Worcester St.,Mass. Maritime,8,0,FINAL,6477188
+2025-09-20,Centenary (NJ),Brooklyn,7,1,FINAL,6477411
+2025-09-20,WestConn,Plymouth St.,4,1,FINAL,6474343
+2025-09-20,Connecticut Col.,Colby,0,2,FINAL,6472200
+2025-09-20,Bates,Wesleyan (CT),0,0,FINAL,6472345
+2025-09-20,William Smith,Rochester (NY),0,0,FINAL,6472582
+2025-09-20,Tufts,Hamilton,2,1,FINAL,6475265
+2025-09-20,SUNY New Paltz,Rensselaer,2,1,FINAL,6471509
+2025-09-20,Saint Elizabeth,CCNY,0,3,FINAL,6471793
+2025-09-20,Hartford,Western New Eng.,0,1,FINAL,6471882
+2025-09-20,Wash. & Lee,Chris. Newport,1,1,FINAL,6471977
+2025-09-20,Old Westbury,Mt. St. Mary (NY),0,3,FINAL,6473178
+2025-09-20,Merchant Marine,Purchase,5,0,FINAL,6473991
+2025-09-20,Coast Guard,Wellesley,0,2,FINAL,6474247
+2025-09-20,Trine,Ill. Wesleyan,4,1,FINAL,6474392
+2025-09-20,MIT,Smith,8,0,FINAL,6474951
+2025-09-20,Lasell,Rivier,1,1,FINAL,6476548
+2025-09-20,Drew,Rowan,0,5,FINAL,6476906
+2025-09-20,York (NY),Valley Forge,2,1,FINAL,6477351
+2025-09-20,Franklin & Marshall,Muhlenberg,3,0,FINAL,6496595
+2025-09-20,Wilkes,FDU-Florham,4,1,FINAL,6471536
+2025-09-20,Me.-Presque Isle,Me.-Farmington,0,7,FINAL,6471552
+2025-09-20,Williams,Trinity (CT),2,0,FINAL,6471568
+2025-09-20,Dominican (IL),Marian (WI),3,0,FINAL,6471616
+2025-09-20,Wooster,Kalamazoo,4,0,FINAL,6471664
+2025-09-20,Plattsburgh St.,Fredonia,5,0,FINAL,6471680
+2025-09-20,Westminster (PA),Buffalo St.,0,5,FINAL,6471728
+2025-09-20,Berea,Warren Wilson,3,0,FINAL,6471762
+2025-09-20,Scranton,Farmingdale St.,2,1,FINAL,6471956
+2025-09-20,Keene St.,UMass Dartmouth,1,1,FINAL,6472009
+2025-09-20,TCNJ,Penn St. Harrisburg,3,1,FINAL,6472063
+2025-09-20,Kean,Albright,5,0,FINAL,6472073
+2025-09-20,Elizabethtown,Penn St.-Berks,1,1,FINAL,6472203
+2025-09-20,Husson,Lesley,1,1,FINAL,6472228
+2025-09-20,Asbury,Huntingdon,2,0,FINAL,6472269
+2025-09-20,CWRU,Calvin,2,0,FINAL,6472445
+2025-09-20,Mt. St. Joseph,Marietta,2,1,FINAL,6472502
+2025-09-20,SUNY Geneseo,St. John Fisher,0,1,FINAL,6472535
+2025-09-20,Neumann,Lancaster Bible,1,4,FINAL,6472598
+2025-09-20,Gettysburg,Haverford,1,0,FINAL,6472665
+2025-09-20,Marywood,Ramapo,1,0,FINAL,6472875
+2025-09-20,WPI,Clark (MA),3,3,FINAL,6472900
+2025-09-20,Lehman,New Jersey City,0,6,FINAL,6473071
+2025-09-20,Cedar Crest,Delaware Valley,1,2,FINAL,6473135
+2025-09-20,Methodist,Mary Washington,1,1,FINAL,6473153
+2025-09-20,Geneva,Heidelberg,0,0,FINAL,6473180
+2025-09-20,Alfred St.,Thiel,5,2,FINAL,6473287
+2025-09-20,Mitchell,Emmanuel (MA),0,7,FINAL,6473350
+2025-09-20,Oberlin,Hiram,3,0,FINAL,6473412
+2025-09-20,SUNY Cobleskill ,Hilbert,0,2,FINAL,6473947
+2025-09-20,Chatham,Muskingum,2,1,FINAL,6474016
+2025-09-20,Anderson (IN),Spalding,0,2,FINAL,6474089
+2025-09-20,Marymount (VA),Susquehanna,0,1,FINAL,6474214
+2025-09-20,Hendrix,Webster,0,1,FINAL,6474604
+2025-09-20,Mount Holyoke,Salve Regina,0,1,FINAL,6474735
+2025-09-20,Rhode Island Col.,UMass Boston,1,0,FINAL,6475656
+2025-09-20,Sewanee,Greenville,3,0,FINAL,6475744
+2025-09-20,Springfield,Babson,0,1,FINAL,6476022
+2025-09-20,SUNY Poly,Elmira,0,2,FINAL,6476256
+2025-09-20,Rutgers-Camden,Hood,0,0,FINAL,6476509
+2025-09-20,Emerson,Wheaton (MA),1,0,FINAL,6476752
+2025-09-20,Utica,Houghton,3,1,FINAL,6476866
+2025-09-20,Concordia Wisconsin,Wis. Lutheran,2,0,FINAL,6471386
+2025-09-20,Mount Aloysius,Bethany (WV),3,1,FINAL,6471370
+2025-09-20,Middlebury,Amherst,0,0,FINAL,6471460
+2025-09-20,Carthage,Knox,1,0,FINAL,6471711
+2025-09-20,Denison,Rose-Hulman,1,0,FINAL,6471746
+2025-09-20,Illinois Tech,St. Norbert,3,0,FINAL,6472007
+2025-09-20,Union (NY),SUNY Oneonta,6,0,FINAL,6472382
+2025-09-20,Eureka,Maranatha Baptist,3,1,FINAL,6472398
+2025-09-20,Aurora,Edgewood,0,1,FINAL,6472549
+2025-09-20,Framingham St.,Fitchburg St.,2,1,FINAL,6472612
+2025-09-20,Pomona-Pitzer,Occidental,1,1,FINAL,6472720
+2025-09-20,Lycoming,Alvernia,2,1,FINAL,6473602
+2025-09-20,Rhodes,DePauw,3,0,FINAL,6473764
+2025-09-20,Nazareth,Hartwick,1,1,FINAL,6473786
+2025-09-20,Grove City,Penn St.-Behrend,0,3,FINAL,6473811
+2025-09-20,Westfield St.,Salem St.,3,0,FINAL,6474783
+2025-09-20,Clarkson,RIT,0,2,FINAL,6475422
+2025-09-20,Caltech,Redlands,1,0,FINAL,6475462
+2025-09-20,Keuka,SUNY Brockport,0,1,FINAL,6475667
+2025-09-20,Loras,Lawrence,2,0,FINAL,6476138
+2025-09-20,Curry,Wentworth,0,0,FINAL,6476482
+2025-09-20,Ohio Northern,Transylvania,2,0,FINAL,6477108
+2025-09-20,Pratt,Penn St.-Abington,3,3,FINAL,6477308
+2025-09-20,Pitt.-Greensburg,Wash. & Jeff.,6,0,FINAL,6477491
+2025-09-20,St. Catherine,Concordia-M'head,6,0,FINAL,6477649
+2025-09-20,N.C. Wesleyan,Southern Va.,3,6,FINAL,6496007
+2025-09-20,NYU,Vassar,2,1,FINAL,6474584
+2025-09-20,Eastern,Goucher,3,0,FINAL,6475538
+2025-09-20,Wis.-Whitewater,Cornell College,5,1,FINAL,6471408
+2025-09-20,SUNY Maritime,UMSV,1,10,FINAL,6471472
+2025-09-20,Penn College,La Roche,6,0,FINAL,6471921
+2025-09-20,U New England,Nichols,3,1,FINAL,6472135
+2025-09-20,Stockton,Stevens,1,1,FINAL,6472327
+2025-09-20,St. Mary's (MD),Batten,0,4,FINAL,6472447
+2025-09-20,Whitworth,Willamette,1,2,FINAL,6472630
+2025-09-20,Gordon,Skidmore,1,2,FINAL,6472842
+2025-09-20,Ursinus,Dickinson,0,1,FINAL,6473002
+2025-09-20,Puget Sound,Lewis & Clark,2,0,FINAL,6473031
+2025-09-20,St. Lawrence,Cortland,0,4,FINAL,6473327
+2025-09-20,Bryn Mawr,McDaniel,0,1,FINAL,6473862
+2025-09-20,Whitman,Pacific (OR),1,1,FINAL,6474440
+2025-09-20,Grinnell,Westminster (MO),1,0,FINAL,6474695
+2025-09-20,Johns Hopkins,Swarthmore,1,2,FINAL,6474821
+2025-09-20,Pacific Lutheran,George Fox,1,0,FINAL,6474841
+2025-09-20,Shenandoah,Catholic,0,1,FINAL,6475143
+2025-09-20,Wis.-Eau Claire,Simpson,0,0,FINAL,6475152
+2025-09-20,Regis (MA),New England Col.,6,0,FINAL,6475947
+2025-09-20,Gwynedd Mercy,Cairn,2,1,FINAL,6476536
+2025-09-20,North Park,Lake Forest,1,2,FINAL,6476645
+2025-09-20,East Tex. Baptist,Ozarks (AR),4,0,FINAL,6477024
+2025-09-20,Benedictine (IL),Lakeland,2,0,FINAL,6477344
+2025-09-20,Ripon,Coe,2,3,FINAL,6495708
+2025-09-20,Dean,Elms,0,3,FINAL,6472152
+2025-09-20,Luther,Wis.-Stevens Point,1,2,FINAL,6472268
+2025-09-20,Colby-Sawyer,Saint Joseph (CT),1,1,FINAL,6474622
+2025-09-20,Albertus Magnus,Simmons,3,1,FINAL,6477013
+2025-09-20,Dubuque,Wis.-Oshkosh,1,1,FINAL,6471583
+2025-09-20,Salisbury,Randolph-Macon,0,1,FINAL,6471599
+2025-09-20,Hope,UChicago,2,2,FINAL,6471636
+2025-09-20,Alma,Bluffton,4,0,FINAL,6472022
+2025-09-20,JWU (Providence),Roger Williams,0,3,FINAL,6472190
+2025-09-20,Stevenson,Lebanon Valley,4,2,FINAL,6473704
+2025-09-20,Otterbein,Franciscan,2,1,FINAL,6474127
+2025-09-20,Olivet,Elmhurst,0,3,FINAL,6474982
+2025-09-20,St. Joseph's (Brkln),St. Joseph's (L.I.),0,9,FINAL,6475055
+2025-09-20,Randolph,Salem (NC),2,1,FINAL,6476741
+2025-09-20,Bridgewater St.,MCLA,5,0,FINAL,6471899
+2025-09-20,Saint Mary's (MN),Augsburg,0,2,FINAL,6472352
+2025-09-20,Mary Hardin-Baylor,WashU,0,6,FINAL,6472626
+2025-09-20,Carleton,Hamline,4,0,FINAL,6472805
+2025-09-20,St. Olaf,Macalester,2,0,FINAL,6473278
+2025-09-20,Saint Benedict,Bethel (MN),3,0,FINAL,6474876
+2025-09-20,Endicott,Suffolk,1,0,FINAL,6475402
+2025-09-20,Gustavus Adolphus,St. Scholastica,1,1,FINAL,6476984
+2025-09-20,King's (PA),Wilson,3,0,FINAL,6471426
+2025-09-20,Covenant,Belhaven,4,0,FINAL,6473388
+2025-09-20,UW-River Falls,Central (IA),2,1,FINAL,6473866
+2025-09-20,Wm. Paterson,Bard,2,0,FINAL,6473967
+2025-09-20,LeTourneau,MUW,5,0,FINAL,6474183
+2025-09-20,VTSU Castleton,Eastern Conn. St.,0,2,FINAL,6474326
+2025-09-20,Widener,Arcadia,0,2,FINAL,6475225
+2025-09-20,Crown (MN),Wis.-Superior,0,3,FINAL,6472324
+2025-09-20,Martin Luther,North Central (MN),2,1,FINAL,6474938
+2025-09-20,Bethany Lutheran,Northwestern-St. Paul,2,0,FINAL,6477320
+2025-09-20,Hardin-Simmons,Texas Lutheran,1,0,FINAL,6471440
+2025-09-20,Averett,Guilford,0,3,FINAL,6471852
+2025-09-20,Rutgers-Newark,Moravian,1,0,FINAL,6473221
+2025-09-20,William Peace,Mary Baldwin,0,4,FINAL,6476151
+2025-09-20,Norwich,St. Joseph's (ME),3,0,FINAL,6472519
+2025-09-20,Wis.-Platteville,UC Santa Cruz,0,1,FINAL,6473628
+2025-09-20,Messiah,Misericordia,3,1,FINAL,6475196
+2025-09-20,La Verne,Chapman,0,0,FINAL,6476703
+2025-09-20,Cal Lutheran,Claremont-M-S,1,0,FINAL,6477527
+2025-09-21,DePauw,Mary Hardin-Baylor,1,0,FINAL,6496615
+2025-09-21,Connecticut Col.,Tufts,0,4,FINAL,6472204
+2025-09-21,Me.-Presque Isle,Lesley,0,5,FINAL,6476189
+2025-09-21,Babson,Hamilton,2,2,FINAL,6476431
+2025-09-21,Hanover,North Central (IL),1,3,FINAL,6471485
+2025-09-21,Clark (MA),Williams,0,0,FINAL,6471569
+2025-09-21,Berea,Huntingdon,1,0,FINAL,6471763
+2025-09-21,Emory,Lynchburg,6,1,FINAL,6473655
+2025-09-21,Dallas,Southwestern (TX),0,3,FINAL,6474474
+2025-09-21,Roanoke,Centre,0,2,FINAL,6475116
+2025-09-21,VTSU Lyndon,VTSU-Johnson,0,14,FINAL,6476207
+2025-09-21,Baldwin Wallace,Carnegie Mellon,1,3,FINAL,6477464
+2025-09-21,Capital,Kenyon,1,0,FINAL,6471839
+2025-09-21,Beloit,Saint Mary's (MN),0,5,FINAL,6472356
+2025-09-21,Gustavus Adolphus,Neb. Wesleyan,1,1,FINAL,6472651
+2025-09-21,Concordia Chicago,MSOE,0,2,FINAL,6476824
+2025-09-21,Millsaps,Austin,1,4,FINAL,6471695
+2025-09-21,Rhodes,WashU,0,3,FINAL,6472631
+2025-09-21,Kalamazoo,UChicago,0,3,FINAL,6471639
+2025-09-21,Whitworth,Pacific (OR),0,0,FINAL,6472653
+2025-09-21,Pacific Lutheran,Lewis & Clark,2,0,FINAL,6473033
+2025-09-21,UW-River Falls,St. Scholastica,2,1,FINAL,6473869
+2025-09-21,Whitman,Willamette,1,0,FINAL,6474530
+2025-09-21,Puget Sound,George Fox,3,0,FINAL,6475349
+2025-09-21,Albion,Mount Union,2,1,FINAL,6477219
+2025-09-21,Wis.-Stevens Point,Wartburg,2,1,FINAL,6475332
+2025-09-21,Mt. St. Joseph,John Carroll,0,3,FINAL,6476629
+2025-09-21,Millikin,Illinois Col.,1,1,FINAL,6477543
+2025-09-21,Saint Benedict,Wis.-Stout,5,2,FINAL,6471823
+2025-09-21,NYU,Sarah Lawrence,2,0,FINAL,6474503
+2025-09-21,Maryville (TN),Piedmont,2,1,FINAL,6473101
+2025-09-21,Wis.-La Crosse,Concordia-M'head,5,0,FINAL,6477435
+2025-09-21,Trinity (TX),Concordia (TX),4,0,FINAL,6475034
+2025-09-22,York (NY),Pratt,0,9,FINAL,6477311
+2025-09-22,Adrian,Mount Union,0,2,FINAL,6476455
+2025-09-22,Agnes Scott,LaGrange,0,4,FINAL,6476971
+2025-09-22,Wis.-Whitewater,Benedictine (IL),4,0,FINAL,6471409
+2025-09-22,WestConn,Brooklyn,5,0,FINAL,6476870
+2025-09-22,Rutgers-Newark,CCNY,3,0,FINAL,6496528
+2025-09-22,Ill. Wesleyan,Dominican (IL),0,1,FINAL,6474399
+2025-09-23,Centenary (NJ),New Jersey City,0,5,FINAL,6474871
+2025-09-23,Me.-Farmington,Thomas (ME),4,1,FINAL,6471553
+2025-09-23,Western New Eng.,Keene St.,2,0,FINAL,6472130
+2025-09-23,Hilbert,SUNY Delhi,2,1,FINAL,6473949
+2025-09-23,SUNY Brockport,Fredonia,0,0,FINAL,6475676
+2025-09-23,VTSU Castleton,New England Col.,5,0,FINAL,6476264
+2025-09-23,Smith,Nichols,8,0,FINAL,6477565
+2025-09-23,Warren Wilson,Piedmont,0,3,FINAL,6473119
+2025-09-23,Wilson,Hood,0,1,FINAL,6475778
+2025-09-23,Wittenberg,Otterbein,1,0,FINAL,6474129
+2025-09-23,Southern Va.,Salem (NC),10,0,FINAL,6476790
+2025-09-23,Central (IA),Grinnell,1,0,FINAL,6477266
+2025-09-23,Martin Luther,Minn.-Morris,6,1,FINAL,6476240
+2025-09-23,Pfeiffer,William Peace,1,0,FINAL,6472292
+2025-09-23,Wesleyan (CT),Trinity (CT),4,0,FINAL,6472409
+2025-09-23,Greensboro,Brevard,1,5,FINAL,6472648
+2025-09-23,Wm. Paterson,Lehman,4,0,FINAL,6473073
+2025-09-23,Meredith,Methodist,1,1,FINAL,6473155
+2025-09-23,Augustana (IL),Ripon,1,0,FINAL,6477393
+2025-09-23,U New England,Bates,2,2,FINAL,6472139
+2025-09-23,Ohio Northern,Denison,1,2,FINAL,6472482
+2025-09-23,Elms,Plymouth St.,1,5,FINAL,6472528
+2025-09-23,Geneva,Wash. & Jeff.,1,0,FINAL,6473187
+2025-09-23,Alfred St.,Houghton,0,3,FINAL,6473292
+2025-09-23,Emory,Oglethorpe,3,0,FINAL,6473829
+2025-09-23,Gordon,Salem St.,4,0,FINAL,6474664
+2025-09-23,Messiah,Shenandoah,1,0,FINAL,6475168
+2025-09-23,Springfield,Amherst,0,3,FINAL,6476027
+2025-09-23,Transylvania,Ohio Wesleyan,1,1,FINAL,6476231
+2025-09-23,Albright,Arcadia,0,4,FINAL,6496631
+2025-09-23,Mt. St. Joseph,Spalding,0,1,FINAL,6474091
+2025-09-23,Trinity (TX),Texas Lutheran,3,1,FINAL,6471441
+2025-09-23,Carroll (WI),Wis.-Platteville,2,1,FINAL,6473631
+2025-09-23,Bethany Lutheran,Crown (MN),3,1,FINAL,6475435
+2025-09-23,Elmhurst,Beloit,3,0,FINAL,6476402
+2025-09-23,Centenary (LA),East Tex. Baptist,0,4,FINAL,6477026
+2025-09-23,Wis.-Superior,Northwestern-St. Paul,1,1,FINAL,6472335
+2025-09-23,Wis.-Eau Claire,St. Catherine,0,2,FINAL,6476948
+2025-09-24,St. Joseph's (Brkln),Farmingdale St.,0,8,FINAL,6471958
+2025-09-24,Keystone,York (NY),5,7,FINAL,6472864
+2025-09-24,Concordia Chicago,Illinois Tech,0,1,FINAL,6477063
+2025-09-24,Eastern,Penn St. Harrisburg,1,1,FINAL,6473546
+2025-09-24,Bethany (WV),Grove City,1,8,FINAL,6476520
+2025-09-24,John Jay,NYU,0,11,FINAL,6474702
+2025-09-24,Bridgewater (VA),Hollins,12,0,FINAL,6471806
+2025-09-24,Cortland,Ithaca,0,0,FINAL,6472257
+2025-09-24,Moravian,Montclair St.,0,4,FINAL,6472315
+2025-09-24,Utica,St. John Fisher,0,0,FINAL,6472538
+2025-09-24,Lebanon Valley,Neumann,6,0,FINAL,6472601
+2025-09-24,Rochester (NY),SUNY Geneseo,1,0,FINAL,6472605
+2025-09-24,Skidmore,Clarkson,3,1,FINAL,6472844
+2025-09-24,WPI,UMass Boston,3,0,FINAL,6472902
+2025-09-24,Penn St.-Abington,Lycoming,2,5,FINAL,6473604
+2025-09-24,Notre Dame (MD),Penn St.-Altoona,0,1,FINAL,6473745
+2025-09-24,McDaniel,Johns Hopkins,0,4,FINAL,6474823
+2025-09-24,Batten,Wash. & Lee,0,4,FINAL,6475103
+2025-09-24,Shenandoah,Sweet Briar,8,0,FINAL,6475172
+2025-09-24,Salisbury,York (PA),1,1,FINAL,6475992
+2025-09-24,Pitt.-Greensburg,John Carroll,1,3,FINAL,6476632
+2025-09-24,Rivier,St. Joseph's (ME),2,1,FINAL,6477433
+2025-09-24,Concordia Wisconsin,Aurora,1,0,FINAL,6471387
+2025-09-24,Wooster,Marietta,1,0,FINAL,6471665
+2025-09-24,Westminster (PA),Waynesburg,0,0,FINAL,6471729
+2025-09-24,Averett,Roanoke,0,6,FINAL,6471853
+2025-09-24,St. Mary's (IN),Earlham,3,0,FINAL,6471947
+2025-09-24,Chris. Newport,Catholic,1,0,FINAL,6471982
+2025-09-24,Bluffton,Olivet,3,0,FINAL,6472027
+2025-09-24,Gwynedd Mercy,Penn St.-Berks,1,1,FINAL,6472208
+2025-09-24,Union (NY),Eastern Conn. St.,3,0,FINAL,6472387
+2025-09-24,Norwich,Lasell,1,2,FINAL,6472520
+2025-09-24,Elizabethtown,DeSales,3,1,FINAL,6472555
+2025-09-24,Haverford,Ursinus,3,2,FINAL,6473004
+2025-09-24,Maine Maritime,Southern Me.,1,4,FINAL,6474054
+2025-09-24,Saint Benedict,St. Scholastica,4,0,FINAL,6474874
+2025-09-24,Maryville (TN),Berry,1,0,FINAL,6476324
+2025-09-24,Rockford,Dominican (IL),0,7,FINAL,6476349
+2025-09-24,Carleton,Wis.-La Crosse,3,2,FINAL,6477438
+2025-09-24,Knox,Ill. Wesleyan,1,4,FINAL,6471713
+2025-09-24,Cornell College,Coe,0,4,FINAL,6495895
+2025-09-24,St. Joseph's (L.I.),SUNY Maritime,9,0,FINAL,6471473
+2025-09-24,Hartford,Wellesley,5,1,FINAL,6471883
+2025-09-24,RIT,William Smith,3,2,FINAL,6472773
+2025-09-24,Hiram,Thiel,4,0,FINAL,6473557
+2025-09-24,Hartwick,SUNY Poly,3,0,FINAL,6473788
+2025-09-24,Bard,Vassar,0,6,FINAL,6473969
+2025-09-24,Purchase,Manhattanville,0,3,FINAL,6473993
+2025-09-24,Greenville,Millikin,3,0,FINAL,6475751
+2025-09-24,Anna Maria,Regis (MA),0,3,FINAL,6475949
+2025-09-24,Wesleyan (GA),Agnes Scott,0,2,FINAL,6476973
+2025-09-24,King's (PA),Immaculata,3,2,FINAL,6471427
+2025-09-24,Alfred,Nazareth,0,1,FINAL,6471512
+2025-09-24,East. Mennonite,Randolph-Macon,0,4,FINAL,6471600
+2025-09-24,Plattsburgh St.,St. Lawrence,1,2,FINAL,6471681
+2025-09-24,Guilford,N.C. Wesleyan,3,0,FINAL,6471924
+2025-09-24,Allegheny,Chatham,2,0,FINAL,6472043
+2025-09-24,TCNJ,Stevens,1,1,FINAL,6472065
+2025-09-24,Wilkes,Widener,1,1,FINAL,6472111
+2025-09-24,Bridgewater St.,Roger Williams,0,1,FINAL,6472193
+2025-09-24,Bowdoin,Husson,2,0,FINAL,6472234
+2025-09-24,Centre,Asbury,5,0,FINAL,6472273
+2025-09-24,Wilmington (OH),Franklin,3,1,FINAL,6472459
+2025-09-24,Wentworth,Fitchburg St.,4,0,FINAL,6472615
+2025-09-24,Albertus Magnus,Emmanuel (MA),2,2,FINAL,6473352
+2025-09-24,Washington Col.,Franklin & Marshall,1,2,FINAL,6473486
+2025-09-24,Lynchburg,Randolph,5,0,FINAL,6473657
+2025-09-24,Susquehanna,Stevenson,1,0,FINAL,6473707
+2025-09-24,Swarthmore,Bryn Mawr,2,0,FINAL,6473882
+2025-09-24,Alvernia,Kean,1,0,FINAL,6473924
+2025-09-24,Sarah Lawrence,Mt. St. Mary (NY),1,3,FINAL,6474505
+2025-09-24,Marymount (VA),Mary Washington,0,3,FINAL,6474566
+2025-09-24,Pacific Lutheran,Puget Sound,1,1,FINAL,6474843
+2025-09-24,Framingham St.,Curry,3,3,FINAL,6475307
+2025-09-24,Merchant Marine,UMSV,2,2,FINAL,6475384
+2025-09-24,Endicott,Wheaton (MA),2,1,FINAL,6475404
+2025-09-24,Huntingdon,Belhaven,0,4,FINAL,6475825
+2025-09-24,Delaware Valley,Rutgers-Camden,2,1,FINAL,6475858
+2025-09-24,Misericordia,Scranton,3,2,FINAL,6476058
+2025-09-24,Elmira,Russell Sage,0,4,FINAL,6476163
+2025-09-24,Brandeis,Lesley,1,1,FINAL,6476191
+2025-09-24,Penn College,Ramapo,1,1,FINAL,6476284
+2025-09-24,Westfield St.,Mount Holyoke,0,0,FINAL,6476309
+2025-09-24,Worcester St.,Suffolk,1,2,FINAL,6476563
+2025-09-24,Marywood,Cairn,3,0,FINAL,6476579
+2025-09-24,Webster,Illinois Col.,3,0,FINAL,6476730
+2025-09-24,Chapman,Cal Lutheran,1,3,FINAL,6476928
+2025-09-24,Mass. Maritime,Colby-Sawyer,0,1,FINAL,6477190
+2025-09-24,Saint Vincent,Franciscan,3,3,FINAL,6477451
+2025-09-24,JWU (Providence),Salve Regina,0,1,FINAL,6477578
+2025-09-24,DePauw,Rose-Hulman,1,0,FINAL,6471747
+2025-09-24,Dickinson,Gettysburg,3,1,FINAL,6472668
+2025-09-24,Oberlin,Heidelberg,0,2,FINAL,6473414
+2025-09-24,CWRU,Penn St.-Behrend,2,0,FINAL,6473673
+2025-09-24,Wheaton (IL),Wis.-Whitewater,0,0,FINAL,6471410
+2025-09-24,Marian (WI),Lakeland,6,0,FINAL,6471617
+2025-09-24,North Central (IL),UChicago,1,2,FINAL,6471640
+2025-09-24,Wis.-Stout,St. Olaf,0,5,FINAL,6471824
+2025-09-24,Wis. Lutheran,St. Norbert,1,0,FINAL,6472017
+2025-09-24,North Park,Wis.-Oshkosh,0,3,FINAL,6472171
+2025-09-24,Simpson,Monmouth (IL),5,1,FINAL,6475154
+2025-09-24,MSOE,Edgewood,3,1,FINAL,6476817
+2025-09-24,Whitman,Whitworth,1,0,FINAL,6472657
+2025-09-24,Wis.-Eau Claire,Hamline,2,2,FINAL,6472809
+2025-09-24,Augsburg,UW-River Falls,1,0,FINAL,6472966
+2025-09-24,Wis.-Stevens Point,Carthage,2,2,FINAL,6477235
+2025-09-24,Occidental,Whittier,2,0,FINAL,6472729
+2025-09-24,Redlands,La Verne,0,0,FINAL,6475465
+2025-09-24,Claremont-M-S,Pomona-Pitzer,0,1,FINAL,6477529
+2025-09-25,Kenyon,Adrian,0,0,FINAL,6476458
+2025-09-25,Marian (WI),Loras,0,4,FINAL,6471618
+2025-09-25,Lancaster Bible,Goucher,4,0,FINAL,6499841
+2025-09-25,Mary Hardin-Baylor,Howard Payne,1,0,FINAL,6475629
+2025-09-26,Austin,Texas Lutheran,1,3,FINAL,6471442
+2025-09-26,MCLA,Worcester St.,1,9,FINAL,6471901
+2025-09-26,Dallas,Hendrix,2,1,FINAL,6474476
+2025-09-26,Schreiner,St. Thomas (TX),1,2,FINAL,6474781
+2025-09-26,Nichols,Western New Eng.,0,2,FINAL,6474909
+2025-09-26,LeTourneau,Concordia (TX),0,1,FINAL,6475758
+2025-09-26,McMurry,Centenary (LA),6,1,FINAL,6477148
+2025-09-26,FDU-Florham,Neumann,3,2,FINAL,6471538
+2025-09-26,Rivier,Elms,2,0,FINAL,6472530
+2025-09-26,Framingham St.,Salem St.,2,0,FINAL,6474788
+2025-09-26,Meredith,Southern Va.,0,2,FINAL,6475367
+2025-09-27,Illinois Col.,Ripon,1,0,FINAL,6495710
+2025-09-27,Sweet Briar,Hollins,1,5,FINAL,6471807
+2025-09-27,Regis (MA),Albertus Magnus,0,1,FINAL,6475952
+2025-09-27,Connecticut Col.,Middlebury,0,1,FINAL,6471461
+2025-09-27,Williams,Colby,1,1,FINAL,6471570
+2025-09-27,Lyon,Spalding,0,6,FINAL,6474093
+2025-09-27,Mitchell,Colby-Sawyer,0,1,FINAL,6476293
+2025-09-27,Hamilton,Bowdoin,2,0,FINAL,6476772
+2025-09-27,Marywood,Bryn Mawr,1,0,FINAL,6472877
+2025-09-27,Concordia Wisconsin,Wis.-La Crosse,2,9,FINAL,6471388
+2025-09-27,Me.-Farmington,SUNY Cobleskill ,6,0,FINAL,6471554
+2025-09-27,John Carroll,UChicago,0,4,FINAL,6471641
+2025-09-27,Endicott,Hartford,0,1,FINAL,6471884
+2025-09-27,Roger Williams,U New England,1,1,FINAL,6472142
+2025-09-27,Amherst,Bates,2,0,FINAL,6472350
+2025-09-27,Calvin,Ohio Northern,2,0,FINAL,6472358
+2025-09-27,Tufts,Wesleyan (CT),0,0,FINAL,6472411
+2025-09-27,Denison,Capital,3,2,FINAL,6472483
+2025-09-27,Muhlenberg,Gettysburg,2,4,FINAL,6472672
+2025-09-27,McDaniel,Ursinus,0,0,FINAL,6473006
+2025-09-27,Lehman,Centenary (NJ),0,7,FINAL,6473075
+2025-09-27,St. Joseph's (L.I.),Old Westbury,6,0,FINAL,6473189
+2025-09-27,Emmanuel (MA),Saint Joseph (CT),4,0,FINAL,6473354
+2025-09-27,Hartwick,SUNY Brockport,0,3,FINAL,6473791
+2025-09-27,Purchase,St. Joseph's (Brkln),10,0,FINAL,6473996
+2025-09-27,Wellesley,MIT,0,2,FINAL,6474250
+2025-09-27,Gordon,JWU (Providence),2,3,FINAL,6474666
+2025-09-27,Mass. Maritime,Anna Maria,0,1,FINAL,6475577
+2025-09-27,Lesley,SUNY Delhi,1,0,FINAL,6476193
+2025-09-27,Bridgewater St.,Westfield St.,1,1,FINAL,6476311
+2025-09-27,Monmouth (IL),Beloit,3,1,FINAL,6476409
+2025-09-27,Suffolk,Curry,6,0,FINAL,6476565
+2025-09-27,Notre Dame (MD),Penn St.-Abington,2,1,FINAL,6476616
+2025-09-27,Salve Regina,Emerson,1,2,FINAL,6476754
+2025-09-27,North Central (IL),Carroll (WI),5,1,FINAL,6477161
+2025-09-27,Lawrence,Grinnell,2,0,FINAL,6477268
+2025-09-27,Trinity (CT),Brandeis,0,0,FINAL,6477304
+2025-09-27,Mt. St. Mary (NY),Manhattanville,1,0,FINAL,6477610
+2025-09-27,Mount Aloysius,Hilbert,3,2,FINAL,6471371
+2025-09-27,Stevenson,King's (PA),2,1,FINAL,6471428
+2025-09-27,Hanover,Franklin,3,0,FINAL,6471486
+2025-09-27,Westminster (PA),Geneva,0,1,FINAL,6471730
+2025-09-27,Rose-Hulman,Berea,6,0,FINAL,6471748
+2025-09-27,UMass Dartmouth,WestConn,3,1,FINAL,6472011
+2025-09-27,Transylvania,Bluffton,2,0,FINAL,6472034
+2025-09-27,Grove City,Allegheny,1,1,FINAL,6472044
+2025-09-27,Wilkes,Elizabethtown,0,1,FINAL,6472112
+2025-09-27,New England Col.,Dean,2,2,FINAL,6472154
+2025-09-27,SUNY Potsdam,Buffalo St.,1,2,FINAL,6472233
+2025-09-27,Husson,VTSU Lyndon,18,0,FINAL,6472248
+2025-09-27,Vassar,Ithaca,1,0,FINAL,6472262
+2025-09-27,Montclair St.,New Jersey City,3,0,FINAL,6472326
+2025-09-27,Stockton,Wm. Paterson,1,1,FINAL,6472348
+2025-09-27,Earlham,Manchester,2,1,FINAL,6472497
+2025-09-27,Marietta,Oberlin,0,0,FINAL,6472504
+2025-09-27,Simmons,Norwich,1,4,FINAL,6472522
+2025-09-27,Moravian,Juniata,1,1,FINAL,6473436
+2025-09-27,Catholic,Lycoming,0,1,FINAL,6473608
+2025-09-27,Penn St.-Behrend,Penn St.-Altoona,1,0,FINAL,6473747
+2025-09-27,Sewanee,Emory,0,1,FINAL,6473831
+2025-09-27,Chatham,Franciscan,3,0,FINAL,6474018
+2025-09-27,Thomas (ME),Maine Maritime,1,2,FINAL,6474056
+2025-09-27,MUW,Principia,0,1,FINAL,6474198
+2025-09-27,Susquehanna,Scranton,0,1,FINAL,6474216
+2025-09-27,John Jay,Alvernia,1,1,FINAL,6474301
+2025-09-27,Plymouth St.,VTSU Castleton,0,2,FINAL,6474346
+2025-09-27,Wash. & Lee,Shenandoah,2,1,FINAL,6475105
+2025-09-27,Widener,Lebanon Valley,1,1,FINAL,6475177
+2025-09-27,Smith,Springfield,1,2,FINAL,6476031
+2025-09-27,Nazareth,Keuka,2,0,FINAL,6476078
+2025-09-27,Drew,Goucher,4,1,FINAL,6476123
+2025-09-27,Elmira,Utica,0,2,FINAL,6476165
+2025-09-27,Ohio Wesleyan,Hope,1,2,FINAL,6476234
+2025-09-27,Maryville (TN),Huntingdon,9,1,FINAL,6476326
+2025-09-27,Babson,Coast Guard,2,1,FINAL,6476437
+2025-09-27,SUNY Oneonta,Oswego St.,0,0,FINAL,6476513
+2025-09-27,St. Joseph's (ME),Lasell,0,1,FINAL,6476554
+2025-09-27,Southern Me.,Rhode Island Col.,1,2,FINAL,6477054
+2025-09-27,Me.-Presque Isle,VTSU-Johnson,0,1,FINAL,6477208
+2025-09-27,Fredonia,SUNY Canton,6,0,FINAL,6477391
+2025-09-27,Clark (MA),Wheaton (MA),0,1,FINAL,6495847
+2025-09-27,Saint Elizabeth,York (NY),4,0,FINAL,6496429
+2025-09-27,Pratt,CCNY,0,0,FINAL,6477313
+2025-09-27,Central (IA),Dubuque,0,2,FINAL,6471584
+2025-09-27,Carnegie Mellon,Salisbury,3,0,FINAL,6475994
+2025-09-27,Cortland,SUNY New Paltz,0,0,FINAL,6471511
+2025-09-27,Houghton,Alfred,0,1,FINAL,6471515
+2025-09-27,Lake Forest,Knox,4,0,FINAL,6471714
+2025-09-27,La Roche,Pitt.-Bradford,3,1,FINAL,6471922
+2025-09-27,St. Norbert,Dominican (IL),0,2,FINAL,6472020
+2025-09-27,Wesleyan (GA),Asbury,0,5,FINAL,6472276
+2025-09-27,Pfeiffer,Greensboro,0,1,FINAL,6472296
+2025-09-27,Clarkson,Union (NY),1,1,FINAL,6472391
+2025-09-27,MSOE,Aurora,5,1,FINAL,6472551
+2025-09-27,Centre,WashU,1,5,FINAL,6472690
+2025-09-27,Salem (NC),Methodist,0,0,FINAL,6473230
+2025-09-27,LaGrange,Covenant,2,2,FINAL,6473390
+2025-09-27,Ill. Wesleyan,Wis.-Platteville,3,3,FINAL,6473633
+2025-09-27,Coe,Simpson,1,3,FINAL,6475157
+2025-09-27,Russell Sage,SUNY Geneseo,0,3,FINAL,6475606
+2025-09-27,Wis. Lutheran,Benedictine (IL),1,0,FINAL,6476692
+2025-09-27,Edgewood,Illinois Tech,0,4,FINAL,6476908
+2025-09-27,Lakeland,Concordia Chicago,0,5,FINAL,6477065
+2025-09-27,Augustana (IL),North Park,1,2,FINAL,6477395
+2025-09-27,Trine,Wittenberg,0,0,FINAL,6520174
+2025-09-27,UMass Boston,Keene St.,1,1,FINAL,6472132
+2025-09-27,Lancaster Bible,Wilson,5,0,FINAL,6475782
+2025-09-27,Mary Baldwin,N.C. Wesleyan,1,0,FINAL,6495992
+2025-09-27,SUNY Maritime,Merchant Marine,0,3,FINAL,6471474
+2025-09-27,Marian (WI),Rockford,10,0,FINAL,6471619
+2025-09-27,Wooster,Muskingum,2,0,FINAL,6471666
+2025-09-27,Plattsburgh St.,SUNY Morrisville,2,0,FINAL,6471682
+2025-09-27,Roanoke,Guilford,2,0,FINAL,6471927
+2025-09-27,NYU,Farmingdale St.,4,0,FINAL,6471960
+2025-09-27,Stevens,York (PA),1,1,FINAL,6472328
+2025-09-27,William Smith,Bard,4,0,FINAL,6472742
+2025-09-27,St. Lawrence,Skidmore,1,2,FINAL,6472847
+2025-09-27,Mount Holyoke,WPI,0,3,FINAL,6472904
+2025-09-27,Lewis & Clark,George Fox,1,0,FINAL,6473035
+2025-09-27,Belhaven,Piedmont,2,0,FINAL,6473104
+2025-09-27,Marymount (VA),Lynchburg,1,3,FINAL,6473660
+2025-09-27,Sarah Lawrence,UMSV,0,3,FINAL,6474508
+2025-09-27,Willamette,Pacific Lutheran,0,3,FINAL,6474532
+2025-09-27,Haverford,Johns Hopkins,0,2,FINAL,6474825
+2025-09-27,Arcadia,Eastern,1,0,FINAL,6475228
+2025-09-27,Wash. & Jeff.,Hiram,2,0,FINAL,6475520
+2025-09-27,Webster,Cornell College,6,0,FINAL,6476732
+2025-09-27,Linfield,Whitman,1,1,FINAL,6477099
+2025-09-27,Penn St. Harrisburg,Keystone,11,0,FINAL,6472086
+2025-09-27,St. Mary's (MD),Valley Forge,11,0,FINAL,6472448
+2025-09-27,Misericordia,Rochester (NY),0,1,FINAL,6472610
+2025-09-27,Cairn,Penn College,0,3,FINAL,6476581
+2025-09-27,Randolph-Macon,Averett,12,0,FINAL,6471601
+2025-09-27,Waynesburg,Bethany (WV),8,0,FINAL,6471983
+2025-09-27,DeSales,Immaculata,3,1,FINAL,6472068
+2025-09-27,Randolph,East. Mennonite,0,1,FINAL,6472607
+2025-09-27,Swarthmore,Franklin & Marshall,1,0,FINAL,6473502
+2025-09-27,Dickinson,Washington Col.,1,0,FINAL,6476393
+2025-09-27,Rensselaer,RIT,0,0,FINAL,6477516
+2025-09-27,Albright,Gwynedd Mercy,2,4,FINAL,6472079
+2025-09-27,Hamline,Saint Mary's (MN),0,2,FINAL,6472360
+2025-09-27,Augsburg,St. Catherine,0,2,FINAL,6472968
+2025-09-27,St. Scholastica,St. Olaf,0,3,FINAL,6473283
+2025-09-27,Gustavus Adolphus,Saint Benedict,0,2,FINAL,6474885
+2025-09-27,Wartburg,Buena Vista,9,1,FINAL,6475082
+2025-09-27,Blackburn,Greenville,0,10,FINAL,6475756
+2025-09-27,Concordia-M'head,Bethel (MN),1,4,FINAL,6475920
+2025-09-27,Macalester,Carleton,0,3,FINAL,6476665
+2025-09-27,Millikin,Carthage,1,4,FINAL,6477237
+2025-09-27,Kean,TCNJ,0,1,FINAL,6472067
+2025-09-27,Hood,Mary Washington,0,2,FINAL,6474570
+2025-09-27,Batten,Bridgewater (VA),2,1,FINAL,6475733
+2025-09-27,Wheaton (IL),Elmhurst,1,0,FINAL,6471638
+2025-09-27,Wis.-Superior,Minn.-Morris,5,1,FINAL,6472343
+2025-09-27,North Central (MN),Bethany Lutheran,0,7,FINAL,6475496
+2025-09-27,Northwestern-St. Paul,Martin Luther,3,1,FINAL,6476242
+2025-09-27,St. John Fisher,SUNY Poly,9,0,FINAL,6472545
+2025-09-27,Neb. Wesleyan,Loras,0,6,FINAL,6472661
+2025-09-27,Mary Hardin-Baylor,Trinity (TX),1,1,FINAL,6475036
+2025-09-27,Pomona-Pitzer,Caltech,6,0,FINAL,6477701
+2025-09-27,Wilmington (OH),DePauw,1,0,FINAL,6472461
+2025-09-27,Rutgers-Newark,Rowan,0,9,FINAL,6473232
+2025-09-27,Mount Union,CWRU,1,4,FINAL,6473678
+2025-09-27,Ramapo,Rutgers-Camden,1,0,FINAL,6477226
+2025-09-27,Mt. St. Joseph,Anderson (IN),2,2,FINAL,6477832
+2025-09-27,Luther,UW-River Falls,0,2,FINAL,6472270
+2025-09-27,Hardin-Simmons,East Tex. Baptist,6,0,FINAL,6475285
+2025-09-27,Claremont-M-S,Redlands,4,0,FINAL,6475467
+2025-09-27,Cal Lutheran,La Verne,3,0,FINAL,6476706
+2025-09-27,Whittier,Chapman,0,0,FINAL,6476930
+2025-09-28,Amherst,Colby,1,1,FINAL,6476176
+2025-09-28,Me.-Farmington,SUNY Delhi,2,2,FINAL,6471555
+2025-09-28,Williams,Bowdoin,2,1,FINAL,6471571
+2025-09-28,Millsaps,Piedmont,0,4,FINAL,6471697
+2025-09-28,Husson,VTSU-Johnson,1,0,FINAL,6472251
+2025-09-28,McMurry,St. Thomas (TX),0,0,FINAL,6474785
+2025-09-28,Lesley,SUNY Cobleskill ,5,0,FINAL,6475865
+2025-09-28,Me.-Presque Isle,VTSU Lyndon,10,0,FINAL,6476211
+2025-09-28,LeTourneau,Texas Lutheran,0,5,FINAL,6471443
+2025-09-28,Dallas,Ozarks (AR),2,0,FINAL,6474479
+2025-09-28,VTSU Castleton,Colby-Sawyer,6,0,FINAL,6476266
+2025-09-28,JWU (Providence),Babson,1,0,FINAL,6476407
+2025-09-28,Austin,Concordia (TX),2,3,FINAL,6476473
+2025-09-28,Schreiner,Centenary (LA),2,0,FINAL,6477150
+2025-09-28,Hamilton,St. Lawrence,1,1,FINAL,6473330
+2025-09-28,Middlebury,Wesleyan (CT),2,1,FINAL,6471462
+2025-09-28,Otterbein,Kenyon,1,1,FINAL,6474156
+2025-09-28,Heidelberg,Mt. St. Joseph,3,0,FINAL,6477772
+2025-09-28,Linfield,Whitworth,2,0,FINAL,6472670
+2025-09-28,Lewis & Clark,Pacific (OR),1,2,FINAL,6473037
+2025-09-28,Willamette,Puget Sound,0,2,FINAL,6474534
+2025-09-28,Wis.-Stevens Point,Saint Mary's (MN),1,0,FINAL,6472364
+2025-09-28,Eureka,Westminster (MO),0,11,FINAL,6472402
+2025-09-28,Baldwin Wallace,Adrian,1,0,FINAL,6476460
+2025-09-28,MUW,Piedmont,0,3,FINAL,6473106
+2025-09-29,Lake Forest,Concordia Wisconsin,4,1,FINAL,6471389
+2025-09-29,Swarthmore,Mount Aloysius,2,0,FINAL,6471372
+2025-09-29,Lancaster Bible,Albright,3,0,FINAL,6472083
+2025-09-29,St. Norbert,Wis.-Oshkosh,0,1,FINAL,6472023
+2025-09-30,William Peace,Brevard,0,2,FINAL,6472652
+2025-09-30,Old Westbury,Farmingdale St.,0,5,FINAL,6471962
+2025-09-30,Dean,Mitchell,2,1,FINAL,6472156
+2025-09-30,Eastern,Misericordia,0,0,FINAL,6475540
+2025-09-30,East. Mennonite,Batten,0,3,FINAL,6472613
+2025-09-30,Lehman,Pratt,0,6,FINAL,6473077
+2025-09-30,Hope,Olivet,7,0,FINAL,6474984
+2025-09-30,Endicott,Southern Me.,3,1,FINAL,6475406
+2025-09-30,Lasell,Colby-Sawyer,2,0,FINAL,6476583
+2025-09-30,Haverford,Widener,0,0,FINAL,6475978
+2025-09-30,Beloit,Lawrence,0,0,FINAL,6476413
+2025-09-30,Grinnell,Monmouth (IL),0,0,FINAL,6477270
+2025-09-30,Ripon,Cornell College,3,1,FINAL,6495712
+2025-09-30,Knox,Illinois Col.,1,5,FINAL,6471715
+2025-09-30,Kalamazoo,St. Mary's (IN),2,0,FINAL,6471950
+2025-09-30,Hartford,UMass Dartmouth,2,2,FINAL,6471885
+2025-09-30,RIT,Rochester (NY),1,1,FINAL,6472617
+2025-09-30,Alfred St.,Pitt.-Bradford,5,0,FINAL,6473298
+2025-09-30,Hood,Shenandoah,0,4,FINAL,6475195
+2025-09-30,Fredonia,Nazareth,2,1,FINAL,6476085
+2025-09-30,WestConn,Worcester St.,1,0,FINAL,6476877
+2025-09-30,SUNY Maritime,Purchase,3,0,FINAL,6471475
+2025-09-30,Drew,Stevens,1,1,FINAL,6472331
+2025-09-30,Calvin,Alma,6,0,FINAL,6472404
+2025-09-30,Elms,New England Col.,2,0,FINAL,6472532
+2025-09-30,Geneva,Grove City,0,2,FINAL,6473194
+2025-09-30,Penn St.-Altoona,Pitt.-Greensburg,0,0,FINAL,6473749
+2025-09-30,Spalding,Transylvania,2,0,FINAL,6474096
+2025-09-30,Delaware Valley,Alvernia,0,4,FINAL,6474303
+2025-09-30,NYU,Scranton,0,0,FINAL,6474704
+2025-09-30,Salem St.,Nichols,0,0,FINAL,6474792
+2025-09-30,Messiah,Penn St.-Abington,5,0,FINAL,6475203
+2025-09-30,Arcadia,Muhlenberg,4,0,FINAL,6475232
+2025-09-30,Merchant Marine,Manhattanville,3,0,FINAL,6475387
+2025-09-30,Regis (MA),Emmanuel (MA),0,1,FINAL,6475954
+2025-09-30,Albion,Trine,0,1,FINAL,6476062
+2025-09-30,Albertus Magnus,Brooklyn,6,0,FINAL,6477250
+2025-09-30,CWRU,Baldwin Wallace,5,0,FINAL,6473680
+2025-09-30,Millikin,WashU,0,7,FINAL,6472641
+2025-10-01,Centenary (NJ),John Jay,1,1,FINAL,6476861
+2025-10-01,Salem (NC),Mary Baldwin,1,3,FINAL,6476795
+2025-10-01,Plymouth St.,Roger Williams,1,6,FINAL,6472201
+2025-10-01,Valley Forge,Cedar Crest,0,2,FINAL,6473142
+2025-10-01,SUNY New Paltz,SUNY Potsdam,2,0,FINAL,6471513
+2025-10-01,Albright,FDU-Florham,0,1,FINAL,6471540
+2025-10-01,Hollins,Guilford,0,8,FINAL,6471808
+2025-10-01,Wis.-Stout,Buena Vista,4,0,FINAL,6471825
+2025-10-01,Ursinus,Immaculata,4,0,FINAL,6472074
+2025-10-01,Keystone,Penn College,1,12,FINAL,6472089
+2025-10-01,Salve Regina,U New England,0,3,FINAL,6472144
+2025-10-01,Connecticut Col.,JWU (Providence),2,1,FINAL,6472211
+2025-10-01,Buffalo St.,SUNY Morrisville,8,1,FINAL,6472235
+2025-10-01,Stevenson,Neumann,0,0,FINAL,6472614
+2025-10-01,Wheaton (MA),WPI,1,2,FINAL,6472907
+2025-10-01,Greensboro,Methodist,0,1,FINAL,6473254
+2025-10-01,Notre Dame (MD),Penn St. Harrisburg,0,5,FINAL,6473548
+2025-10-01,Bridgewater St.,Gordon,1,1,FINAL,6474668
+2025-10-01,New Jersey City,Rowan,0,1,FINAL,6474878
+2025-10-01,Tufts,MIT,1,0,FINAL,6474953
+2025-10-01,Bridgewater (VA),Wash. & Lee,0,2,FINAL,6475108
+2025-10-01,SUNY Brockport,Houghton,4,0,FINAL,6475680
+2025-10-01,McDaniel,Salisbury,0,0,FINAL,6475996
+2025-10-01,Keuka,SUNY Geneseo,0,5,FINAL,6476111
+2025-10-01,DeSales,Washington Col.,1,2,FINAL,6476398
+2025-10-01,Bethany (WV),Saint Vincent,0,5,FINAL,6476522
+2025-10-01,Utica,SUNY Poly,7,0,FINAL,6476841
+2025-10-01,Oswego St.,SUNY Canton,6,0,FINAL,6477426
+2025-10-01,Anderson (IN),Muskingum,1,0,FINAL,6477835
+2025-10-01,William Smith,Ithaca,1,0,FINAL,6472266
+2025-10-01,Carleton,Concordia-M'head,5,0,FINAL,6477623
+2025-10-01,Dominican (IL),Concordia Wisconsin,1,0,FINAL,6471390
+2025-10-01,Marymount (VA),Chris. Newport,0,3,FINAL,6471999
+2025-10-01,Eureka,Webster,1,10,FINAL,6472405
+2025-10-01,Hamline,St. Catherine,0,2,FINAL,6472814
+2025-10-01,Saint Benedict,Augsburg,0,2,FINAL,6472971
+2025-10-01,St. Olaf,Gustavus Adolphus,3,0,FINAL,6473285
+2025-10-01,Thiel,Chatham,2,7,FINAL,6473590
+2025-10-01,Roanoke,Lynchburg,0,2,FINAL,6473675
+2025-10-01,UW-River Falls,Wis.-La Crosse,0,6,FINAL,6473871
+2025-10-01,Dickinson,Susquehanna,4,2,FINAL,6474218
+2025-10-01,LaGrange,Belhaven,0,4,FINAL,6475829
+2025-10-01,Bethel (MN),St. Scholastica,0,1,FINAL,6475923
+2025-10-01,Wash. & Jeff.,Franciscan,1,1,FINAL,6477453
+2025-10-01,North Central (MN),Crown (MN),2,2,FINAL,6475438
+2025-10-01,Minn.-Morris,Northwestern-St. Paul,0,3,FINAL,6477321
+2025-10-01,Loras,Wis.-Whitewater,3,0,FINAL,6471411
+2025-10-01,TCNJ,Stockton,2,3,FINAL,6472071
+2025-10-01,Penn St.-Berks,Wilson,3,0,FINAL,6472214
+2025-10-01,Coast Guard,Eastern Conn. St.,1,2,FINAL,6474328
+2025-10-01,Saint Joseph (CT),Simmons,3,2,FINAL,6474626
+2025-10-01,UMSV,St. Joseph's (Brkln),11,0,FINAL,6475057
+2025-10-01,Wis.-Eau Claire,Wartburg,0,1,FINAL,6475334
+2025-10-01,Meredith,N.C. Wesleyan,1,0,FINAL,6475369
+2025-10-01,Anna Maria,Wentworth,0,0,FINAL,6475581
+2025-10-01,UMass Boston,Suffolk,0,2,FINAL,6475662
+2025-10-01,Wm. Paterson,Ramapo,2,0,FINAL,6476286
+2025-10-01,Rhode Island Col.,Mass. Maritime,5,0,FINAL,6477192
+2025-10-01,Russell Sage,Mt. St. Mary (NY),0,0,FINAL,6477638
+2025-10-01,Alfred,St. John Fisher,0,1,FINAL,6471516
+2025-10-01,Southern Va.,Randolph-Macon,3,0,FINAL,6471602
+2025-10-01,Allegheny,Waynesburg,0,1,FINAL,6471985
+2025-10-01,Wilkes,Marywood,3,4,FINAL,6472113
+2025-10-01,Framingham St.,Keene St.,0,1,FINAL,6472133
+2025-10-01,Franklin,Asbury,2,4,FINAL,6472278
+2025-10-01,Union (NY),Bard,2,0,FINAL,6472396
+2025-10-01,Otterbein,Denison,2,1,FINAL,6472486
+2025-10-01,Fitchburg St.,Clark (MA),1,3,FINAL,6472622
+2025-10-01,Piedmont,Wesleyan (GA),4,0,FINAL,6473108
+2025-10-01,Rutgers-Camden,Rutgers-Newark,0,0,FINAL,6473234
+2025-10-01,Covenant,Maryville (TN),0,2,FINAL,6473392
+2025-10-01,Elmira,Lycoming,0,8,FINAL,6473610
+2025-10-01,Johns Hopkins,Mary Washington,2,0,FINAL,6474573
+2025-10-01,Westfield St.,Western New Eng.,1,1,FINAL,6474911
+2025-10-01,Thomas (ME),St. Joseph's (ME),0,4,FINAL,6475561
+2025-10-01,York (PA),Goucher,9,0,FINAL,6476125
+2025-10-01,Curry,Lesley,1,0,FINAL,6476196
+2025-10-01,Bowdoin,Emerson,2,1,FINAL,6476757
+2025-10-01,Randolph,Sweet Briar,3,0,FINAL,6476890
+2025-10-01,Chapman,Claremont-M-S,2,4,FINAL,6476933
+2025-10-01,Westminster (PA),Hiram,2,0,FINAL,6471731
+2025-10-01,Kean,Montclair St.,1,5,FINAL,6472340
+2025-10-01,Carnegie Mellon,Penn St.-Behrend,1,0,FINAL,6473813
+2025-10-01,Sarah Lawrence,St. Joseph's (L.I.),0,1,FINAL,6474510
+2025-10-01,Marian (WI),MSOE,1,1,FINAL,6471620
+2025-10-01,St. Norbert,Rockford,6,0,FINAL,6472024
+2025-10-01,Saint Mary's (MN),Macalester,1,1,FINAL,6472368
+2025-10-01,Aurora,Concordia Chicago,2,1,FINAL,6472556
+2025-10-01,Linfield,Willamette,2,2,FINAL,6474537
+2025-10-01,Lakeland,Wis. Lutheran,0,4,FINAL,6476690
+2025-10-01,Benedictine (IL),Illinois Tech,0,5,FINAL,6477083
+2025-10-01,Augustana (IL),Coe,1,1,FINAL,6477397
+2025-10-01,Elmhurst,Carroll (WI),2,0,FINAL,6477656
+2025-10-01,Wis.-Platteville,Dubuque,1,0,FINAL,6471585
+2025-10-01,Westminster (MO),Blackburn,2,0,FINAL,6474706
+2025-10-01,Occidental,Caltech,3,0,FINAL,6472735
+2025-10-01,Redlands,Cal Lutheran,1,4,FINAL,6475469
+2025-10-01,La Verne,Whittier,0,0,FINAL,6476708
+2025-10-02,Hartwick,SUNY Delhi,1,0,FINAL,6473793
+2025-10-03,Schreiner,LeTourneau,4,2,FINAL,6475765
+2025-10-03,Rhodes,Sewanee,1,1,FINAL,6475796
+2025-10-03,Brooklyn,New Jersey City,0,3,FINAL,6474880
+2025-10-03,New England Col.,Mitchell,4,2,FINAL,6476298
+2025-10-03,Alma,Hope,1,2,FINAL,6475901
+2025-10-03,Norwich,Regis (MA),0,0,FINAL,6472525
+2025-10-03,Martin Luther,Wis.-Superior,0,6,FINAL,6472355
+2025-10-03,Texas Lutheran,Ozarks (AR),6,1,FINAL,6471444
+2025-10-03,St. Thomas (TX),Dallas,2,0,FINAL,6474481
+2025-10-03,Concordia (TX),Hendrix,0,3,FINAL,6474606
+2025-10-03,Oglethorpe,Trinity (TX),0,3,FINAL,6475040
+2025-10-03,MCLA,Anna Maria,0,0,FINAL,6475588
+2025-10-03,Huntingdon,Piedmont,0,2,FINAL,6473110
+2025-10-03,Merchant Marine,CCNY,3,0,FINAL,6475389
+2025-10-03,Southern Va.,William Peace,11,0,FINAL,6476153
+2025-10-03,Mass. Maritime,Westfield St.,0,3,FINAL,6476313
+2025-10-03,McMurry,Austin,4,0,FINAL,6476788
+2025-10-03,Berry,Southwestern (TX),0,0,FINAL,6472726
+2025-10-03,Lewis & Clark,Whitman,1,1,FINAL,6473040
+2025-10-03,Millsaps,Centre,1,2,FINAL,6471698
+2025-10-04,Mount Union,Otterbein,1,2,FINAL,6474158
+2025-10-04,WestConn,UMass Boston,4,1,FINAL,6475707
+2025-10-04,Suffolk,Wentworth,3,0,FINAL,6476493
+2025-10-04,SUNY Geneseo,Utica,1,1,FINAL,6476868
+2025-10-04,Middlebury,Bowdoin,1,2,FINAL,6471463
+2025-10-04,Bates,Williams,0,0,FINAL,6471572
+2025-10-04,Cortland,Plattsburgh St.,1,0,FINAL,6471683
+2025-10-04,WPI,Babson,0,1,FINAL,6472909
+2025-10-04,John Carroll,DePauw,5,0,FINAL,6473766
+2025-10-04,Colby,Hamilton,2,0,FINAL,6476178
+2025-10-04,Me.-Farmington,Maine Maritime,1,2,FINAL,6471556
+2025-10-04,Hartford,Gordon,5,1,FINAL,6471886
+2025-10-04,VTSU Castleton,UMass Dartmouth,2,1,FINAL,6472014
+2025-10-04,Geneva,Allegheny,2,2,FINAL,6472047
+2025-10-04,Immaculata,Centenary (NJ),2,0,FINAL,6472088
+2025-10-04,U New England,Thomas (ME),9,0,FINAL,6472147
+2025-10-04,Western New Eng.,Roger Williams,0,1,FINAL,6472205
+2025-10-04,Husson,Me.-Presque Isle,6,0,FINAL,6472253
+2025-10-04,Wesleyan (CT),Amherst,3,0,FINAL,6472415
+2025-10-04,Salem St.,Fitchburg St.,2,1,FINAL,6472638
+2025-10-04,Methodist,Brevard,1,2,FINAL,6472659
+2025-10-04,Gwynedd Mercy,Saint Elizabeth,9,1,FINAL,6472753
+2025-10-04,Ursinus,Muhlenberg,3,0,FINAL,6473009
+2025-10-04,Emmanuel (MA),Rivier,3,1,FINAL,6473356
+2025-10-04,Bethany (WV),Chatham,1,3,FINAL,6474020
+2025-10-04,Saint Joseph (CT),Lasell,0,1,FINAL,6474633
+2025-10-04,Olivet,Albion,0,7,FINAL,6474987
+2025-10-04,Arcadia,Lebanon Valley,2,2,FINAL,6475179
+2025-10-04,Trinity (CT),Tufts,0,2,FINAL,6475267
+2025-10-04,JWU (Providence),Endicott,1,2,FINAL,6475409
+2025-10-04,North Central (IL),Trine,4,2,FINAL,6476074
+2025-10-04,Clark (MA),Emerson,0,0,FINAL,6476759
+2025-10-04,Grinnell,Ripon,0,0,FINAL,6477272
+2025-10-04,Nichols,Curry,1,4,FINAL,6477333
+2025-10-04,Lawrence,Cornell College,4,0,FINAL,6477761
+2025-10-04,Penn St.-Behrend,Mount Aloysius,6,0,FINAL,6471373
+2025-10-04,Hanover,Rose-Hulman,0,2,FINAL,6471488
+2025-10-04,Fredonia,SUNY New Paltz,3,2,FINAL,6471514
+2025-10-04,Sweet Briar,Randolph-Macon,0,16,FINAL,6471603
+2025-10-04,Kenyon,Wooster,1,0,FINAL,6471667
+2025-10-04,Berea,Bluffton,2,0,FINAL,6471764
+2025-10-04,Baldwin Wallace,Capital,1,2,FINAL,6471840
+2025-10-04,St. Mary's (IN),Calvin,0,5,FINAL,6471951
+2025-10-04,Wash. & Jeff.,Waynesburg,2,2,FINAL,6471989
+2025-10-04,Montclair St.,TCNJ,2,2,FINAL,6472072
+2025-10-04,Juniata,Wilkes,1,1,FINAL,6472114
+2025-10-04,Simmons,Dean,2,1,FINAL,6472158
+2025-10-04,SUNY Canton,Buffalo St.,0,5,FINAL,6472238
+2025-10-04,New Jersey City,Stockton,2,2,FINAL,6472353
+2025-10-04,Manchester,Transylvania,0,3,FINAL,6472500
+2025-10-04,Marietta,Ohio Northern,0,0,FINAL,6472506
+2025-10-04,St. Joseph's (ME),Elms,1,0,FINAL,6472537
+2025-10-04,Elizabethtown,Susquehanna,2,1,FINAL,6472559
+2025-10-04,Oberlin,Wittenberg,1,4,FINAL,6473416
+2025-10-04,Moravian,Catholic,0,5,FINAL,6473438
+2025-10-04,Lycoming,Drew,3,1,FINAL,6473615
+2025-10-04,Spalding,MUW,7,0,FINAL,6474098
+2025-10-04,SUNY Oneonta,SUNY Potsdam,0,0,FINAL,6474145
+2025-10-04,Wellesley,Smith,1,0,FINAL,6474252
+2025-10-04,SUNY Morrisville,Oswego St.,3,9,FINAL,6474281
+2025-10-04,Eastern Conn. St.,Plymouth St.,4,1,FINAL,6474332
+2025-10-04,RIT,Vassar,0,2,FINAL,6474586
+2025-10-04,Wheaton (MA),Mount Holyoke,3,0,FINAL,6474739
+2025-10-04,Coast Guard,MIT,0,5,FINAL,6474956
+2025-10-04,Bridgewater (VA),Roanoke,4,0,FINAL,6475121
+2025-10-04,Batten,Shenandoah,4,0,FINAL,6475199
+2025-10-04,Hood,Eastern,0,2,FINAL,6475543
+2025-10-04,SUNY Brockport,SUNY Poly,9,0,FINAL,6475687
+2025-10-04,Salve Regina,Springfield,1,2,FINAL,6476033
+2025-10-04,Goucher,Scranton,0,6,FINAL,6476065
+2025-10-04,VTSU-Johnson,Lesley,1,1,FINAL,6476198
+2025-10-04,Franklin,Mt. St. Joseph,0,6,FINAL,6477783
+2025-10-04,Anderson (IN),Earlham,1,0,FINAL,6477794
+2025-10-04,Concordia Wisconsin,Edgewood,0,3,FINAL,6471391
+2025-10-04,Bethany Lutheran,Wis.-Superior,0,4,FINAL,6472362
+2025-10-04,CWRU,Rochester (NY),3,1,FINAL,6472619
+2025-10-04,St. Joseph's (Brkln),Sarah Lawrence,0,10,FINAL,6474512
+2025-10-04,Dubuque,Luther,2,1,FINAL,6471586
+2025-10-04,Illinois Tech,Marian (WI),7,0,FINAL,6471621
+2025-10-04,Beloit,Knox,2,1,FINAL,6471716
+2025-10-04,Hollins,Randolph,1,7,FINAL,6471809
+2025-10-04,Guilford,Wash. & Lee,0,4,FINAL,6471929
+2025-10-04,Asbury,LaGrange,1,0,FINAL,6472280
+2025-10-04,N.C. Wesleyan,Pfeiffer,3,1,FINAL,6472298
+2025-10-04,Union (NY),Rensselaer,1,0,FINAL,6472427
+2025-10-04,Wilmington (OH),Heidelberg,3,2,FINAL,6472462
+2025-10-04,Aurora,Lakeland,4,0,FINAL,6472558
+2025-10-04,William Smith,Clarkson,4,2,FINAL,6472744
+2025-10-04,Warren Wilson,Greensboro,0,1,FINAL,6474386
+2025-10-04,Marymount (VA),Pratt,3,1,FINAL,6475678
+2025-10-04,Maryville (TN),Agnes Scott,13,0,FINAL,6476329
+2025-10-04,Rockford,Wis. Lutheran,0,6,FINAL,6476351
+2025-10-04,Lake Forest,Illinois Col.,4,2,FINAL,6476648
+2025-10-04,La Verne,Claremont-M-S,0,1,FINAL,6476710
+2025-10-04,Benedictine (IL),MSOE,0,3,FINAL,6476828
+2025-10-04,Chapman,UC Santa Cruz,1,0,FINAL,6476935
+2025-10-04,Carroll (WI),Augustana (IL),2,1,FINAL,6477400
+2025-10-04,St. Catherine,Carleton,0,1,FINAL,6477618
+2025-10-04,Old Westbury,SUNY Maritime,3,0,FINAL,6471476
+2025-10-04,UChicago,NYU,3,2,FINAL,6471642
+2025-10-04,WashU,Brandeis,4,0,FINAL,6472645
+2025-10-04,DeSales,Delaware Valley,6,0,FINAL,6475860
+2025-10-04,FDU-Florham,Misericordia,0,5,FINAL,6471541
+2025-10-04,Averett,Lynchburg,0,9,FINAL,6471854
+2025-10-04,UMSV,Farmingdale St.,2,0,FINAL,6471970
+2025-10-04,York (PA),Albright,1,0,FINAL,6472090
+2025-10-04,Wis.-Eau Claire,Wis.-Oshkosh,1,0,FINAL,6472172
+2025-10-04,Skidmore,Ithaca,1,1,FINAL,6472279
+2025-10-04,Marywood,Neumann,2,0,FINAL,6472618
+2025-10-04,George Fox,Whitworth,0,0,FINAL,6472675
+2025-10-04,Wilson,Cedar Crest,3,1,FINAL,6473144
+2025-10-04,Bard,St. Lawrence,0,4,FINAL,6473332
+2025-10-04,Franklin & Marshall,Dickinson,1,1,FINAL,6473488
+2025-10-04,Keuka,Hartwick,1,2,FINAL,6473795
+2025-10-04,Johns Hopkins,Bryn Mawr,5,0,FINAL,6473884
+2025-10-04,Pacific Lutheran,Pacific (OR),0,0,FINAL,6474443
+2025-10-04,St. Joseph's (L.I.),Manhattanville,2,1,FINAL,6475916
+2025-10-04,Penn St.-Abington,Cairn,2,0,FINAL,6477726
+2025-10-04,Puget Sound,Linfield,2,1,FINAL,6477863
+2025-10-04,Keene St.,Southern Me.,2,2,FINAL,6472136
+2025-10-04,St. Mary's (MD),Keystone,10,0,FINAL,6472450
+2025-10-04,Valley Forge,Penn St. Harrisburg,0,11,FINAL,6473552
+2025-10-04,Grove City,Thiel,11,0,FINAL,6473597
+2025-10-04,Minn.-Morris,North Central (MN),5,1,FINAL,6475498
+2025-10-04,Houghton,Nazareth,2,1,FINAL,6476087
+2025-10-04,Penn College,Notre Dame (MD),4,0,FINAL,6476614
+2025-10-04,King's (PA),Stevens,0,1,FINAL,6471429
+2025-10-04,Wis.-Stout,Wis.-Platteville,1,1,FINAL,6471826
+2025-10-04,Alfred St.,La Roche,1,0,FINAL,6471923
+2025-10-04,Principia,Eureka,1,0,FINAL,6472408
+2025-10-04,St. John Fisher,Russell Sage,3,0,FINAL,6472561
+2025-10-04,Salisbury,Gettysburg,2,0,FINAL,6472676
+2025-10-04,Stevenson,Alvernia,1,0,FINAL,6473709
+2025-10-04,Mt. St. Mary (NY),Purchase,4,0,FINAL,6473998
+2025-10-04,Greenville,Webster,5,1,FINAL,6475760
+2025-10-04,Swarthmore,McDaniel,4,0,FINAL,6475845
+2025-10-04,Washington Col.,Haverford,1,0,FINAL,6476404
+2025-10-04,Cal Lutheran,Caltech,3,0,FINAL,6477696
+2025-10-04,Pitt.-Bradford,Pitt.-Greensburg,0,9,FINAL,6477732
+2025-10-04,Franciscan,Westminster (PA),1,0,FINAL,6471732
+2025-10-04,Concordia-M'head,Saint Mary's (MN),2,2,FINAL,6472370
+2025-10-04,Simpson,Neb. Wesleyan,5,0,FINAL,6472667
+2025-10-04,St. Scholastica,Hamline,0,0,FINAL,6472816
+2025-10-04,Saint Benedict,St. Olaf,0,1,FINAL,6473289
+2025-10-04,Lyon,Westminster (MO),0,4,FINAL,6474710
+2025-10-04,Crown (MN),Northwestern-St. Paul,0,4,FINAL,6475440
+2025-10-04,Bethel (MN),Gustavus Adolphus,0,2,FINAL,6475927
+2025-10-04,Albertus Magnus,Colby-Sawyer,3,0,FINAL,6477252
+2025-10-04,Wis.-Whitewater,UW-River Falls,1,2,FINAL,6471412
+2025-10-04,Wm. Paterson,Rutgers-Newark,0,1,FINAL,6473250
+2025-10-04,Carthage,Ill. Wesleyan,7,2,FINAL,6474404
+2025-10-04,Rowan,Rutgers-Camden,2,0,FINAL,6476912
+2025-10-04,Wis.-Stevens Point,Wis.-La Crosse,1,4,FINAL,6477440
+2025-10-04,Worcester St.,Bridgewater St.,1,0,FINAL,6477373
+2025-10-04,North Park,Wheaton (IL),5,1,FINAL,6471649
+2025-10-04,Adrian,Kalamazoo,1,2,FINAL,6473915
+2025-10-04,Loras,Buena Vista,5,0,FINAL,6475084
+2025-10-04,Messiah,Widener,3,0,FINAL,6475205
+2025-10-04,Hardin-Simmons,Howard Payne,3,0,FINAL,6475287
+2025-10-04,East Tex. Baptist,Mary Hardin-Baylor,0,1,FINAL,6475631
+2025-10-04,Elmhurst,Millikin,1,1,FINAL,6477547
+2025-10-04,Coe,Central (IA),0,7,FINAL,6477671
+2025-10-04,Alfred,Elmira,0,0,FINAL,6471518
+2025-10-04,Chris. Newport,Mary Washington,0,1,FINAL,6472239
+2025-10-04,Ohio Wesleyan,Denison,1,1,FINAL,6472487
+2025-10-04,Ramapo,Kean,1,2,FINAL,6473927
+2025-10-04,Hiram,Saint Vincent,0,3,FINAL,6475523
+2025-10-04,Belhaven,Wesleyan (GA),6,0,FINAL,6475834
+2025-10-04,Redlands,Occidental,0,1,FINAL,6472749
+2025-10-04,Whittier,Pomona-Pitzer,0,0,FINAL,6477750
+2025-10-05,Oglethorpe,Southwestern (TX),2,0,FINAL,6475020
+2025-10-05,Millsaps,Sewanee,0,7,FINAL,6471699
+2025-10-05,Bates,Hamilton,2,3,FINAL,6472357
+2025-10-05,Texas Lutheran,Hendrix,3,0,FINAL,6471445
+2025-10-05,Southern Me.,Williams,1,4,FINAL,6471573
+2025-10-05,Berea,MUW,1,1,FINAL,6471771
+2025-10-05,Centenary (LA),Dallas,0,0,FINAL,6474483
+2025-10-05,LeTourneau,McMurry,1,3,FINAL,6475776
+2025-10-05,Rhodes,Centre,1,0,FINAL,6475812
+2025-10-05,Ozarks (AR),Concordia (TX),1,1,FINAL,6476478
+2025-10-05,Schreiner,Austin,1,2,FINAL,6476806
+2025-10-05,Berry,Trinity (TX),0,0,FINAL,6472733
+2025-10-05,Carnegie Mellon,Emory,0,0,FINAL,6473833
+2025-10-05,Concordia Chicago,St. Norbert,1,1,FINAL,6472026
+2025-10-05,Penn St. Harrisburg,Stevens,0,2,FINAL,6472337
+2025-10-05,Mary Baldwin,Meredith,6,0,FINAL,6475372
+2025-10-05,Lewis & Clark,Whitworth,2,0,FINAL,6472682
+2025-10-05,Puget Sound,Pacific (OR),0,0,FINAL,6474445
+2025-10-05,Pacific Lutheran,Linfield,2,0,FINAL,6474845
+2025-10-05,George Fox,Whitman,0,0,FINAL,6475351
+2025-10-06,Rhode Island Col.,Lesley,2,1,FINAL,6476200
+2025-10-06,UChicago,Illinois Tech,5,1,FINAL,6471643
+2025-10-06,Emmanuel (MA),Amherst,1,3,FINAL,6473359
+2025-10-06,Ramapo,CCNY,4,0,FINAL,6500379
+2025-10-06,Macalester,Augsburg,0,1,FINAL,6472973
+2025-10-07,Pfeiffer,Salem (NC),3,3,FINAL,6472300
+2025-10-07,Penn St.-Berks,Lancaster Bible,1,2,FINAL,6472325
+2025-10-07,Old Westbury,St. Joseph's (Brkln),2,0,FINAL,6473191
+2025-10-07,Notre Dame (MD),St. Mary's (MD),1,7,FINAL,6472458
+2025-10-07,St. Lawrence,Clarkson,2,0,FINAL,6473334
+2025-10-07,Manhattanville,Sarah Lawrence,1,2,FINAL,6474514
+2025-10-07,Tufts,Endicott,2,0,FINAL,6475269
+2025-10-07,Wilson,Cairn,2,1,FINAL,6475872
+2025-10-07,SUNY Maritime,Lehman,1,0,FINAL,6471478
+2025-10-07,Chatham,Westminster (PA),1,0,FINAL,6471733
+2025-10-07,Greensboro,Mary Baldwin,2,1,FINAL,6474388
+2025-10-07,Maranatha Baptist,Ripon,0,6,FINAL,6477855
+2025-10-07,Martin Luther,Bethany Lutheran,1,8,FINAL,6476244
+2025-10-07,Alfred,Rochester (NY),0,1,FINAL,6471520
+2025-10-07,Farmingdale St.,Purchase,4,0,FINAL,6471974
+2025-10-07,Stockton,Eastern,2,1,FINAL,6472359
+2025-10-07,Cedar Crest,Penn St.-Abington,0,2,FINAL,6473146
+2025-10-07,Stevenson,Salisbury,0,0,FINAL,6473711
+2025-10-07,Wash. & Lee,Sweet Briar,12,0,FINAL,6475110
+2025-10-07,St. Joseph's (L.I.),UMSV,3,0,FINAL,6475918
+2025-10-07,William Peace,N.C. Wesleyan,1,3,FINAL,6476156
+2025-10-07,Greenville,WashU,0,4,FINAL,6472650
+2025-10-07,Susquehanna,Wilkes,2,2,FINAL,6472115
+2025-10-07,Rivier,Dean,9,0,FINAL,6472159
+2025-10-07,Southern Va.,Chris. Newport,0,1,FINAL,6472242
+2025-10-07,Husson,Colby,0,3,FINAL,6472254
+2025-10-07,Juniata,Elizabethtown,0,1,FINAL,6472560
+2025-10-07,Saint Vincent,Geneva,2,0,FINAL,6473198
+2025-10-07,Drew,Moravian,2,3,FINAL,6473442
+2025-10-07,Lycoming,Scranton,0,2,FINAL,6473617
+2025-10-07,Bowdoin,Maine Maritime,2,0,FINAL,6474060
+2025-10-07,Merchant Marine,Mt. St. Mary (NY),2,1,FINAL,6475391
+2025-10-07,Catholic,Goucher,8,0,FINAL,6475597
+2025-10-07,Westfield St.,VTSU Castleton,1,0,FINAL,6476269
+2025-10-07,Penn College,Penn St. Harrisburg,0,1,FINAL,6473559
+2025-10-07,Crown (MN),Minn.-Morris,0,1,FINAL,6475442
+2025-10-07,Northwestern-St. Paul,North Central (MN),6,0,FINAL,6475500
+2025-10-08,Wittenberg,DePauw,4,0,FINAL,6473769
+2025-10-08,Emerson,Wellesley,0,0,FINAL,6474254
+2025-10-08,Russell Sage,Utica,0,0,FINAL,6475611
+2025-10-08,Warren Wilson,Brevard,0,4,FINAL,6472663
+2025-10-08,U New England,Hartford,1,2,FINAL,6471887
+2025-10-08,Saint Elizabeth,Marywood,0,6,FINAL,6471796
+2025-10-08,St. Scholastica,Wis.-Superior,0,2,FINAL,6472374
+2025-10-08,Lasell,Elms,4,0,FINAL,6472540
+2025-10-08,Babson,Clark (MA),2,1,FINAL,6476442
+2025-10-08,Earlham,Bluffton,2,1,FINAL,6472042
+2025-10-08,SUNY New Paltz,SUNY Morrisville,4,0,FINAL,6471517
+2025-10-08,Southern Me.,Me.-Farmington,5,0,FINAL,6471557
+2025-10-08,Plattsburgh St.,SUNY Oneonta,2,0,FINAL,6471684
+2025-10-08,Roger Williams,Worcester St.,3,1,FINAL,6472209
+2025-10-08,Vassar,Union (NY),2,0,FINAL,6472406
+2025-10-08,Manchester,Anderson (IN),0,3,FINAL,6472503
+2025-10-08,Dominican (IL),Aurora,3,1,FINAL,6472562
+2025-10-08,Centenary (NJ),Neumann,1,5,FINAL,6472621
+2025-10-08,Haverford,Bryn Mawr,2,0,FINAL,6473886
+2025-10-08,Brooklyn,Kean,1,6,FINAL,6473929
+2025-10-08,Gordon,Nichols,8,1,FINAL,6474673
+2025-10-08,Smith,Mount Holyoke,3,0,FINAL,6474741
+2025-10-08,Western New Eng.,Curry,0,0,FINAL,6474914
+2025-10-08,MIT,Salve Regina,3,0,FINAL,6474958
+2025-10-08,Lebanon Valley,Hood,3,0,FINAL,6475181
+2025-10-08,SUNY Brockport,Nazareth,1,0,FINAL,6475691
+2025-10-08,Rockford,Benedictine (IL),0,6,FINAL,6476353
+2025-10-08,Wentworth,JWU (Providence),1,2,FINAL,6476496
+2025-10-08,Colby-Sawyer,Simmons,2,0,FINAL,6477015
+2025-10-08,SUNY Geneseo,RIT,0,0,FINAL,6477518
+2025-10-08,Hiram,Grove City,0,4,FINAL,6475529
+2025-10-08,Concordia Wisconsin,Concordia Chicago,3,0,FINAL,6471392
+2025-10-08,Hanover,Mt. St. Joseph,1,2,FINAL,6471490
+2025-10-08,Wis.-Eau Claire,Wis.-Stout,1,1,FINAL,6471827
+2025-10-08,Hamline,UW-River Falls,0,0,FINAL,6472818
+2025-10-08,Agnes Scott,Covenant,0,2,FINAL,6473394
+2025-10-08,Rowan,Messiah,2,1,FINAL,6475208
+2025-10-08,Houghton,Keuka,1,0,FINAL,6476104
+2025-10-08,Hope,Albion,3,0,FINAL,6477230
+2025-10-08,Cornell College,Grinnell,0,3,FINAL,6477274
+2025-10-08,Guilford,Randolph-Macon,0,2,FINAL,6471604
+2025-10-08,Kalamazoo,Olivet,7,0,FINAL,6473900
+2025-10-08,Spalding,Blackburn,7,0,FINAL,6474100
+2025-10-08,Wartburg,Dubuque,0,2,FINAL,6471587
+2025-10-08,MCLA,SUNY Poly,2,2,FINAL,6471903
+2025-10-08,Waynesburg,Thiel,11,0,FINAL,6471994
+2025-10-08,Marymount (VA),Immaculata,2,0,FINAL,6472095
+2025-10-08,Luther,Loras,0,5,FINAL,6472271
+2025-10-08,WestConn,Montclair St.,0,2,FINAL,6472354
+2025-10-08,Fitchburg St.,Lesley,1,1,FINAL,6472643
+2025-10-08,Oswego St.,Cortland,0,2,FINAL,6473460
+2025-10-08,Lynchburg,Batten,0,0,FINAL,6473691
+2025-10-08,Hartwick,Elmira,5,0,FINAL,6473797
+2025-10-08,SUNY Potsdam,SUNY Canton,5,0,FINAL,6474147
+2025-10-08,Alvernia,Wm. Paterson,2,0,FINAL,6474305
+2025-10-08,Trinity (CT),Eastern Conn. St.,3,0,FINAL,6474330
+2025-10-08,Saint Joseph (CT),Albertus Magnus,0,1,FINAL,6474637
+2025-10-08,Buena Vista,Coe,3,1,FINAL,6475086
+2025-10-08,Roanoke,East. Mennonite,4,1,FINAL,6475123
+2025-10-08,Simpson,Central (IA),3,1,FINAL,6475159
+2025-10-08,Anna Maria,John Jay,0,1,FINAL,6475593
+2025-10-08,UMass Boston,Brandeis,0,3,FINAL,6475709
+2025-10-08,Wesleyan (GA),Huntingdon,0,5,FINAL,6477708
+2025-10-08,Gettysburg,Johns Hopkins,1,4,FINAL,6500898
+2025-10-08,Illinois Col.,Beloit,3,0,FINAL,6476420
+2025-10-08,Mount Aloysius,Penn St.-Altoona,0,0,FINAL,6471374
+2025-10-08,Rutgers-Newark,King's (PA),0,1,FINAL,6471430
+2025-10-08,Rutgers-Camden,FDU-Florham,1,1,FINAL,6471542
+2025-10-08,Franklin,Rose-Hulman,0,3,FINAL,6471749
+2025-10-08,Berea,Transylvania,0,4,FINAL,6471765
+2025-10-08,Capital,Heidelberg,3,4,FINAL,6471841
+2025-10-08,Randolph,Averett,2,0,FINAL,6471855
+2025-10-08,Framingham St.,UMass Dartmouth,0,3,FINAL,6472015
+2025-10-08,Allegheny,Wash. & Jeff.,5,1,FINAL,6472048
+2025-10-08,Bridgewater St.,Connecticut Col.,0,0,FINAL,6472215
+2025-10-08,Fredonia,Buffalo St.,1,1,FINAL,6472241
+2025-10-08,Asbury,Maryville (TN),0,2,FINAL,6472282
+2025-10-08,Calvin,Trine,2,1,FINAL,6472413
+2025-10-08,Wilmington (OH),Muskingum,4,1,FINAL,6472464
+2025-10-08,Otterbein,Marietta,1,0,FINAL,6472508
+2025-10-08,Chapman,Occidental,1,0,FINAL,6472756
+2025-10-08,Rensselaer,Skidmore,0,0,FINAL,6472849
+2025-10-08,Washington Col.,Ursinus,1,0,FINAL,6473011
+2025-10-08,LaGrange,Piedmont,1,2,FINAL,6473113
+2025-10-08,Emmanuel (MA),Norwich,1,1,FINAL,6473361
+2025-10-08,Franklin & Marshall,McDaniel,1,1,FINAL,6473491
+2025-10-08,Penn St.-Behrend,Hilbert,11,0,FINAL,6473953
+2025-10-08,Salem St.,Plymouth St.,0,1,FINAL,6474348
+2025-10-08,Mary Washington,Dickinson,0,0,FINAL,6474577
+2025-10-08,Shenandoah,Bridgewater (VA),2,0,FINAL,6475201
+2025-10-08,Muhlenberg,Swarthmore,0,2,FINAL,6475847
+2025-10-08,Adrian,Alma,5,1,FINAL,6475905
+2025-10-08,Wis.-La Crosse,Bethel (MN),8,0,FINAL,6475932
+2025-10-08,Regis (MA),Mitchell,10,0,FINAL,6475956
+2025-10-08,Springfield,Coast Guard,2,1,FINAL,6476036
+2025-10-08,New England Col.,St. Joseph's (ME),0,1,FINAL,6476371
+2025-10-08,Pratt,Gwynedd Mercy,5,0,FINAL,6476540
+2025-10-08,Lawrence,Lake Forest,0,3,FINAL,6476650
+2025-10-08,Caltech,Claremont-M-S,1,3,FINAL,6477532
+2025-10-08,Ohio Northern,Baldwin Wallace,0,1,FINAL,6477545
+2025-10-08,Franciscan,Bethany (WV),3,1,FINAL,6476525
+2025-10-08,Wis.-Platteville,Wis.-Whitewater,2,0,FINAL,6471413
+2025-10-08,Wheaton (IL),Ill. Wesleyan,0,0,FINAL,6471651
+2025-10-08,Knox,Monmouth (IL),1,2,FINAL,6471717
+2025-10-08,St. Norbert,Edgewood,0,2,FINAL,6472028
+2025-10-08,Wis.-Oshkosh,Wis.-Stevens Point,0,0,FINAL,6472178
+2025-10-08,George Fox,Pacific (OR),0,1,FINAL,6474447
+2025-10-08,Southwestern (TX),Mary Hardin-Baylor,1,4,FINAL,6475023
+2025-10-08,MSOE,Wis. Lutheran,2,0,FINAL,6476688
+2025-10-08,Illinois Tech,Lakeland,13,0,FINAL,6477088
+2025-10-08,Augustana (IL),North Central (IL),0,5,FINAL,6477163
+2025-10-08,Carroll (WI),Carthage,0,0,FINAL,6477239
+2025-10-08,North Park,Elmhurst,2,0,FINAL,6477658
+2025-10-08,Webster,Westminster (MO),1,0,FINAL,6474717
+2025-10-08,Redlands,Pomona-Pitzer,0,2,FINAL,6475471
+2025-10-08,Whittier,Cal Lutheran,2,1,FINAL,6477752
+2025-10-09,Lehman,Purchase,0,3,FINAL,6499881
+2025-10-09,Eureka,Lyon,1,1,FINAL,6472412
+2025-10-10,Eastern,Messiah,1,5,FINAL,6475210
+2025-10-10,Marian (WI),Aurora,4,0,FINAL,6471622
+2025-10-10,Chatham,Wash. & Jeff.,1,0,FINAL,6474022
+2025-10-10,Dallas,Concordia (TX),0,1,FINAL,6474486
+2025-10-10,Hendrix,Schreiner,1,0,FINAL,6474610
+2025-10-10,Austin,St. Thomas (TX),1,1,FINAL,6474790
+2025-10-10,LeTourneau,Centenary (LA),3,0,FINAL,6475780
+2025-10-10,Ozarks (AR),McMurry,0,5,FINAL,6500960
+2025-10-10,Westminster (PA),Grove City,0,1,FINAL,6471734
+2025-10-11,Baldwin Wallace,Otterbein,3,0,FINAL,6474160
+2025-10-11,Lehman,John Jay,0,4,FINAL,6473080
+2025-10-11,Colby,Middlebury,0,1,FINAL,6471464
+2025-10-11,Fitchburg St.,MCLA,0,0,FINAL,6471904
+2025-10-11,TCNJ,Ramapo,7,0,FINAL,6472075
+2025-10-11,Hamilton,Connecticut Col.,3,1,FINAL,6472217
+2025-10-11,SUNY Cobleskill ,Husson,1,6,FINAL,6472258
+2025-10-11,Brevard,Mary Baldwin,4,1,FINAL,6472666
+2025-10-11,Old Westbury,Merchant Marine,1,4,FINAL,6473196
+2025-10-11,Clarkson,Bard,3,1,FINAL,6473971
+2025-10-11,William Peace,Greensboro,0,4,FINAL,6474395
+2025-10-11,FDU-Florham,King's (PA),0,0,FINAL,6471431
+2025-10-11,Lesley,Me.-Farmington,4,0,FINAL,6471558
+2025-10-11,Millsaps,Berry,1,5,FINAL,6471700
+2025-10-11,Ripon,Knox,0,0,FINAL,6471718
+2025-10-11,Allegheny,Hiram,2,0,FINAL,6472049
+2025-10-11,Keystone,Cedar Crest,1,8,FINAL,6472098
+2025-10-11,Endicott,U New England,0,1,FINAL,6472151
+2025-10-11,Dean,Emmanuel (MA),0,12,FINAL,6472161
+2025-10-11,Olivet,Calvin,0,6,FINAL,6472422
+2025-10-11,Colby-Sawyer,Elms,1,1,FINAL,6472543
+2025-10-11,East. Mennonite,Sweet Briar,2,0,FINAL,6472637
+2025-10-11,WPI,Salve Regina,1,0,FINAL,6472911
+2025-10-11,Bethany (WV),Geneva,1,5,FINAL,6473201
+2025-10-11,Purchase,CCNY,0,0,FINAL,6474000
+2025-10-11,VTSU Lyndon,Maine Maritime,0,8,FINAL,6474065
+2025-10-11,Gordon,Western New Eng.,1,2,FINAL,6474675
+2025-10-11,Southwestern (TX),Sewanee,1,2,FINAL,6475025
+2025-10-11,Manhattanville,St. Joseph's (Brkln),6,0,FINAL,6475059
+2025-10-11,Anna Maria,Framingham St.,0,2,FINAL,6475312
+2025-10-11,Gwynedd Mercy,Marymount (VA),0,2,FINAL,6475682
+2025-10-11,Trine,Hope,0,3,FINAL,6476080
+2025-10-11,New England Col.,Lasell,1,5,FINAL,6476374
+2025-10-11,Beloit,Lake Forest,0,5,FINAL,6476422
+2025-10-11,Southern Me.,WestConn,2,2,FINAL,6476879
+2025-10-11,Dickinson,Haverford,2,1,FINAL,6476955
+2025-10-11,Earlham,Transylvania,0,3,FINAL,6477110
+2025-10-11,North Central (IL),Elmhurst,1,0,FINAL,6477165
+2025-10-11,Monmouth (IL),Lawrence,0,3,FINAL,6477286
+2025-10-11,York (NY),Brooklyn,0,4,FINAL,6477353
+2025-10-11,McDaniel,Muhlenberg,0,1,FINAL,6477605
+2025-10-11,Bowdoin,Trinity (CT),1,0,FINAL,6477621
+2025-10-11,UMSV,Mt. St. Mary (NY),4,0,FINAL,6477641
+2025-10-11,Smith,Clark (MA),4,5,FINAL,6477689
+2025-10-11,St. Mary's (IN),Adrian,0,4,FINAL,6471952
+2025-10-11,CWRU,WashU,1,2,FINAL,6472654
+2025-10-11,Mount Aloysius,Alfred St.,0,3,FINAL,6471375
+2025-10-11,Bluffton,Hanover,0,4,FINAL,6471492
+2025-10-11,Oswego St.,SUNY New Paltz,0,0,FINAL,6471519
+2025-10-11,Utica,Alfred,4,0,FINAL,6471521
+2025-10-11,Williams,Wesleyan (CT),1,0,FINAL,6471574
+2025-10-11,SUNY Canton,Plattsburgh St.,0,2,FINAL,6471685
+2025-10-11,Immaculata,Saint Elizabeth,6,0,FINAL,6471797
+2025-10-11,Shenandoah,Hollins,8,0,FINAL,6471811
+2025-10-11,Batten,Averett,6,0,FINAL,6471856
+2025-10-11,La Roche,Hilbert,1,1,FINAL,6471925
+2025-10-11,Catholic,Wilkes,1,1,FINAL,6472116
+2025-10-11,Buffalo St.,Cortland,0,2,FINAL,6472243
+2025-10-11,Misericordia,Stevens,1,0,FINAL,6472342
+2025-10-11,Stockton,Rutgers-Camden,0,1,FINAL,6472365
+2025-10-11,Mount Union,Wilmington (OH),1,3,FINAL,6472465
+2025-10-11,Denison,Oberlin,3,0,FINAL,6472489
+2025-10-11,Manchester,Berea,0,1,FINAL,6472505
+2025-10-11,Scranton,Elizabethtown,4,0,FINAL,6472563
+2025-10-11,St. John Fisher,SUNY Brockport,0,1,FINAL,6472566
+2025-10-11,Bryn Mawr,Gettysburg,0,2,FINAL,6472685
+2025-10-11,Lycoming,Moravian,4,0,FINAL,6473446
+2025-10-11,Hartwick,Houghton,0,0,FINAL,6473799
+2025-10-11,SUNY Morrisville,SUNY Potsdam,1,4,FINAL,6474149
+2025-10-11,MUW,Greenville,0,5,FINAL,6474185
+2025-10-11,Wellesley,Wheaton (MA),3,0,FINAL,6474256
+2025-10-11,Mount Holyoke,Babson,0,1,FINAL,6474743
+2025-10-11,MIT,Springfield,4,0,FINAL,6474960
+2025-10-11,Trinity (TX),Centre,2,0,FINAL,6475042
+2025-10-11,Wash. & Lee,Roanoke,4,0,FINAL,6475112
+2025-10-11,Lebanon Valley,Delaware Valley,6,0,FINAL,6475183
+2025-10-11,VTSU-Johnson,Thomas (ME),0,0,FINAL,6475563
+2025-10-11,Simmons,Regis (MA),0,2,FINAL,6475958
+2025-10-11,Russell Sage,Nazareth,0,3,FINAL,6476089
+2025-10-11,SUNY Poly,Keuka,1,3,FINAL,6476107
+2025-10-11,Goucher,Juniata,0,3,FINAL,6476127
+2025-10-11,Elmira,SUNY Geneseo,0,3,FINAL,6476167
+2025-10-11,Mitchell,St. Joseph's (ME),0,5,FINAL,6476300
+2025-10-11,SUNY Oneonta,Fredonia,2,4,FINAL,6476516
+2025-10-11,Coast Guard,Emerson,1,3,FINAL,6476761
+2025-10-11,Rowan,Wm. Paterson,3,0,FINAL,6476917
+2025-10-11,Rhodes,Oglethorpe,2,1,FINAL,6476999
+2025-10-11,SUNY Delhi,Me.-Presque Isle,4,0,FINAL,6477215
+2025-10-11,Albertus Magnus,Rivier,1,2,FINAL,6477255
+2025-10-11,Coe,Grinnell,2,2,FINAL,6477277
+2025-10-11,Anderson (IN),Franklin,3,1,FINAL,6477785
+2025-10-11,Ohio Northern,Muskingum,2,0,FINAL,6495733
+2025-10-11,Eureka,Spalding,0,10,FINAL,6472419
+2025-10-11,Carnegie Mellon,UChicago,1,2,FINAL,6471644
+2025-10-11,Brandeis,Emory,0,3,FINAL,6473835
+2025-10-11,Minn.-Morris,Martin Luther,2,1,FINAL,6476247
+2025-10-11,Dubuque,Neb. Wesleyan,1,1,FINAL,6471588
+2025-10-11,Augustana (IL),Wheaton (IL),1,4,FINAL,6471652
+2025-10-11,St. Norbert,Benedictine (IL),1,0,FINAL,6472029
+2025-10-11,Rhode Island Col.,Keene St.,0,2,FINAL,6472137
+2025-10-11,Ithaca,Rensselaer,2,0,FINAL,6472281
+2025-10-11,Agnes Scott,Asbury,0,3,FINAL,6472284
+2025-10-11,Union (NY),RIT,3,1,FINAL,6472410
+2025-10-11,Heidelberg,Marietta,0,0,FINAL,6472509
+2025-10-11,Piedmont,Covenant,3,0,FINAL,6473115
+2025-10-11,Southern Va.,Methodist,4,0,FINAL,6473276
+2025-10-11,Penn St.-Altoona,Pitt.-Bradford,2,0,FINAL,6473752
+2025-10-11,Pitt.-Greensburg,Penn St.-Behrend,0,1,FINAL,6473815
+2025-10-11,Drew,Susquehanna,0,2,FINAL,6474221
+2025-10-11,Ill. Wesleyan,North Park,2,4,FINAL,6474410
+2025-10-11,Bridgewater St.,Salem St.,2,0,FINAL,6474796
+2025-10-11,Loras,Simpson,3,0,FINAL,6475161
+2025-10-11,Crown (MN),Bethany Lutheran,1,9,FINAL,6475444
+2025-10-11,UMass Boston,VTSU Castleton,2,1,FINAL,6475711
+2025-10-11,Belhaven,Maryville (TN),4,0,FINAL,6475840
+2025-10-11,Wis. Lutheran,Illinois Tech,0,2,FINAL,6476686
+2025-10-11,Webster,Principia,7,0,FINAL,6476734
+2025-10-11,Edgewood,Dominican (IL),3,1,FINAL,6476910
+2025-10-11,Pomona-Pitzer,Chapman,2,1,FINAL,6476937
+2025-10-11,LaGrange,Wesleyan (GA),5,1,FINAL,6495813
+2025-10-11,Farmingdale St.,St. Joseph's (L.I.),0,0,FINAL,6471978
+2025-10-11,Lancaster Bible,St. Mary's (MD),0,2,FINAL,6472463
+2025-10-11,St. Lawrence,Vassar,1,4,FINAL,6473336
+2025-10-11,DePauw,Kenyon,1,0,FINAL,6473771
+2025-10-11,Wis.-Whitewater,Wis.-Stevens Point,2,2,FINAL,6471414
+2025-10-11,Sarah Lawrence,SUNY Maritime,8,1,FINAL,6471480
+2025-10-11,Roger Williams,Suffolk,1,0,FINAL,6472219
+2025-10-11,Whitworth,Puget Sound,0,0,FINAL,6472688
+2025-10-11,Skidmore,William Smith,0,2,FINAL,6472780
+2025-10-11,Marywood,Centenary (NJ),6,1,FINAL,6472880
+2025-10-11,Willamette,Lewis & Clark,2,2,FINAL,6473042
+2025-10-11,Franklin & Marshall,Mary Washington,0,0,FINAL,6473504
+2025-10-11,UW-River Falls,Wis.-Platteville,0,1,FINAL,6473635
+2025-10-11,Alma,Kalamazoo,1,1,FINAL,6473918
+2025-10-11,UMass Dartmouth,Eastern Conn. St.,1,4,FINAL,6474339
+2025-10-11,Whitman,Pacific Lutheran,1,2,FINAL,6474847
+2025-10-11,Arcadia,DeSales,6,1,FINAL,6475234
+2025-10-11,Linfield,George Fox,2,0,FINAL,6475354
+2025-10-11,Wentworth,Nichols,3,1,FINAL,6476498
+2025-10-11,Notre Dame (MD),Cairn,1,1,FINAL,6476585
+2025-10-11,Penn St.-Abington,Valley Forge,10,0,FINAL,6477728
+2025-10-11,Illinois Col.,Cornell College,5,0,FINAL,6495896
+2025-10-11,Waynesburg,Saint Vincent,2,1,FINAL,6471996
+2025-10-11,Penn St. Harrisburg,Penn St.-Berks,1,0,FINAL,6472329
+2025-10-11,Tufts,Bates,2,1,FINAL,6472366
+2025-10-11,Curry,JWU (Providence),0,3,FINAL,6477335
+2025-10-11,Randolph-Macon,Lynchburg,2,1,FINAL,6471605
+2025-10-11,John Carroll,Wooster,2,1,FINAL,6471668
+2025-10-11,Bridgewater (VA),Guilford,5,0,FINAL,6471930
+2025-10-11,Albright,Stevenson,0,2,FINAL,6472091
+2025-10-11,Norwich,Saint Joseph (CT),0,1,FINAL,6472531
+2025-10-11,Neumann,Pratt,3,2,FINAL,6472624
+2025-10-11,Kean,New Jersey City,3,2,FINAL,6473931
+2025-10-11,Worcester St.,Westfield St.,0,1,FINAL,6476315
+2025-10-11,Lakeland,Rockford,5,0,FINAL,6476356
+2025-10-11,N.C. Wesleyan,Salem (NC),5,0,FINAL,6476799
+2025-10-11,Saint Mary's (MN),St. Catherine,1,2,FINAL,6472375
+2025-10-11,St. Olaf,Bethel (MN),2,0,FINAL,6473294
+2025-10-11,Macalester,Saint Benedict,3,2,FINAL,6474889
+2025-10-11,Central (IA),Wartburg,1,2,FINAL,6475336
+2025-10-11,Blackburn,Lyon,1,1,FINAL,6476013
+2025-10-11,St. Scholastica,Concordia-M'head,2,0,FINAL,6476991
+2025-10-11,Millikin,Carroll (WI),0,2,FINAL,6477552
+2025-10-11,Gustavus Adolphus,Carleton,0,3,FINAL,6477630
+2025-10-11,MSOE,Concordia Wisconsin,1,0,FINAL,6471393
+2025-10-11,Wis.-Oshkosh,Wis.-Stout,1,2,FINAL,6471828
+2025-10-11,Meredith,Pfeiffer,3,0,FINAL,6472302
+2025-10-11,Northwestern-St. Paul,Wis.-Superior,0,0,FINAL,6472389
+2025-10-11,Ursinus,Swarthmore,1,3,FINAL,6473013
+2025-10-11,Thiel,Franciscan,0,5,FINAL,6473606
+2025-10-11,Johns Hopkins,Washington Col.,1,2,FINAL,6474827
+2025-10-11,UC Santa Cruz,Cal Lutheran,0,4,FINAL,6477594
+2025-10-11,Buena Vista,Luther,0,1,FINAL,6474715
+2025-10-11,Mary Hardin-Baylor,Hardin-Simmons,1,0,FINAL,6475290
+2025-10-11,Wis.-La Crosse,Wis.-Eau Claire,3,0,FINAL,6476951
+2025-10-11,Howard Payne,East Tex. Baptist,0,1,FINAL,6477031
+2025-10-11,Rutgers-Newark,Montclair St.,0,4,FINAL,6472372
+2025-10-11,Wittenberg,Ohio Wesleyan,2,2,FINAL,6475254
+2025-10-11,NYU,Rochester (NY),1,1,FINAL,6472623
+2025-10-11,Widener,Hood,1,0,FINAL,6475972
+2025-10-11,Augsburg,Hamline,4,0,FINAL,6472820
+2025-10-11,Alvernia,York (PA),0,3,FINAL,6474308
+2025-10-11,Whittier,Redlands,3,0,FINAL,6475474
+2025-10-11,Mt. St. Joseph,Rose-Hulman,2,0,FINAL,6471750
+2025-10-11,Claremont-M-S,Occidental,2,0,FINAL,6472760
+2025-10-11,La Verne,Caltech,2,0,FINAL,6476712
+2025-10-12,Hendrix,McMurry,0,2,FINAL,6474615
+2025-10-12,SUNY Delhi,Husson,1,2,FINAL,6472256
+2025-10-12,VTSU-Johnson,Maine Maritime,2,1,FINAL,6474067
+2025-10-12,VTSU Lyndon,Thomas (ME),0,12,FINAL,6475565
+2025-10-12,SUNY Cobleskill ,Me.-Presque Isle,1,3,FINAL,6477212
+2025-10-12,Southern Me.,Middlebury,1,2,FINAL,6471465
+2025-10-12,Williams,MIT,0,1,FINAL,6471575
+2025-10-12,Dallas,Texas Lutheran,0,5,FINAL,6471446
+2025-10-12,LeTourneau,St. Thomas (TX),0,1,FINAL,6474794
+2025-10-12,Centenary (LA),Austin,0,1,FINAL,6476808
+2025-10-12,Ozarks (AR),Schreiner,1,1,FINAL,6477482
+2025-10-12,Whitworth,Pacific Lutheran,0,1,FINAL,6472692
+2025-10-12,Lewis & Clark,Linfield,0,1,FINAL,6473044
+2025-10-12,Pacific (OR),Willamette,0,0,FINAL,6474449
+2025-10-12,Whitman,Puget Sound,0,1,FINAL,6477101
+2025-10-14,Purchase,Centenary (NJ),2,2,FINAL,6474002
+2025-10-14,WestConn,St. Joseph's (L.I.),2,0,FINAL,6529421
+2025-10-14,La Roche,Pitt.-Greensburg,0,6,FINAL,6471926
+2025-10-14,Elms,Mitchell,4,0,FINAL,6472547
+2025-10-14,Maranatha Baptist,Alma,0,7,FINAL,6477857
+2025-10-14,Dean,St. Joseph's (ME),1,4,FINAL,6472165
+2025-10-14,Hamilton,Union (NY),2,0,FINAL,6472414
+2025-10-14,JWU (Providence),Hartford,4,2,FINAL,6471888
+2025-10-14,Fitchburg St.,Keene St.,0,3,FINAL,6472141
+2025-10-14,Skidmore,VTSU Castleton,4,0,FINAL,6472851
+2025-10-14,Gordon,Wentworth,2,2,FINAL,6474677
+2025-10-14,Tufts,Amherst,1,2,FINAL,6475272
+2025-10-14,New England Col.,Rivier,1,4,FINAL,6476376
+2025-10-14,Monmouth (IL),Illinois Col.,1,5,FINAL,6477288
+2025-10-14,Concordia-M'head,Macalester,1,1,FINAL,6476668
+2025-10-14,Saint Mary's (MN),St. Olaf,0,2,FINAL,6472377
+2025-10-14,Hamline,Gustavus Adolphus,0,1,FINAL,6472822
+2025-10-14,Carleton,Saint Benedict,3,0,FINAL,6474894
+2025-10-14,Grinnell,Beloit,3,1,FINAL,6476427
+2025-10-14,Lake Forest,Ripon,4,1,FINAL,6476652
+2025-10-14,St. Catherine,St. Scholastica,3,0,FINAL,6476986
+2025-10-14,Spalding,Principia,5,0,FINAL,6474102
+2025-10-14,Dubuque,Simpson,2,0,FINAL,6471589
+2025-10-14,Millsaps,Belhaven,0,3,FINAL,6471701
+2025-10-14,St. Mary's (IN),Olivet,5,1,FINAL,6471953
+2025-10-14,Luther,Central (IA),0,0,FINAL,6472272
+2025-10-14,Alfred St.,Hilbert,4,0,FINAL,6473305
+2025-10-14,Lynchburg,Shenandoah,0,1,FINAL,6473693
+2025-10-14,Loras,Coe,5,0,FINAL,6476140
+2025-10-14,MSOE,Wis.-La Crosse,1,0,FINAL,6476830
+2025-10-14,UMass Dartmouth,Mass. Maritime,3,0,FINAL,6472018
+2025-10-14,Wilkes,Drew,0,1,FINAL,6472117
+2025-10-14,U New England,Suffolk,0,0,FINAL,6472155
+2025-10-14,Calvin,Hope,2,1,FINAL,6472432
+2025-10-14,Elizabethtown,Catholic,1,3,FINAL,6472565
+2025-10-14,Neb. Wesleyan,Wartburg,1,1,FINAL,6472671
+2025-10-14,Geneva,Thiel,1,0,FINAL,6473203
+2025-10-14,Emmanuel (MA),Simmons,5,0,FINAL,6473363
+2025-10-14,Moravian,Scranton,0,4,FINAL,6473451
+2025-10-14,Messiah,Penn St. Harrisburg,0,1,FINAL,6473564
+2025-10-14,Goucher,Lycoming,1,9,FINAL,6473622
+2025-10-14,Pitt.-Bradford,Penn St.-Behrend,0,12,FINAL,6473817
+2025-10-14,Kalamazoo,Albion,1,1,FINAL,6473902
+2025-10-14,Juniata,Susquehanna,0,1,FINAL,6474223
+2025-10-14,Regis (MA),Saint Joseph (CT),2,1,FINAL,6474642
+2025-10-14,Widener,Notre Dame (MD),3,0,FINAL,6475969
+2025-10-14,Adrian,Trine,0,1,FINAL,6476082
+2025-10-14,Wesleyan (CT),Rhode Island Col.,4,1,FINAL,6472417
+2025-10-14,Southwestern (TX),Texas Lutheran,0,1,FINAL,6471447
+2025-10-14,Lawrence,St. Norbert,2,0,FINAL,6472030
+2025-10-14,Augsburg,Bethel (MN),1,3,FINAL,6472975
+2025-10-15,CCNY,York (NY),5,0,FINAL,6477355
+2025-10-15,Huntingdon,LaGrange,1,1,FINAL,6477712
+2025-10-15,Grove City,Franciscan,2,0,FINAL,6477455
+2025-10-15,Rockford,Concordia Wisconsin,0,4,FINAL,6471394
+2025-10-15,Saint Elizabeth,Marymount (VA),0,7,FINAL,6471798
+2025-10-15,Minn.-Morris,Crown (MN),1,0,FINAL,6475447
+2025-10-15,North Central (MN),Northwestern-St. Paul,0,9,FINAL,6475503
+2025-10-15,Averett,Hollins,12,1,FINAL,6471812
+2025-10-15,Salem (NC),Brevard,0,4,FINAL,6472669
+2025-10-15,Lasell,Albertus Magnus,2,3,FINAL,6476557
+2025-10-15,Concordia Chicago,Benedictine (IL),4,2,FINAL,6477068
+2025-10-15,Colby-Sawyer,Norwich,1,0,FINAL,6529543
+2025-10-15,Me.-Farmington,Salem St.,2,1,FINAL,6471559
+2025-10-15,Bluffton,Anderson (IN),0,2,FINAL,6472046
+2025-10-15,Valley Forge,Keystone,5,4,FINAL,6472100
+2025-10-15,Husson,Plymouth St.,2,1,FINAL,6472261
+2025-10-15,Manchester,Franklin,0,1,FINAL,6472507
+2025-10-15,Western New Eng.,Endicott,0,1,FINAL,6474916
+2025-10-15,Wheaton (MA),Springfield,5,2,FINAL,6476038
+2025-10-15,McDaniel,Washington Col.,2,1,FINAL,6476411
+2025-10-15,Salve Regina,Babson,0,0,FINAL,6476444
+2025-10-15,Plattsburgh St.,SUNY New Paltz,0,0,FINAL,6471522
+2025-10-15,Delaware Valley,Albright,0,1,FINAL,6472092
+2025-10-15,Buffalo St.,SUNY Oneonta,1,0,FINAL,6472245
+2025-10-15,St. John Fisher,Houghton,4,0,FINAL,6472569
+2025-10-15,Bryn Mawr,Ursinus,0,4,FINAL,6473015
+2025-10-15,Cortland,Fredonia,2,0,FINAL,6473462
+2025-10-15,SUNY Potsdam,Oswego St.,1,3,FINAL,6474151
+2025-10-15,SUNY Canton,SUNY Morrisville,0,2,FINAL,6474283
+2025-10-15,Roanoke,Randolph,2,0,FINAL,6475132
+2025-10-15,Lebanon Valley,Manhattanville,6,0,FINAL,6475186
+2025-10-15,Bethany (WV),Hiram,1,3,FINAL,6475534
+2025-10-15,Swarthmore,Dickinson,3,1,FINAL,6475849
+2025-10-15,Nazareth,SUNY Geneseo,0,0,FINAL,6476091
+2025-10-15,Heidelberg,Ohio Northern,1,2,FINAL,6477774
+2025-10-15,Westminster (PA),Allegheny,1,1,FINAL,6471735
+2025-10-15,Hanover,Berea,8,0,FINAL,6471766
+2025-10-15,Covenant,Asbury,2,0,FINAL,6472286
+2025-10-15,Southern Va.,Greensboro,1,0,FINAL,6474397
+2025-10-15,SUNY Poly,Russell Sage,1,3,FINAL,6476846
+2025-10-15,Bethany Lutheran,Martin Luther,2,0,FINAL,6476249
+2025-10-15,Randolph-Macon,Wash. & Lee,0,2,FINAL,6471606
+2025-10-15,Lawrence,Wis.-Stout,2,1,FINAL,6471829
+2025-10-15,Sweet Briar,Guilford,2,6,FINAL,6471932
+2025-10-15,Methodist,Pfeiffer,5,0,FINAL,6472305
+2025-10-15,Stockton,Rowan,0,5,FINAL,6472378
+2025-10-15,Wm. Paterson,Montclair St.,0,4,FINAL,6472384
+2025-10-15,WPI,Wellesley,1,0,FINAL,6472913
+2025-10-15,Utica,Hartwick,0,1,FINAL,6473802
+2025-10-15,Hood,Salisbury,0,3,FINAL,6475998
+2025-10-15,Emerson,Smith,2,1,FINAL,6476763
+2025-10-15,John Jay,Brooklyn,3,0,FINAL,6476864
+2025-10-15,Alfred,SUNY Brockport,1,2,FINAL,6471523
+2025-10-15,Rose-Hulman,Earlham,1,0,FINAL,6471751
+2025-10-15,Marietta,Capital,0,0,FINAL,6471842
+2025-10-15,Sarah Lawrence,Farmingdale St.,1,0,FINAL,6471981
+2025-10-15,Rutgers-Camden,TCNJ,0,1,FINAL,6472077
+2025-10-15,Curry,Roger Williams,0,0,FINAL,6472225
+2025-10-15,Bates,Southern Me.,3,0,FINAL,6472373
+2025-10-15,Otterbein,Wilmington (OH),0,0,FINAL,6472466
+2025-10-15,East. Mennonite,Bridgewater (VA),0,10,FINAL,6472640
+2025-10-15,Piedmont,Agnes Scott,6,0,FINAL,6473117
+2025-10-15,Rutgers-Newark,Kean,3,1,FINAL,6473236
+2025-10-15,Gettysburg,Franklin & Marshall,0,1,FINAL,6473493
+2025-10-15,Cairn,Penn St. Harrisburg,0,4,FINAL,6473577
+2025-10-15,Maine Maritime,Colby,1,3,FINAL,6474071
+2025-10-15,Worcester St.,Eastern Conn. St.,0,2,FINAL,6474357
+2025-10-15,Mount Holyoke,Coast Guard,0,1,FINAL,6474763
+2025-10-15,Ramapo,New Jersey City,0,1,FINAL,6474883
+2025-10-15,Clark (MA),MIT,0,5,FINAL,6474962
+2025-10-15,Framingham St.,Lesley,0,1,FINAL,6475314
+2025-10-15,Chapman,Redlands,2,0,FINAL,6475476
+2025-10-15,UMass Boston,Westfield St.,2,2,FINAL,6475713
+2025-10-15,Elmira,Keuka,1,1,FINAL,6476169
+2025-10-15,Pomona-Pitzer,La Verne,2,0,FINAL,6476714
+2025-10-15,Muhlenberg,Haverford,1,0,FINAL,6476957
+2025-10-15,Misericordia,York (PA),1,2,FINAL,6477019
+2025-10-15,Transylvania,Mt. St. Joseph,1,3,FINAL,6477112
+2025-10-15,Wash. & Jeff.,Saint Vincent,1,3,FINAL,6477493
+2025-10-15,Muskingum,Mount Union,0,3,FINAL,6477500
+2025-10-15,Caltech,Whittier,0,0,FINAL,6477705
+2025-10-15,Chris. Newport,Batten,2,0,FINAL,6472244
+2025-10-15,Penn St.-Berks,St. Mary's (MD),1,2,FINAL,6472332
+2025-10-15,Lancaster Bible,Penn St.-Abington,5,2,FINAL,6476049
+2025-10-15,Marian (WI),Edgewood,1,2,FINAL,6471623
+2025-10-15,Carthage,Wheaton (IL),1,1,FINAL,6471653
+2025-10-15,Waynesburg,Chatham,2,1,FINAL,6472003
+2025-10-15,Wis.-Oshkosh,Carroll (WI),0,0,FINAL,6472181
+2025-10-15,Greenville,Eureka,12,0,FINAL,6472425
+2025-10-15,Wis. Lutheran,Aurora,1,1,FINAL,6472564
+2025-10-15,Ill. Wesleyan,Augustana (IL),3,0,FINAL,6474413
+2025-10-15,Linfield,Pacific (OR),2,1,FINAL,6474452
+2025-10-15,Willamette,George Fox,3,0,FINAL,6474539
+2025-10-15,Lakeland,MSOE,0,7,FINAL,6476832
+2025-10-15,Illinois Tech,Dominican (IL),5,1,FINAL,6477085
+2025-10-15,North Central (IL),Millikin,4,1,FINAL,6477168
+2025-10-15,Occidental,Cal Lutheran,0,1,FINAL,6472767
+2025-10-16,UMSV,Lehman,11,0,FINAL,6473064
+2025-10-16,Webster,MUW,5,0,FINAL,6474187
+2025-10-17,VTSU Castleton,Southern Me.,1,4,FINAL,6476271
+2025-10-17,Rockford,Edgewood,0,7,FINAL,6476358
+2025-10-17,Norwich,Dean,6,0,FINAL,6472167
+2025-10-17,Texas Lutheran,McMurry,1,1,FINAL,6471448
+2025-10-17,LeTourneau,Dallas,1,0,FINAL,6474488
+2025-10-17,St. Thomas (TX),Hendrix,2,1,FINAL,6474619
+2025-10-17,Schreiner,Concordia (TX),1,4,FINAL,6476484
+2025-10-17,Centenary (LA),Ozarks (AR),1,1,FINAL,6477152
+2025-10-17,WestConn,Rhode Island Col.,2,0,FINAL,6477511
+2025-10-17,Mass. Maritime,MCLA,0,0,FINAL,6471906
+2025-10-17,Wittenberg,Kenyon,1,1,FINAL,6475256
+2025-10-17,Principia,Greenville,0,3,FINAL,6475767
+2025-10-18,Saint Elizabeth,Centenary (NJ),0,8,FINAL,6471799
+2025-10-18,Pfeiffer,Southern Va.,0,7,FINAL,6472309
+2025-10-18,Russell Sage,Keuka,6,0,FINAL,6475615
+2025-10-18,Colby-Sawyer,Regis (MA),0,1,FINAL,6475960
+2025-10-18,Bridgewater (VA),Sweet Briar,11,0,FINAL,6476748
+2025-10-18,Benedictine (IL),Marian (WI),1,4,FINAL,6471624
+2025-10-18,Alma,St. Mary's (IN),0,1,FINAL,6471965
+2025-10-18,Lyon,Webster,1,2,FINAL,6476016
+2025-10-18,St. Joseph's (Brkln),Merchant Marine,0,9,FINAL,6475062
+2025-10-18,Middlebury,Tufts,0,0,FINAL,6471466
+2025-10-18,Husson,Me.-Farmington,3,0,FINAL,6471560
+2025-10-18,Oglethorpe,Millsaps,3,1,FINAL,6471702
+2025-10-18,Bates,Connecticut Col.,0,3,FINAL,6472221
+2025-10-18,Wesleyan (CT),Bowdoin,0,2,FINAL,6472421
+2025-10-18,SUNY Morrisville,Cortland,0,5,FINAL,6473466
+2025-10-18,Trinity (CT),Colby,1,4,FINAL,6476180
+2025-10-18,Clark (MA),Coast Guard,1,2,FINAL,6495975
+2025-10-18,John Jay,CCNY,4,0,FINAL,6476872
+2025-10-18,Manhattanville,SUNY Maritime,2,0,FINAL,6471487
+2025-10-18,Lebanon Valley,FDU-Florham,4,1,FINAL,6471543
+2025-10-18,Knox,Lawrence,0,0,FINAL,6471720
+2025-10-18,Roger Williams,Hartford,1,3,FINAL,6471889
+2025-10-18,Mt. St. Mary (NY),Farmingdale St.,0,1,FINAL,6471988
+2025-10-18,TCNJ,Rutgers-Newark,3,2,FINAL,6472078
+2025-10-18,Berry,Rhodes,0,1,FINAL,6472740
+2025-10-18,Brooklyn,Lehman,4,1,FINAL,6473084
+2025-10-18,Mary Baldwin,Methodist,1,2,FINAL,6473301
+2025-10-18,Emmanuel (MA),New England Col.,15,0,FINAL,6473365
+2025-10-18,Thiel,Wash. & Jeff.,1,9,FINAL,6473613
+2025-10-18,Dickinson,Bryn Mawr,4,0,FINAL,6473888
+2025-10-18,Maine Maritime,Me.-Presque Isle,7,0,FINAL,6474073
+2025-10-18,Salve Regina,Wellesley,4,0,FINAL,6474258
+2025-10-18,Ill. Wesleyan,Elmhurst,3,1,FINAL,6474415
+2025-10-18,Salem St.,Worcester St.,1,2,FINAL,6474803
+2025-10-18,New Jersey City,Rutgers-Camden,1,1,FINAL,6474887
+2025-10-18,Centre,Southwestern (TX),1,1,FINAL,6475027
+2025-10-18,Westfield St.,Framingham St.,1,1,FINAL,6475316
+2025-10-18,York (PA),Eastern,1,0,FINAL,6475545
+2025-10-18,Lesley,Thomas (ME),5,0,FINAL,6475567
+2025-10-18,Lasell,Mitchell,9,1,FINAL,6476302
+2025-10-18,Cornell College,Lake Forest,1,9,FINAL,6476654
+2025-10-18,Amherst,Hamilton,0,1,FINAL,6476775
+2025-10-18,Haverford,McDaniel,1,0,FINAL,6476962
+2025-10-18,Grinnell,Illinois Col.,0,2,FINAL,6477279
+2025-10-18,Ripon,Monmouth (IL),0,0,FINAL,6477290
+2025-10-18,Concordia Wisconsin,St. Norbert,3,2,FINAL,6471395
+2025-10-18,Hanover,Manchester,8,0,FINAL,6471494
+2025-10-18,SUNY New Paltz,Buffalo St.,1,1,FINAL,6471524
+2025-10-18,SUNY Geneseo,Alfred,2,0,FINAL,6471525
+2025-10-18,Oswego St.,Plattsburgh St.,1,1,FINAL,6471686
+2025-10-18,Transylvania,Rose-Hulman,0,0,FINAL,6471752
+2025-10-18,Berea,Anderson (IN),0,7,FINAL,6471767
+2025-10-18,Capital,Ohio Northern,3,0,FINAL,6471843
+2025-10-18,Penn St.-Behrend,La Roche,6,0,FINAL,6471928
+2025-10-18,Plymouth St.,UMass Dartmouth,0,3,FINAL,6472019
+2025-10-18,Allegheny,Bethany (WV),4,0,FINAL,6472052
+2025-10-18,Wilkes,Goucher,6,0,FINAL,6472118
+2025-10-18,Asbury,Belhaven,2,2,FINAL,6472289
+2025-10-18,Montclair St.,Rowan,2,2,FINAL,6472393
+2025-10-18,Wilmington (OH),Baldwin Wallace,3,1,FINAL,6472469
+2025-10-18,Elms,Simmons,4,2,FINAL,6472553
+2025-10-18,Elizabethtown,Lycoming,0,1,FINAL,6472567
+2025-10-18,Brevard,N.C. Wesleyan,2,0,FINAL,6472673
+2025-10-18,Neumann,Gwynedd Mercy,1,0,FINAL,6472724
+2025-10-18,Bard,Skidmore,0,3,FINAL,6472853
+2025-10-18,Springfield,WPI,4,2,FINAL,6472916
+2025-10-18,Hiram,Geneva,0,1,FINAL,6473205
+2025-10-18,Alfred St.,Penn St.-Altoona,2,1,FINAL,6473310
+2025-10-18,Oberlin,John Carroll,1,3,FINAL,6473418
+2025-10-18,Susquehanna,Moravian,1,0,FINAL,6473453
+2025-10-18,Kean,Wm. Paterson,1,1,FINAL,6473933
+2025-10-18,Chatham,Grove City,0,6,FINAL,6474025
+2025-10-18,Fredonia,SUNY Potsdam,4,0,FINAL,6474154
+2025-10-18,Muskingum,Otterbein,0,5,FINAL,6474163
+2025-10-18,Eastern Conn. St.,UMass Boston,2,0,FINAL,6474359
+2025-10-18,Saint Joseph (CT),Rivier,1,2,FINAL,6474644
+2025-10-18,Emerson,Mount Holyoke,1,0,FINAL,6474745
+2025-10-18,Babson,MIT,0,3,FINAL,6474965
+2025-10-18,Olivet,Adrian,0,5,FINAL,6474989
+2025-10-18,Catholic,Drew,4,0,FINAL,6475599
+2025-10-18,SUNY Brockport,Elmira,1,0,FINAL,6475696
+2025-10-18,SUNY Cobleskill ,VTSU Lyndon,7,0,FINAL,6475880
+2025-10-18,Juniata,Scranton,0,3,FINAL,6476071
+2025-10-18,Nazareth,Utica,1,0,FINAL,6476094
+2025-10-18,SUNY Oneonta,SUNY Canton,9,1,FINAL,6476518
+2025-10-18,Misericordia,DeSales,4,0,FINAL,6476609
+2025-10-18,Concordia Chicago,Wis. Lutheran,2,2,FINAL,6476681
+2025-10-18,Dominican (IL),Lakeland,3,1,FINAL,6477348
+2025-10-18,Mount Union,Heidelberg,2,1,FINAL,6477502
+2025-10-18,SUNY Delhi,VTSU-Johnson,0,0,FINAL,6477819
+2025-10-18,Wheaton (MA),Smith,0,3,FINAL,6495848
+2025-10-18,Hilbert,Pitt.-Greensburg,0,3,FINAL,6473956
+2025-10-18,Rochester (NY),Brandeis,1,0,FINAL,6472627
+2025-10-18,Emory,NYU,4,0,FINAL,6473838
+2025-10-18,St. Joseph's (ME),Albertus Magnus,1,1,FINAL,6477257
+2025-10-18,Dubuque,Augustana (IL),5,1,FINAL,6471590
+2025-10-18,Hollins,Randolph-Macon,0,10,FINAL,6471607
+2025-10-18,Pratt,Immaculata,4,2,FINAL,6472103
+2025-10-18,Ithaca,Union (NY),0,0,FINAL,6472299
+2025-10-18,Stevens,Arcadia,6,1,FINAL,6472347
+2025-10-18,Wis.-Superior,Crown (MN),0,0,FINAL,6472394
+2025-10-18,Fitchburg St.,Anna Maria,2,0,FINAL,6472658
+2025-10-18,Neb. Wesleyan,Central (IA),0,2,FINAL,6472677
+2025-10-18,Vassar,William Smith,1,3,FINAL,6472787
+2025-10-18,Marymount (VA),Marywood,0,1,FINAL,6472887
+2025-10-18,Covenant,Wesleyan (GA),8,0,FINAL,6473398
+2025-10-18,Wis.-Stevens Point,UW-River Falls,0,0,FINAL,6473873
+2025-10-18,Greensboro,Meredith,0,1,FINAL,6474401
+2025-10-18,Mary Washington,Salisbury,3,0,FINAL,6474579
+2025-10-18,Coe,Luther,0,1,FINAL,6474723
+2025-10-18,Randolph,Shenandoah,0,4,FINAL,6475216
+2025-10-18,Rensselaer,Clarkson,2,1,FINAL,6475424
+2025-10-18,Redlands,Claremont-M-S,0,5,FINAL,6475478
+2025-10-18,North Central (MN),Martin Luther,0,3,FINAL,6475507
+2025-10-18,Salem (NC),William Peace,4,0,FINAL,6476158
+2025-10-18,Maryville (TN),LaGrange,4,0,FINAL,6476331
+2025-10-18,Illinois Tech,MSOE,1,0,FINAL,6476835
+2025-10-18,Houghton,SUNY Poly,3,0,FINAL,6476844
+2025-10-18,Agnes Scott,Huntingdon,0,4,FINAL,6476977
+2025-10-18,Northwestern-St. Paul,Bethany Lutheran,3,0,FINAL,6477324
+2025-10-18,Caltech,Pomona-Pitzer,0,3,FINAL,6477699
+2025-10-18,Carroll (WI),North Park,0,3,FINAL,6477821
+2025-10-18,Penn St.-Abington,Penn St.-Berks,0,2,FINAL,6472338
+2025-10-18,Purchase,Sarah Lawrence,0,7,FINAL,6474005
+2025-10-18,Wis.-Eau Claire,Wis.-Whitewater,1,2,FINAL,6471415
+2025-10-18,Wooster,Denison,0,0,FINAL,6471669
+2025-10-18,Wis.-Stout,Wis.-La Crosse,0,4,FINAL,6471830
+2025-10-18,Pacific (OR),Whitworth,0,1,FINAL,6472695
+2025-10-18,Lewis & Clark,Pacific Lutheran,0,1,FINAL,6473046
+2025-10-18,UMSV,Old Westbury,7,0,FINAL,6473225
+2025-10-18,RIT,St. Lawrence,0,1,FINAL,6473338
+2025-10-18,Willamette,Whitman,1,1,FINAL,6474541
+2025-10-18,George Fox,Puget Sound,1,4,FINAL,6475356
+2025-10-18,Nichols,Endicott,1,6,FINAL,6475411
+2025-10-18,Penn St. Harrisburg,Wilson,4,0,FINAL,6473568
+2025-10-18,Wentworth,Western New Eng.,2,1,FINAL,6474918
+2025-10-18,Valley Forge,Lancaster Bible,0,7,FINAL,6500033
+2025-10-18,Delaware Valley,King's (PA),1,5,FINAL,6471432
+2025-10-18,UChicago,CWRU,2,2,FINAL,6471645
+2025-10-18,Albright,Messiah,0,5,FINAL,6472093
+2025-10-18,Keystone,Notre Dame (MD),1,8,FINAL,6472102
+2025-10-18,JWU (Providence),U New England,2,1,FINAL,6472163
+2025-10-18,Ramapo,Stockton,0,1,FINAL,6472385
+2025-10-18,Albion,Calvin,1,5,FINAL,6472434
+2025-10-18,Hartwick,St. John Fisher,0,3,FINAL,6472574
+2025-10-18,Gettysburg,Ursinus,2,2,FINAL,6472691
+2025-10-18,Stevenson,Widener,1,0,FINAL,6473713
+2025-10-18,Ohio Wesleyan,DePauw,0,1,FINAL,6473773
+2025-10-18,Alvernia,Hood,0,0,FINAL,6474310
+2025-10-18,Suffolk,Gordon,0,0,FINAL,6474680
+2025-10-18,Muhlenberg,Washington Col.,1,1,FINAL,6476416
+2025-10-18,Chris. Newport,Swarthmore,2,1,FINAL,6472246
+2025-10-18,Carleton,Saint Mary's (MN),3,0,FINAL,6472381
+2025-10-18,Blackburn,Eureka,0,1,FINAL,6472428
+2025-10-18,Bethel (MN),Hamline,0,0,FINAL,6472825
+2025-10-18,St. Scholastica,Augsburg,1,2,FINAL,6472978
+2025-10-18,Concordia-M'head,St. Olaf,0,5,FINAL,6473296
+2025-10-18,Saint Benedict,St. Catherine,0,3,FINAL,6474896
+2025-10-18,Wartburg,Loras,0,3,FINAL,6475338
+2025-10-18,Gustavus Adolphus,Macalester,1,2,FINAL,6476670
+2025-10-18,Saint Vincent,Westminster (PA),1,0,FINAL,6471736
+2025-10-18,Lynchburg,Wash. & Lee,0,1,FINAL,6473695
+2025-10-18,Sewanee,Trinity (TX),1,1,FINAL,6475044
+2025-10-18,Wheaton (IL),Millikin,1,1,FINAL,6471654
+2025-10-18,St. Mary's (MD),Cairn,4,0,FINAL,6472476
+2025-10-18,Guilford,Batten,0,1,FINAL,6471933
+2025-10-18,Franklin & Marshall,Johns Hopkins,0,1,FINAL,6473495
+2025-10-18,Buena Vista,Simpson,1,3,FINAL,6475090
+2025-10-18,Howard Payne,Mary Hardin-Baylor,0,2,FINAL,6475633
+2025-10-18,Franciscan,Waynesburg,0,1,FINAL,6472005
+2025-10-18,Wis.-Platteville,Wis.-Oshkosh,0,1,FINAL,6472187
+2025-10-18,Mt. St. Joseph,Earlham,3,1,FINAL,6477797
+2025-10-18,Carthage,North Central (IL),0,4,FINAL,6477170
+2025-10-18,East Tex. Baptist,Hardin-Simmons,1,3,FINAL,6475292
+2025-10-18,Occidental,Chapman,0,1,FINAL,6472771
+2025-10-18,La Verne,Cal Lutheran,1,2,FINAL,6476717
+2025-10-19,Centenary (LA),Hendrix,0,2,FINAL,6474624
+2025-10-19,Westminster (MO),MUW,3,0,FINAL,6474189
+2025-10-19,Keene St.,Husson,4,2,FINAL,6472143
+2025-10-19,Lesley,Maine Maritime,2,1,FINAL,6474076
+2025-10-19,SUNY Cobleskill ,VTSU-Johnson,0,2,FINAL,6475885
+2025-10-19,MCLA,Dean,1,1,FINAL,6499801
+2025-10-19,Texas Lutheran,Schreiner,3,0,FINAL,6471449
+2025-10-19,Averett,East. Mennonite,1,4,FINAL,6471857
+2025-10-19,Bluffton,Franklin,1,0,FINAL,6472051
+2025-10-19,Penn St. Harrisburg,Cortland,0,0,FINAL,6473471
+2025-10-19,Austin,Dallas,4,0,FINAL,6474490
+2025-10-19,St. Thomas (TX),Ozarks (AR),2,0,FINAL,6474798
+2025-10-19,SUNY Delhi,VTSU Lyndon,14,0,FINAL,6476216
+2025-10-19,Yeshiva,St. Joseph's (L.I.),0,11,FINAL,6477596
+2025-10-19,WashU,Carnegie Mellon,3,0,FINAL,6472660
+2025-10-19,Willamette,Whitworth,1,1,FINAL,6472699
+2025-10-19,Lewis & Clark,Puget Sound,0,2,FINAL,6473049
+2025-10-19,Pacific (OR),Whitman,2,1,FINAL,6474454
+2025-10-19,George Fox,Pacific Lutheran,0,1,FINAL,6474849
+2025-10-19,St. Catherine,Wis.-Superior,2,0,FINAL,6472424
+2025-10-19,McMurry,Concordia (TX),0,0,FINAL,6476489
+2025-10-20,Trine,Kalamazoo,1,1,FINAL,6473920
+2025-10-21,North Central (MN),Wis.-Superior,0,12,FINAL,6472433
+2025-10-21,Martin Luther,Crown (MN),1,1,FINAL,6475449
+2025-10-21,DeSales,Lebanon Valley,0,2,FINAL,6475188
+2025-10-21,Belhaven,Sewanee,0,2,FINAL,6475798
+2025-10-21,Ithaca,RIT,0,1,FINAL,6472303
+2025-10-21,Penn St.-Abington,St. Mary's (MD),0,1,FINAL,6472480
+2025-10-21,Western New Eng.,Fitchburg St.,3,0,FINAL,6472674
+2025-10-21,Eastern,Stevenson,1,0,FINAL,6473718
+2025-10-21,Delaware Valley,Arcadia,0,4,FINAL,6475241
+2025-10-21,SUNY Brockport,Penn St.-Behrend,0,3,FINAL,6475700
+2025-10-21,Haverford,Salisbury,3,2,FINAL,6476000
+2025-10-21,Wilson,Notre Dame (MD),1,1,FINAL,6475894
+2025-10-21,Methodist,Chris. Newport,0,3,FINAL,6472249
+2025-10-21,Penn College,Valley Forge,8,0,FINAL,6495960
+2025-10-21,Bethany Lutheran,Minn.-Morris,4,1,FINAL,6477685
+2025-10-21,Trinity (CT),Connecticut Col.,4,3,FINAL,6472226
+2025-10-21,Pfeiffer,Warren Wilson,2,1,FINAL,6472310
+2025-10-21,Emory,Maryville (TN),5,0,FINAL,6473840
+2025-10-21,Hood,York (PA),0,5,FINAL,6476502
+2025-10-21,Webster,Blackburn,8,0,FINAL,6476737
+2025-10-21,King's (PA),Misericordia,0,4,FINAL,6471433
+2025-10-21,FDU-Florham,Stevens,0,1,FINAL,6471544
+2025-10-21,Westfield St.,Williams,0,4,FINAL,6471576
+2025-10-21,Widener,Albright,0,1,FINAL,6472096
+2025-10-21,Scranton,Wilkes,4,0,FINAL,6472119
+2025-10-21,Bowdoin,Bates,3,0,FINAL,6472380
+2025-10-21,Drew,Elizabethtown,0,0,FINAL,6472570
+2025-10-21,Moravian,Goucher,3,1,FINAL,6473455
+2025-10-21,Lycoming,Juniata,2,0,FINAL,6473624
+2025-10-21,Susquehanna,Catholic,0,1,FINAL,6474225
+2025-10-21,Messiah,Alvernia,4,0,FINAL,6474312
+2025-10-21,Howard Payne,Southwestern (TX),1,3,FINAL,6475029
+2025-10-21,Suffolk,JWU (Providence),0,0,FINAL,6476570
+2025-10-21,Penn St.-Berks,Keystone,13,1,FINAL,6472104
+2025-10-21,Mary Hardin-Baylor,Texas Lutheran,1,1,FINAL,6475636
+2025-10-21,Principia,Westminster (MO),1,2,FINAL,6474719
+2025-10-22,Hilbert,Pitt.-Bradford,7,1,FINAL,6473958
+2025-10-22,Centenary (NJ),Pratt,3,7,FINAL,6477315
+2025-10-22,SUNY New Paltz,SUNY Oneonta,1,1,FINAL,6471526
+2025-10-22,SUNY Potsdam,Plattsburgh St.,0,1,FINAL,6471687
+2025-10-22,Plymouth St.,Keene St.,1,2,FINAL,6472145
+2025-10-22,Buffalo St.,Oswego St.,1,1,FINAL,6472247
+2025-10-22,Wellesley,Springfield,0,3,FINAL,6474261
+2025-10-22,SUNY Morrisville,Fredonia,0,5,FINAL,6474285
+2025-10-22,Mitchell,Saint Joseph (CT),0,6,FINAL,6474646
+2025-10-22,Puget Sound,Pacific Lutheran,0,0,FINAL,6474851
+2025-10-22,Alma,Trine,0,2,FINAL,6475981
+2025-10-22,Smith,Babson,1,2,FINAL,6476446
+2025-10-22,York (NY),John Jay,0,3,FINAL,6476875
+2025-10-22,Anderson (IN),Rose-Hulman,0,2,FINAL,6471753
+2025-10-22,Hollins,Roanoke,0,9,FINAL,6471813
+2025-10-22,Bluffton,Manchester,6,0,FINAL,6472069
+2025-10-22,Dean,Regis (MA),0,5,FINAL,6472169
+2025-10-22,Mary Washington,McDaniel,3,0,FINAL,6474581
+2025-10-22,Vassar,Rensselaer,4,0,FINAL,6474588
+2025-10-22,Kenyon,John Carroll,1,0,FINAL,6476634
+2025-10-22,Earlham,Franklin,1,0,FINAL,6477788
+2025-10-22,Wooster,Wittenberg,2,0,FINAL,6471670
+2025-10-22,Hartford,Nichols,7,0,FINAL,6471890
+2025-10-22,Rhode Island Col.,UMass Dartmouth,1,0,FINAL,6472021
+2025-10-22,Roger Williams,Gordon,1,1,FINAL,6472229
+2025-10-22,Thomas (ME),Husson,0,7,FINAL,6472263
+2025-10-22,Shenandoah,East. Mennonite,7,1,FINAL,6472649
+2025-10-22,St. Lawrence,William Smith,0,4,FINAL,6472793
+2025-10-22,Lehman,CCNY,0,1,FINAL,6473086
+2025-10-22,Bard,VTSU Castleton,0,1,FINAL,6473974
+2025-10-22,MIT,Wheaton (MA),3,0,FINAL,6474967
+2025-10-22,SUNY Geneseo,Houghton,1,1,FINAL,6477837
+2025-10-22,Concordia Wisconsin,Illinois Tech,0,5,FINAL,6471396
+2025-10-22,St. Olaf,Hamline,4,0,FINAL,6472827
+2025-10-22,Franklin & Marshall,Wilson,9,0,FINAL,6473506
+2025-10-22,St. Catherine,Bethel (MN),3,0,FINAL,6475934
+2025-10-22,Gustavus Adolphus,Concordia-M'head,1,0,FINAL,6477632
+2025-10-22,Farmingdale St.,Merchant Marine,0,0,FINAL,6471993
+2025-10-22,Saint Mary's (MN),Saint Benedict,5,1,FINAL,6472383
+2025-10-22,Chatham,Geneva,3,0,FINAL,6473207
+2025-10-22,Eastern Conn. St.,WestConn,1,0,FINAL,6474361
+2025-10-22,SUNY Poly,Nazareth,0,5,FINAL,6476096
+2025-10-22,Thiel,Westminster (PA),0,9,FINAL,6471737
+2025-10-22,Whitworth,Whitman,1,1,FINAL,6472701
+2025-10-22,Mt. St. Mary (NY),SUNY Maritime,9,0,FINAL,6471489
+2025-10-22,Loras,Dubuque,1,2,FINAL,6471591
+2025-10-22,Batten,Randolph-Macon,5,0,FINAL,6471608
+2025-10-22,Sweet Briar,Averett,0,2,FINAL,6471858
+2025-10-22,St. Mary's (IN),Albion,2,2,FINAL,6471967
+2025-10-22,Hiram,Waynesburg,0,2,FINAL,6472006
+2025-10-22,TCNJ,New Jersey City,2,1,FINAL,6472081
+2025-10-22,U New England,Wentworth,7,0,FINAL,6472166
+2025-10-22,Kalamazoo,Calvin,1,4,FINAL,6472436
+2025-10-22,Albertus Magnus,Elms,3,1,FINAL,6472554
+2025-10-22,WPI,Emerson,1,2,FINAL,6472918
+2025-10-22,Cortland,SUNY Canton,6,0,FINAL,6473475
+2025-10-22,Rowan,Kean,3,0,FINAL,6473936
+2025-10-22,Simpson,Luther,3,0,FINAL,6474726
+2025-10-22,Wash. & Lee,Randolph,4,0,FINAL,6475114
+2025-10-22,Coe,Wartburg,1,3,FINAL,6475340
+2025-10-22,Southern Me.,UMass Boston,1,4,FINAL,6475722
+2025-10-22,Neb. Wesleyan,Buena Vista,4,0,FINAL,6472683
+2025-10-22,Mount Aloysius,La Roche,0,0,FINAL,6471378
+2025-10-22,Transylvania,Hanover,0,0,FINAL,6471495
+2025-10-22,Mt. St. Joseph,Berea,2,0,FINAL,6471768
+2025-10-22,Capital,Wilmington (OH),1,0,FINAL,6471844
+2025-10-22,Guilford,Lynchburg,0,2,FINAL,6471934
+2025-10-22,Immaculata,Neumann,1,0,FINAL,6472105
+2025-10-22,Rutgers-Newark,Stockton,1,1,FINAL,6472390
+2025-10-22,Montclair St.,Ramapo,3,0,FINAL,6472401
+2025-10-22,Skidmore,Union (NY),1,0,FINAL,6472418
+2025-10-22,DePauw,Denison,1,0,FINAL,6472492
+2025-10-22,Muskingum,Marietta,0,1,FINAL,6472510
+2025-10-22,Norwich,New England Col.,4,2,FINAL,6472533
+2025-10-22,Gettysburg,Bridgewater (VA),0,3,FINAL,6472694
+2025-10-22,Caltech,Occidental,1,5,FINAL,6472784
+2025-10-22,Marywood,Gwynedd Mercy,2,0,FINAL,6472884
+2025-10-22,Sarah Lawrence,Old Westbury,5,0,FINAL,6473227
+2025-10-22,St. Joseph's (ME),Emmanuel (MA),0,5,FINAL,6473367
+2025-10-22,Ohio Wesleyan,Oberlin,1,1,FINAL,6473421
+2025-10-22,Penn St. Harrisburg,Lancaster Bible,7,0,FINAL,6473573
+2025-10-22,Wis.-La Crosse,Wis.-Platteville,1,1,FINAL,6473637
+2025-10-22,Purchase,St. Joseph's (L.I.),0,3,FINAL,6474007
+2025-10-22,Ohio Northern,Otterbein,1,0,FINAL,6474165
+2025-10-22,MUW,Agnes Scott,3,1,FINAL,6474192
+2025-10-22,Mount Holyoke,Clark (MA),0,2,FINAL,6474747
+2025-10-22,Bridgewater St.,Tufts,0,3,FINAL,6475274
+2025-10-22,Endicott,Curry,1,0,FINAL,6475413
+2025-10-22,Adrian,Hope,0,2,FINAL,6476462
+2025-10-22,Wash. & Jeff.,Bethany (WV),3,0,FINAL,6476527
+2025-10-22,Simmons,Lasell,0,2,FINAL,6476545
+2025-10-22,Whittier,La Verne,2,1,FINAL,6476719
+2025-10-22,Rutgers-Camden,Wm. Paterson,2,1,FINAL,6477228
+2025-10-22,Rivier,Colby-Sawyer,3,0,FINAL,6477448
+2025-10-22,Penn College,Dickinson,0,2,FINAL,6477471
+2025-10-22,Baldwin Wallace,Mount Union,0,4,FINAL,6477505
+2025-10-22,Pomona-Pitzer,Claremont-M-S,0,0,FINAL,6477534
+2025-10-22,UMSV,Manhattanville,4,1,FINAL,6477612
+2025-10-22,Grove City,Saint Vincent,3,0,FINAL,6477676
+2025-10-22,Coast Guard,Salve Regina,1,0,FINAL,6477808
+2025-10-22,Elmhurst,Knox,3,0,FINAL,6471722
+2025-10-22,Franciscan,Allegheny,1,0,FINAL,6472054
+2025-10-22,Yeshiva,St. Joseph's (Brkln),0,4,FINAL,6475064
+2025-10-22,Marymount (VA),Washington Col.,2,3,FINAL,6475685
+2025-10-22,Wis.-Whitewater,Wis.-Oshkosh,2,1,FINAL,6471416
+2025-10-22,Wis. Lutheran,Marian (WI),1,1,FINAL,6471625
+2025-10-22,Wheaton (IL),Carroll (WI),3,1,FINAL,6471655
+2025-10-22,Lakeland,St. Norbert,2,2,FINAL,6472031
+2025-10-22,Aurora,Rockford,7,0,FINAL,6472568
+2025-10-22,Ill. Wesleyan,North Central (IL),1,2,FINAL,6474417
+2025-10-22,Edgewood,Concordia Chicago,2,0,FINAL,6476915
+2025-10-22,Augustana (IL),Carthage,0,1,FINAL,6477241
+2025-10-22,North Park,Millikin,2,0,FINAL,6477556
+2025-10-22,Benedictine (IL),Dominican (IL),1,5,FINAL,6495822
+2025-10-22,Wis.-Stout,UW-River Falls,0,1,FINAL,6471831
+2025-10-22,Augsburg,Carleton,0,1,FINAL,6472980
+2025-10-22,Macalester,St. Scholastica,3,2,FINAL,6476672
+2025-10-22,Wis.-Eau Claire,Wis.-Stevens Point,0,3,FINAL,6476953
+2025-10-22,Cal Lutheran,Chapman,2,0,FINAL,6476939
+2025-10-23,Central (IA),Northwestern-St. Paul,3,0,FINAL,6477326
+2025-10-23,Westminster (MO),Spalding,0,1,FINAL,6474105
+2025-10-23,Mary Hardin-Baylor,McMurry,0,0,FINAL,6471450
+2025-10-23,Greenville,Lyon,5,0,FINAL,6475771
+2025-10-24,Concordia (TX),St. Thomas (TX),0,3,FINAL,6474801
+2025-10-24,MUW,Blackburn,0,0,FINAL,6474194
+2025-10-24,Belhaven,Agnes Scott,9,0,FINAL,6475843
+2025-10-24,NYU,Carnegie Mellon,2,0,FINAL,6474708
+2025-10-24,New England Col.,Albertus Magnus,0,3,FINAL,6476378
+2025-10-24,Schreiner,Dallas,1,0,FINAL,6474492
+2025-10-24,Texas Lutheran,Centenary (LA),5,0,FINAL,6471451
+2025-10-24,Southwestern (TX),Millsaps,5,0,FINAL,6471703
+2025-10-24,MCLA,Salem St.,0,2,FINAL,6471907
+2025-10-24,Centre,Berry,1,0,FINAL,6472738
+2025-10-24,Hendrix,Austin,1,1,FINAL,6474628
+2025-10-24,Ozarks (AR),LeTourneau,1,3,FINAL,6475785
+2025-10-24,Sewanee,Oglethorpe,2,0,FINAL,6475803
+2025-10-24,Trinity (TX),Rhodes,1,0,FINAL,6475046
+2025-10-24,Shenandoah,Guilford,2,1,FINAL,6471935
+2025-10-24,St. Norbert,Aurora,0,1,FINAL,6472033
+2025-10-24,Anna Maria,Westfield St.,0,3,FINAL,6475638
+2025-10-24,Emory,UChicago,1,0,FINAL,6471646
+2025-10-24,Rochester (NY),WashU,0,5,FINAL,6472629
+2025-10-24,Brandeis,CWRU,0,2,FINAL,6473682
+2025-10-24,Pacific (OR),Lewis & Clark,0,2,FINAL,6473051
+2025-10-25,Me.-Presque Isle,Thomas (ME),2,6,FINAL,6475570
+2025-10-25,Franklin & Marshall,Haverford,1,0,FINAL,6531085
+2025-10-25,Worcester St.,UMass Dartmouth,0,2,FINAL,6472579
+2025-10-25,Middlebury,Bates,1,0,FINAL,6471467
+2025-10-25,Buffalo St.,Plattsburgh St.,0,1,FINAL,6471688
+2025-10-25,Geneva,Waynesburg,0,2,FINAL,6472010
+2025-10-25,Colby,Wesleyan (CT),0,1,FINAL,6472423
+2025-10-25,Eastern,Alvernia,0,0,FINAL,6474314
+2025-10-25,Framingham St.,Mass. Maritime,1,1,FINAL,6475319
+2025-10-25,Hamilton,Trinity (CT),1,0,FINAL,6476777
+2025-10-25,Greensboro,N.C. Wesleyan,2,0,FINAL,6474406
+2025-10-25,Saint Elizabeth,Neumann,0,6,FINAL,6471800
+2025-10-25,Wentworth,Hartford,1,6,FINAL,6471891
+2025-10-25,Lasell,Dean,3,0,FINAL,6472173
+2025-10-25,Maine Maritime,Husson,1,1,FINAL,6472264
+2025-10-25,Mary Washington,St. Mary's (MD),4,0,FINAL,6472485
+2025-10-25,New Jersey City,Rutgers-Newark,2,1,FINAL,6473238
+2025-10-25,Purchase,Old Westbury,0,1,FINAL,6473241
+2025-10-25,Hope,Kalamazoo,3,2,FINAL,6473922
+2025-10-25,Saint Vincent,Chatham,2,0,FINAL,6474027
+2025-10-25,Merchant Marine,Sarah Lawrence,1,1,FINAL,6474517
+2025-10-25,Gordon,Endicott,0,2,FINAL,6474684
+2025-10-25,Western New Eng.,Suffolk,3,2,FINAL,6474920
+2025-10-25,Olivet,Alma,0,6,FINAL,6474991
+2025-10-25,Arcadia,Misericordia,0,4,FINAL,6475245
+2025-10-25,St. Joseph's (L.I.),Mt. St. Mary (NY),1,1,FINAL,6475929
+2025-10-25,Lake Forest,Grinnell,3,0,FINAL,6476657
+2025-10-25,Cornell College,Monmouth (IL),2,3,FINAL,6477292
+2025-10-25,Illinois Col.,Lawrence,0,3,FINAL,6477757
+2025-10-25,Salve Regina,Smith,1,1,FINAL,6477799
+2025-10-25,Bowdoin,Amherst,1,2,FINAL,6496179
+2025-10-25,Connecticut Col.,Williams,0,3,FINAL,6471577
+2025-10-25,Westminster (PA),Bethany (WV),2,1,FINAL,6471738
+2025-10-25,Kenyon,Oberlin,2,0,FINAL,6473423
+2025-10-25,Pitt.-Bradford,Mount Aloysius,1,2,FINAL,6471379
+2025-10-25,Earlham,Hanover,1,1,FINAL,6471496
+2025-10-25,SUNY Canton,SUNY New Paltz,0,7,FINAL,6471529
+2025-10-25,VTSU-Johnson,Me.-Farmington,0,0,FINAL,6471561
+2025-10-25,Randolph-Macon,Randolph,5,0,FINAL,6471609
+2025-10-25,Marian (WI),Concordia Chicago,2,0,FINAL,6471626
+2025-10-25,Rose-Hulman,Bluffton,4,0,FINAL,6471754
+2025-10-25,Franklin,Berea,1,1,FINAL,6471769
+2025-10-25,East. Mennonite,Hollins,4,1,FINAL,6471814
+2025-10-25,Otterbein,Capital,1,0,FINAL,6471845
+2025-10-25,Wash. & Lee,Averett,12,0,FINAL,6471859
+2025-10-25,Trine,St. Mary's (IN),4,1,FINAL,6471969
+2025-10-25,Moravian,Wilkes,2,3,FINAL,6472120
+2025-10-25,Keene St.,WestConn,2,1,FINAL,6472148
+2025-10-25,Luther,Neb. Wesleyan,1,0,FINAL,6472274
+2025-10-25,Stevens,Lebanon Valley,1,0,FINAL,6472363
+2025-10-25,Stockton,Montclair St.,1,4,FINAL,6472397
+2025-10-25,Denison,Wittenberg,0,0,FINAL,6472495
+2025-10-25,Manchester,Mt. St. Joseph,0,6,FINAL,6472511
+2025-10-25,Marietta,Baldwin Wallace,0,0,FINAL,6472512
+2025-10-25,Elms,Regis (MA),1,2,FINAL,6472557
+2025-10-25,Goucher,Elizabethtown,0,4,FINAL,6472573
+2025-10-25,Lehman,York (NY),4,0,FINAL,6473089
+2025-10-25,Pitt.-Greensburg,Alfred St.,4,0,FINAL,6473314
+2025-10-25,SUNY Potsdam,Cortland,0,1,FINAL,6473477
+2025-10-25,Lycoming,Susquehanna,1,1,FINAL,6473626
+2025-10-25,Lynchburg,Bridgewater (VA),1,4,FINAL,6473697
+2025-10-25,Stevenson,Messiah,0,3,FINAL,6473720
+2025-10-25,Penn St.-Altoona,Hilbert,0,0,FINAL,6473756
+2025-10-25,Washington Col.,Bryn Mawr,1,0,FINAL,6473891
+2025-10-25,Rutgers-Camden,Kean,1,0,FINAL,6473938
+2025-10-25,Bard,RIT,0,3,FINAL,6473976
+2025-10-25,Central (IA),Buena Vista,3,0,FINAL,6475092
+2025-10-25,Franciscan,Hiram,4,1,FINAL,6475536
+2025-10-25,Scranton,Catholic,0,0,FINAL,6475604
+2025-10-25,Utica,SUNY Brockport,0,0,FINAL,6475702
+2025-10-25,SUNY Cobleskill ,SUNY Delhi,0,2,FINAL,6475889
+2025-10-25,Widener,York (PA),0,2,FINAL,6475974
+2025-10-25,Principia,Lyon,0,0,FINAL,6476018
+2025-10-25,VTSU Lyndon,Lesley,0,8,FINAL,6476202
+2025-10-25,Wheaton (MA),Babson,1,0,FINAL,6476449
+2025-10-25,Cairn,Valley Forge,5,0,FINAL,6476587
+2025-10-25,SUNY Poly,SUNY Geneseo,1,2,FINAL,6476848
+2025-10-25,Anderson (IN),Transylvania,1,1,FINAL,6477114
+2025-10-25,CCNY,Brooklyn,1,1,FINAL,6477415
+2025-10-25,Oswego St.,Fredonia,1,2,FINAL,6477429
+2025-10-25,Grove City,Wash. & Jeff.,7,0,FINAL,6477496
+2025-10-25,Ohio Northern,Mount Union,0,1,FINAL,6477507
+2025-10-25,Drew,Juniata,1,0,FINAL,6477737
+2025-10-25,Heidelberg,Muskingum,1,0,FINAL,6477777
+2025-10-25,Lakeland,Concordia Wisconsin,1,2,FINAL,6471397
+2025-10-25,SUNY Maritime,St. Joseph's (Brkln),3,0,FINAL,6471491
+2025-10-25,Dubuque,Coe,7,0,FINAL,6471592
+2025-10-25,Clarkson,Ithaca,1,2,FINAL,6472307
+2025-10-25,Minn.-Morris,Wis.-Superior,1,4,FINAL,6472437
+2025-10-25,Skidmore,Vassar,2,3,FINAL,6472855
+2025-10-25,Methodist,William Peace,3,1,FINAL,6473307
+2025-10-25,Huntingdon,Covenant,1,2,FINAL,6473401
+2025-10-25,Wis.-Stevens Point,Wis.-Platteville,1,1,FINAL,6473639
+2025-10-25,Clark (MA),Wellesley,0,0,FINAL,6474263
+2025-10-25,Meredith,Salem (NC),1,2,FINAL,6475374
+2025-10-25,Redlands,Caltech,3,0,FINAL,6475480
+2025-10-25,Bethany Lutheran,North Central (MN),9,1,FINAL,6475518
+2025-10-25,Elmira,Nazareth,0,1,FINAL,6476098
+2025-10-25,Martin Luther,Northwestern-St. Paul,0,1,FINAL,6476251
+2025-10-25,Mitchell,Simmons,0,5,FINAL,6476304
+2025-10-25,Wis. Lutheran,Dominican (IL),1,4,FINAL,6476679
+2025-10-25,UC Santa Cruz,La Verne,2,0,FINAL,6476721
+2025-10-25,Edgewood,Benedictine (IL),2,0,FINAL,6476919
+2025-10-25,Chapman,Whittier,1,0,FINAL,6476941
+2025-10-25,Millikin,Augustana (IL),3,1,FINAL,6477402
+2025-10-25,St. Catherine,Gustavus Adolphus,3,0,FINAL,6477634
+2025-10-25,DePauw,Wooster,1,3,FINAL,6471671
+2025-10-25,Pfeiffer,Mary Baldwin,1,4,FINAL,6472313
+2025-10-25,St. Lawrence,Rensselaer,1,0,FINAL,6473341
+2025-10-25,Saint Joseph (CT),St. Joseph's (ME),0,2,FINAL,6474648
+2025-10-25,Farmingdale St.,Manhattanville,3,1,FINAL,6471998
+2025-10-25,Gwynedd Mercy,Immaculata,1,0,FINAL,6472107
+2025-10-25,Wis.-Oshkosh,Wis.-La Crosse,1,5,FINAL,6472191
+2025-10-25,Nichols,Roger Williams,0,7,FINAL,6472232
+2025-10-25,Cedar Crest,Penn St.-Berks,1,2,FINAL,6472344
+2025-10-25,William Smith,Union (NY),2,1,FINAL,6472420
+2025-10-25,Rivier,Norwich,2,0,FINAL,6472536
+2025-10-25,Whitworth,Linfield,2,1,FINAL,6472702
+2025-10-25,Colby-Sawyer,Emmanuel (MA),0,6,FINAL,6473370
+2025-10-25,UW-River Falls,Wis.-Eau Claire,2,1,FINAL,6473875
+2025-10-25,UMass Boston,Plymouth St.,3,0,FINAL,6474352
+2025-10-25,Southern Me.,Eastern Conn. St.,3,0,FINAL,6474363
+2025-10-25,Puget Sound,Willamette,4,0,FINAL,6474544
+2025-10-25,Johns Hopkins,Muhlenberg,3,0,FINAL,6474830
+2025-10-25,Roanoke,Batten,0,1,FINAL,6475125
+2025-10-25,Rhode Island Col.,VTSU Castleton,0,1,FINAL,6476273
+2025-10-25,Albion,Adrian,1,0,FINAL,6476464
+2025-10-25,Elmhurst,Carthage,3,1,FINAL,6477243
+2025-10-25,Dickinson,McDaniel,1,0,FINAL,6477473
+2025-10-25,Penn College,Lancaster Bible,4,1,FINAL,6476069
+2025-10-25,Houghton,Russell Sage,1,0,FINAL,6477839
+2025-10-25,Pratt,Marywood,1,5,FINAL,6472889
+2025-10-25,King's (PA),DeSales,0,2,FINAL,6471434
+2025-10-25,Hood,Albright,2,0,FINAL,6472097
+2025-10-25,Southern Va.,Brevard,0,1,FINAL,6472686
+2025-10-25,Greenville,Spalding,2,0,FINAL,6474107
+2025-10-25,Centenary (NJ),Marymount (VA),0,6,FINAL,6475689
+2025-10-25,Wilson,Penn St.-Abington,0,1,FINAL,6475898
+2025-10-25,Curry,U New England,0,2,FINAL,6472174
+2025-10-25,St. Scholastica,Saint Mary's (MN),1,2,FINAL,6472388
+2025-10-25,Bridgewater St.,Fitchburg St.,0,0,FINAL,6472680
+2025-10-25,Hamline,Macalester,0,1,FINAL,6472829
+2025-10-25,WPI,Coast Guard,0,0,FINAL,6472920
+2025-10-25,SUNY Morrisville,SUNY Oneonta,1,7,FINAL,6474288
+2025-10-25,MIT,Mount Holyoke,1,1,FINAL,6474750
+2025-10-25,Saint Benedict,Concordia-M'head,1,0,FINAL,6474898
+2025-10-25,Bethel (MN),Carleton,2,1,FINAL,6475936
+2025-10-25,MSOE,Rockford,6,0,FINAL,6476360
+2025-10-25,Thiel,Allegheny,0,6,FINAL,6472055
+2025-10-25,Wm. Paterson,TCNJ,0,4,FINAL,6472084
+2025-10-25,St. John Fisher,Keuka,8,0,FINAL,6472576
+2025-10-25,Ursinus,UMSV,2,1,FINAL,6473018
+2025-10-25,Rowan,Ramapo,6,0,FINAL,6530792
+2025-10-25,Wis.-Whitewater,Wis.-Stout,3,1,FINAL,6471417
+2025-10-25,FDU-Florham,Delaware Valley,5,0,FINAL,6471545
+2025-10-25,Carroll (WI),Ill. Wesleyan,0,1,FINAL,6474419
+2025-10-25,Howard Payne,Hardin-Simmons,1,0,FINAL,6475294
+2025-10-25,Springfield,Emerson,3,1,FINAL,6476042
+2025-10-25,John Carroll,Ohio Wesleyan,2,0,FINAL,6476236
+2025-10-25,Ripon,Beloit,1,0,FINAL,6476433
+2025-10-25,North Park,North Central (IL),0,3,FINAL,6477172
+2025-10-25,Alfred,Hartwick,1,2,FINAL,6471527
+2025-10-25,Swarthmore,Gettysburg,4,0,FINAL,6472696
+2025-10-25,Augsburg,St. Olaf,1,1,FINAL,6472982
+2025-10-25,Simpson,Wartburg,2,0,FINAL,6475163
+2025-10-25,Occidental,Pomona-Pitzer,0,1,FINAL,6472789
+2025-10-25,Claremont-M-S,Cal Lutheran,0,0,FINAL,6477536
+2025-10-26,Trinity (TX),Millsaps,10,0,FINAL,6471704
+2025-10-26,MUW,Eureka,0,0,FINAL,6472431
+2025-10-26,Cedar Crest,Penn College,0,7,FINAL,6473149
+2025-10-26,Hendrix,LeTourneau,1,1,FINAL,6474630
+2025-10-26,St. Thomas (TX),Texas Lutheran,0,1,FINAL,6471452
+2025-10-26,Piedmont,Asbury,1,0,FINAL,6472301
+2025-10-26,Sewanee,Berry,1,1,FINAL,6472778
+2025-10-26,NYU,CWRU,0,2,FINAL,6473684
+2025-10-26,Southwestern (TX),Rhodes,1,0,FINAL,6475031
+2025-10-26,Mary Hardin-Baylor,East Tex. Baptist,4,0,FINAL,6475640
+2025-10-26,Centre,Oglethorpe,0,1,FINAL,6475814
+2025-10-26,Centenary (LA),Concordia (TX),0,2,FINAL,6476491
+2025-10-26,Ozarks (AR),Austin,1,0,FINAL,6476792
+2025-10-26,Yeshiva,UMSV,0,10,FINAL,6477599
+2025-10-26,Rochester (NY),UChicago,1,0,FINAL,6471647
+2025-10-26,Emory,WashU,1,2,FINAL,6472664
+2025-10-26,Brandeis,Carnegie Mellon,1,1,FINAL,6477306
+2025-10-26,Warren Wilson,N.C. Wesleyan,1,3,FINAL,6477044
+2025-10-26,VTSU Castleton,Me.-Farmington,3,0,FINAL,6471562
+2025-10-26,George Fox,Lewis & Clark,0,0,FINAL,6473053
+2025-10-26,Pacific Lutheran,Willamette,2,0,FINAL,6474546
+2025-10-26,Whitman,Linfield,0,0,FINAL,6477103
+2025-10-26,Wis.-Eau Claire,Concordia-M'head,2,1,FINAL,6476959
+2025-10-26,Dallas,McMurry,1,4,FINAL,6474494
+2025-10-27,Wesleyan (GA),Maryville (TN),0,12,FINAL,6476333
+2025-10-28,Berea,Earlham,1,2,FINAL,6471770
+2025-10-28,La Roche,Penn St.-Altoona,1,1,FINAL,6471931
+2025-10-28,SUNY Oneonta,Cortland,0,1,FINAL,6473480
+2025-10-28,Pitt.-Greensburg,Mount Aloysius,4,0,FINAL,6471380
+2025-10-28,Williams,Middlebury,1,0,FINAL,6471468
+2025-10-28,Mitchell,Norwich,0,9,FINAL,6472539
+2025-10-28,UW-River Falls,Bethany Lutheran,8,0,FINAL,6473878
+2025-10-28,Anderson (IN),Hanover,0,1,FINAL,6471497
+2025-10-28,Central (IA),Loras,0,0,FINAL,6476143
+2025-10-28,Buena Vista,Dubuque,0,3,FINAL,6471593
+2025-10-28,Hartford,Curry,7,0,FINAL,6471892
+2025-10-28,Hope,St. Mary's (IN),4,0,FINAL,6471972
+2025-10-28,U New England,Gordon,5,0,FINAL,6472177
+2025-10-28,Bethany (WV),Thiel,6,1,FINAL,6473620
+2025-10-28,Beloit,Maranatha Baptist,9,0,FINAL,6476435
+2025-10-28,St. Scholastica,Wis.-Stout,2,2,FINAL,6471832
+2025-10-28,Blackburn,Principia,0,1,FINAL,6477139
+2025-10-28,Cornell College,Knox,0,1,FINAL,6471719
+2025-10-28,Wesleyan (CT),Connecticut Col.,3,0,FINAL,6472227
+2025-10-28,Belhaven,Hendrix,3,0,FINAL,6474635
+2025-10-28,Luther,Wartburg,1,2,FINAL,6472275
+2025-10-28,St. Mary's (MD),Salisbury,0,1,FINAL,6472467
+2025-10-28,Fitchburg St.,WestConn,2,3,FINAL,6472693
+2025-10-28,Lynchburg,Mary Washington,0,0,FINAL,6473700
+2025-10-28,Tufts,Bowdoin,6,0,FINAL,6475276
+2025-10-28,Amherst,Trinity (CT),3,0,FINAL,6477625
+2025-10-28,Coe,Neb. Wesleyan,1,3,FINAL,6472687
+2025-10-28,Oberlin,Wooster,0,2,FINAL,6471672
+2025-10-28,Rose-Hulman,Manchester,4,0,FINAL,6471755
+2025-10-28,Allegheny,Saint Vincent,0,2,FINAL,6472056
+2025-10-28,Mt. St. Joseph,Bluffton,8,0,FINAL,6472080
+2025-10-28,Wilkes,Lycoming,2,4,FINAL,6472122
+2025-10-28,Albertus Magnus,Dean,4,0,FINAL,6472175
+2025-10-28,Roger Williams,Wentworth,0,0,FINAL,6472236
+2025-10-28,Calvin,Adrian,5,0,FINAL,6472438
+2025-10-28,Elms,Saint Joseph (CT),1,5,FINAL,6472571
+2025-10-28,Elizabethtown,Moravian,1,0,FINAL,6472575
+2025-10-28,Penn St.-Behrend,Alfred St.,6,0,FINAL,6473316
+2025-10-28,Emmanuel (MA),Lasell,4,0,FINAL,6473372
+2025-10-28,UMSV,Purchase,7,0,FINAL,6474009
+2025-10-28,Goucher,Susquehanna,0,1,FINAL,6474227
+2025-10-28,JWU (Providence),Western New Eng.,1,1,FINAL,6474922
+2025-10-28,Trine,Olivet,8,0,FINAL,6474993
+2025-10-28,Catholic,Juniata,3,0,FINAL,6475608
+2025-10-28,Regis (MA),St. Joseph's (ME),4,0,FINAL,6475963
+2025-10-28,Albion,Alma,4,3,FINAL,6475983
+2025-10-28,Scranton,Drew,2,0,FINAL,6476076
+2025-10-28,Ohio Wesleyan,Kenyon,1,1,FINAL,6476238
+2025-10-28,Simmons,Rivier,0,1,FINAL,6477022
+2025-10-28,Franklin,Transylvania,0,2,FINAL,6477116
+2025-10-28,Bates,Colby,2,4,FINAL,6472386
+2025-10-28,Wis.-Superior,Macalester,1,3,FINAL,6472440
+2025-10-29,St. Joseph's (Brkln),Mt. St. Mary (NY),0,10,FINAL,6475066
+2025-10-29,Coast Guard,Wheaton (MA),0,1,FINAL,6495849
+2025-10-29,UMass Dartmouth,UMass Boston,0,3,FINAL,6472025
+2025-10-29,N.C. Wesleyan,Methodist,2,1,FINAL,6473312
+2025-10-29,North Central (MN),Minn.-Morris,1,1,FINAL,6475527
+2025-10-29,VTSU-Johnson,Me.-Farmington,1,1,FINAL/PK,6531203
+2025-10-29,Averett,Shenandoah,1,7,FINAL,6471860
+2025-10-29,Ithaca,St. Lawrence,2,0,FINAL,6472311
+2025-10-29,McDaniel,Gettysburg,1,0,FINAL,6472697
+2025-10-29,Smith,WPI,0,2,FINAL,6472922
+2025-10-29,Babson,Wellesley,3,0,FINAL,6474265
+2025-10-29,New Jersey City,Wm. Paterson,4,2,FINAL,6474891
+2025-10-29,William Peace,Meredith,0,0,FINAL,6475376
+2025-10-29,Rockford,Illinois Tech,0,17,FINAL,6476362
+2025-10-29,New England Col.,Colby-Sawyer,3,3,FINAL,6476380
+2025-10-29,Concordia Chicago,Dominican (IL),1,2,FINAL,6477070
+2025-10-29,Wilson,Cairn,2,1,FINAL,6531285
+2025-10-29,Nazareth,St. John Fisher,1,2,FINAL,6472577
+2025-10-29,Mary Baldwin,Southern Va.,1,4,FINAL,6495991
+2025-10-29,Lebanon Valley,King's (PA),4,0,FINAL,6471435
+2025-10-29,Randolph-Macon,Bridgewater (VA),0,1,FINAL,6471610
+2025-10-29,Immaculata,Marywood,0,4,FINAL,6472110
+2025-10-29,Manhattanville,Old Westbury,6,0,FINAL,6473245
+2025-10-29,Bryn Mawr,Muhlenberg,0,0,FINAL,6473893
+2025-10-29,Rensselaer,Bard,4,0,FINAL,6473978
+2025-10-29,Alvernia,Widener,0,1,FINAL,6474317
+2025-10-29,Greensboro,Salem (NC),4,0,FINAL,6474408
+2025-10-29,SUNY Brockport,SUNY Geneseo,2,0,FINAL,6475704
+2025-10-29,SUNY Canton,VTSU Lyndon,9,0,FINAL,6476218
+2025-10-29,Heidelberg,Baldwin Wallace,1,1,FINAL,6477549
+2025-10-29,Concordia Wisconsin,Marian (WI),6,1,FINAL,6471398
+2025-10-29,Lyon,MUW,1,0,FINAL,6474196
+2025-10-29,Wash. & Jeff.,Westminster (PA),2,2,FINAL,6471739
+2025-10-29,Brevard,Pfeiffer,4,0,FINAL,6472316
+2025-10-29,Franciscan,Geneva,0,0,FINAL,6473214
+2025-10-29,Sweet Briar,Roanoke,0,11,FINAL,6475130
+2025-10-29,Maine Maritime,Thomas (ME),3,0,FINAL,6531176
+2025-10-29,Neumann,Marymount (VA),0,4,FINAL,6531437
+2025-10-29,Spalding,Webster,5,0,FINAL,6474109
+2025-10-29,Northwestern-St. Paul,Crown (MN),2,0,FINAL,6475451
+2025-10-29,Ripon,Wis.-Stevens Point,0,4,FINAL,6495714
+2025-10-29,Arcadia,FDU-Florham,2,0,FINAL,6471546
+2025-10-29,Waynesburg,Grove City,0,4,FINAL,6472012
+2025-10-29,TCNJ,Rowan,2,2,FINAL,6472085
+2025-10-29,Hartwick,Russell Sage,0,0,FINAL,6473804
+2025-10-29,Southern Me.,Plymouth St.,5,1,FINAL,6474355
+2025-10-29,Eastern Conn. St.,Rhode Island Col.,0,0,FINAL,6474366
+2025-10-29,Emerson,MIT,0,4,FINAL,6474969
+2025-10-29,Randolph,Batten,0,2,FINAL,6475698
+2025-10-29,Gwynedd Mercy,Centenary (NJ),7,1,FINAL,6476543
+2025-10-29,SUNY Maritime,Farmingdale St.,0,9,FINAL,6471493
+2025-10-29,Alfred,SUNY Poly,11,0,FINAL,6471528
+2025-10-29,Pratt,Saint Elizabeth,13,0,FINAL,6471801
+2025-10-29,Muskingum,Capital,1,4,FINAL,6471846
+2025-10-29,Guilford,East. Mennonite,2,1,FINAL,6471937
+2025-10-29,Albright,Eastern,0,1,FINAL,6472099
+2025-10-29,VTSU Castleton,Keene St.,0,1,FINAL,6472149
+2025-10-29,Montclair St.,Rutgers-Camden,2,0,FINAL,6472426
+2025-10-29,Wilmington (OH),Ohio Northern,0,1,FINAL,6472471
+2025-10-29,John Carroll,Denison,0,1,FINAL,6472498
+2025-10-29,Mount Union,Marietta,0,1,FINAL,6472513
+2025-10-29,Whittier,Occidental,0,2,FINAL,6472796
+2025-10-29,Ramapo,Rutgers-Newark,2,0,FINAL,6473243
+2025-10-29,Wis.-Platteville,Carleton,0,2,FINAL,6473642
+2025-10-29,Stevenson,Hood,1,0,FINAL,6473724
+2025-10-29,Mount Holyoke,Springfield,0,3,FINAL,6474752
+2025-10-29,Johns Hopkins,Dickinson,2,0,FINAL,6474834
+2025-10-29,York (PA),Messiah,0,1,FINAL,6475212
+2025-10-29,Stevens,DeSales,4,0,FINAL,6475219
+2025-10-29,Washington Col.,Swarthmore,0,2,FINAL,6475851
+2025-10-29,Misericordia,Delaware Valley,9,0,FINAL,6475862
+2025-10-29,Keuka,Utica,0,4,FINAL,6476109
+2025-10-29,Houghton,Elmira,1,0,FINAL,6476258
+2025-10-29,Suffolk,Nichols,5,0,FINAL,6476572
+2025-10-29,Clark (MA),Salve Regina,2,1,FINAL,6477803
+2025-10-29,Kean,Stockton,1,1,FINAL,6472416
+2025-10-29,Ursinus,Franklin & Marshall,1,0,FINAL,6473020
+2025-10-29,Yeshiva,Sarah Lawrence,0,13,FINAL,6474519
+2025-10-29,North Central (IL),Wheaton (IL),2,0,FINAL,6471656
+2025-10-29,MSOE,St. Norbert,1,0,FINAL,6472036
+2025-10-29,Aurora,Benedictine (IL),2,0,FINAL,6472572
+2025-10-29,Millikin,Ill. Wesleyan,0,1,FINAL,6474422
+2025-10-29,Edgewood,Wis. Lutheran,3,0,FINAL,6476677
+2025-10-29,Carthage,North Park,1,0,FINAL,6477246
+2025-10-29,Elmhurst,Augustana (IL),5,0,FINAL,6477404
+2025-10-29,Hiram,Chatham,0,1,FINAL,6474029
+2025-10-29,Westminster (MO),Greenville,1,1,FINAL,6474721
+2025-10-29,La Verne,Redlands,1,0,FINAL,6475483
+2025-10-30,Hollins,Lynchburg,0,9,FINAL,6471815
+2025-10-31,Austin,LeTourneau,3,1,FINAL,6531795
+2025-10-31,Wis.-Superior,Bethany Lutheran,1,2,FINAL,6472442
+2025-10-31,Concordia (TX),Texas Lutheran,0,1,FINAL,6471453
+2025-10-31,Millsaps,Rhodes,0,3,FINAL,6471705
+2025-10-31,Westfield St.,MCLA,4,0,FINAL,6471909
+2025-11-01,Wash. & Lee,East. Mennonite,9,0,FINAL,6531662
+2025-11-01,Hendrix,Ozarks (AR),2,0,FINAL,6474639
+2025-11-01,St. Thomas (TX),Centenary (LA),3,0,FINAL,6474805
+2025-11-01,Mass. Maritime,Fitchburg St.,1,4,FINAL,6472698
+2025-11-01,Framingham St.,Bridgewater St.,2,3,FINAL,6475323
+2025-11-01,Eastern,Widener,0,0,FINAL,6475547
+2025-11-01,York (NY),Saint Elizabeth,0,6,FINAL,6530871
+2025-11-01,Rutgers-Camden,New Jersey City,0,1,FINAL,6531497
+2025-11-01,Williams,Bowdoin,3,0,FINAL,6531682
+2025-11-01,DeSales,FDU-Florham,1,1,FINAL,6471547
+2025-11-01,Denison,Kenyon,3,1,FINAL,6472501
+2025-11-01,Berry,Oglethorpe,0,0,FINAL,6472782
+2025-11-01,York (PA),Stevenson,1,0,FINAL,6473727
+2025-11-01,Wellesley,Mount Holyoke,0,0,FINAL,6474267
+2025-11-01,Haverford,Swarthmore,0,0,FINAL,6475854
+2025-11-01,Beloit,Cornell College,3,0,FINAL,6476440
+2025-11-01,Monmouth (IL),Lake Forest,0,5,FINAL,6476659
+2025-11-01,Lawrence,Ripon,1,0,FINAL,6477759
+2025-11-01,Buffalo St.,SUNY New Paltz,3,1,FINAL,6531145
+2025-11-01,Brooklyn,CCNY,0,2,FINAL,6531205
+2025-11-01,John Jay,Lehman,9,0,FINAL,6531206
+2025-11-01,Emmanuel (MA),Norwich,3,1,FINAL,6531363
+2025-11-01,Kalamazoo,Albion,4,0,FINAL,6531366
+2025-11-01,Mount Aloysius,Penn St.-Altoona,1,2,FINAL,6531407
+2025-11-01,St. Joseph's (L.I.),Sarah Lawrence,1,0,FINAL,6531540
+2025-11-01,Bridgewater (VA),Randolph-Macon,5,1,FINAL,6531661
+2025-11-01,Middlebury,Hamilton,2,0,FINAL,6531680
+2025-11-01,Farmingdale St.,Mt. St. Mary (NY),1,2,FINAL,6531690
+2025-11-01,Salisbury,Chris. Newport,0,0,FINAL,6472277
+2025-11-01,Mary Baldwin,Methodist,1,0,FINAL,6531470
+2025-11-01,Amherst,Colby,0,2,FINAL,6531679
+2025-11-01,Knox,Grinnell,0,3,FINAL,6471721
+2025-11-01,Capital,Mount Union,0,0,FINAL,6471847
+2025-11-01,Wittenberg,John Carroll,0,2,FINAL,6475258
+2025-11-01,Springfield,Clark (MA),7,2,FINAL,6476047
+2025-11-01,Babson,Emerson,1,2,FINAL,6476453
+2025-11-01,Baldwin Wallace,Muskingum,7,0,FINAL,6477554
+2025-11-01,Lasell,St. Joseph's (ME),1,0,FINAL,6531360
+2025-11-01,Albertus Magnus,Regis (MA),0,2,FINAL,6531361
+2025-11-01,Hartwick,Utica,3,1,FINAL,6531537
+2025-11-01,Chatham,Franciscan,0,0,FINAL/PK,6531603
+2025-11-01,Batten,Lynchburg,1,0,FINAL (OT),6531660
+2025-11-01,Hanover,Anderson (IN),1,0,FINAL,6531672
+2025-11-01,Ill. Wesleyan,Wheaton (IL),1,1,FINAL/PK,6531725
+2025-11-01,Carnegie Mellon,Rochester (NY),0,0,FINAL,6472633
+2025-11-01,CWRU,Emory,0,1,FINAL,6473686
+2025-11-01,Penn College,Penn St.-Abington,6,0,FINAL,6531294
+2025-11-01,Ithaca,Bard,4,0,FINAL,6472330
+2025-11-01,Wis.-Superior,Martin Luther,2,0,FINAL,6472444
+2025-11-01,Marietta,Wilmington (OH),1,1,FINAL,6472473
+2025-11-01,Whitworth,Lewis & Clark,0,0,FINAL,6472703
+2025-11-01,Rensselaer,William Smith,0,0,FINAL,6472798
+2025-11-01,RIT,Skidmore,4,0,FINAL,6472857
+2025-11-01,St. Olaf,St. Catherine,0,2,FINAL,6473303
+2025-11-01,Bryn Mawr,Franklin & Marshall,0,4,FINAL,6473500
+2025-11-01,Otterbein,Heidelberg,1,1,FINAL,6474167
+2025-11-01,Pacific (OR),Puget Sound,1,2,FINAL,6474456
+2025-11-01,Vassar,Clarkson,3,0,FINAL,6474590
+2025-11-01,Linfield,Pacific Lutheran,0,1,FINAL,6474854
+2025-11-01,Whitman,George Fox,5,0,FINAL,6475358
+2025-11-01,Crown (MN),North Central (MN),2,0,FINAL,6475453
+2025-11-01,Pomona-Pitzer,Redlands,2,1,FINAL,6475485
+2025-11-01,Macalester,Bethel (MN),4,0,FINAL,6475938
+2025-11-01,Chapman,La Verne,2,2,FINAL,6476723
+2025-11-01,Northwestern-St. Paul,Minn.-Morris,4,1,FINAL,6477328
+2025-11-01,Claremont-M-S,Caltech,5,0,FINAL,6477541
+2025-11-01,Union (NY),St. Lawrence,2,0,FINAL,6530884
+2025-11-01,Piedmont,LaGrange,0,0,FINAL/PK,6531196
+2025-11-01,Covenant,Asbury,1,3,FINAL,6531197
+2025-11-01,Fredonia,Oswego St.,1,0,FINAL,6531255
+2025-11-01,Elizabethtown,Susquehanna,0,0,FINAL/PK,6531414
+2025-11-01,Catholic,Drew,3,0,FINAL,6531415
+2025-11-01,Nazareth,SUNY Geneseo,3,0,FINAL,6531538
+2025-11-01,Transylvania,Earlham,2,0,FINAL,6531673
+2025-11-01,Tufts,Wesleyan (CT),2,1,FINAL,6531681
+2025-11-01,WashU,NYU,3,1,FINAL,6472679
+2025-11-01,Oberlin,DePauw,0,1,FINAL,6473425
+2025-11-01,Wooster,Ohio Wesleyan,1,1,FINAL,6471673
+2025-11-01,Wis.-Oshkosh,UW-River Falls,2,0,FINAL,6472230
+2025-11-01,Anna Maria,Worcester St.,0,2,FINAL,6475642
+2025-11-01,Coast Guard,Smith,3,1,FINAL,6495976
+2025-11-01,Central (IA),Wartburg,3,2,FINAL,6531410
+2025-11-01,Pratt,Gwynedd Mercy,2,4,FINAL,6531500
+2025-11-01,St. John Fisher,Houghton,1,0,FINAL,6531539
+2025-11-01,Shenandoah,Roanoke,2,1,FINAL,6531625
+2025-11-01,Misericordia,Lebanon Valley,5,0,FINAL,6475190
+2025-11-01,Gettysburg,Washington Col.,1,0,FINAL,6472700
+2025-11-01,MIT,WPI,4,0,FINAL,6472924
+2025-11-01,Sewanee,Centre,0,1,FINAL,6475807
+2025-11-01,Muhlenberg,Dickinson,1,4,FINAL,6477475
+2025-11-01,Husson,Maine Maritime,2,3,FINAL,6531228
+2025-11-01,Rivier,Saint Joseph (CT),3,0,FINAL,6531362
+2025-11-01,Alfred St.,La Roche,3,0,FINAL,6531408
+2025-11-01,TCNJ,Stockton,3,0,FINAL,6531496
+2025-11-01,Greensboro,N.C. Wesleyan,2,0,FINAL,6531469
+2025-11-01,Saint Mary's (MN),Gustavus Adolphus,0,0,FINAL,6472392
+2025-11-01,Hamline,Saint Benedict,0,1,FINAL,6472831
+2025-11-01,Concordia-M'head,Augsburg,0,2,FINAL,6472984
+2025-11-01,Carleton,St. Scholastica,3,0,FINAL,6476988
+2025-11-01,Lesley,Me.-Farmington,4,0,FINAL,6531227
+2025-11-01,King's (PA),Arcadia,0,4,FINAL,6471436
+2025-11-01,Ursinus,Johns Hopkins,0,2,FINAL,6473022
+2025-11-01,Messiah,Hood,3,0,FINAL,6475214
+2025-11-01,Delaware Valley,Stevens,0,8,FINAL,6475221
+2025-11-01,Salve Regina,Wheaton (MA),1,2,FINAL,6477805
+2025-11-01,Lancaster Bible,Penn St.-Berks,1,2,FINAL,6531295
+2025-11-01,Brevard,Salem (NC),3,1,FINAL,6531467
+2025-11-01,Webster,Lyon,5,0,FINAL,6531700
+2025-11-01,St. Mary's (MD),Notre Dame (MD),3,1,FINAL,6531293
+2025-11-01,WestConn,Rhode Island Col.,4,1,FINAL,6531761
+2025-11-01,Wis.-La Crosse,Wis.-Whitewater,3,0,FINAL,6471419
+2025-11-01,Trinity (TX),Southwestern (TX),2,0,FINAL,6475038
+2025-11-01,Hardin-Simmons,Mary Hardin-Baylor,1,0,FINAL,6475296
+2025-11-01,East Tex. Baptist,Howard Payne,0,1,FINAL,6477035
+2025-11-01,Schreiner,McMurry,0,2,FINAL,6477480
+2025-11-01,U New England,Roger Williams,2,0,FINAL,6531741
+2025-11-01,Southern Me.,UMass Boston,4,2,FINAL,6531768
+2025-11-01,Wis.-Stevens Point,Wis.-Stout,1,0,FINAL,6471833
+2025-11-01,Albright,Alvernia,0,0,FINAL,6472101
+2025-11-01,Wis.-Platteville,Wis.-Eau Claire,0,0,FINAL,6473644
+2025-11-01,Penn St. Harrisburg,Wilson,5,0,FINAL,6531292
+2025-11-01,Trine,Adrian,1,1,FINAL/PK,6531367
+2025-11-01,Southern Va.,Meredith,2,0,FINAL,6531468
+2025-11-01,Saint Vincent,Allegheny,1,0,FINAL,6531602
+2025-11-01,Westminster (MO),Principia,0,0,FINAL/PK,6531620
+2025-11-01,JWU (Providence),Suffolk,1,2,FINAL,6531740
+2025-11-01,Luther,Simpson,1,2,FINAL (OT),6531411
+2025-11-01,Carthage,Elmhurst,1,1,FINAL/PK,6531724
+2025-11-01,Cal Lutheran,Whittier,2,0,FINAL,6477755
+2025-11-02,Dominican (IL),Concordia Wisconsin,2,1,FINAL,6531720
+2025-11-02,Edgewood,Marian (WI),1,0,FINAL,6531719
+2025-11-02,Whitworth,George Fox,4,1,FINAL,6472704
+2025-11-02,Whitman,Lewis & Clark,3,0,FINAL,6473055
+2025-11-02,Pacific (OR),Pacific Lutheran,1,1,FINAL,6474458
+2025-11-02,Linfield,Puget Sound,0,2,FINAL,6477866
+2025-11-02,MSOE,Aurora,3,0,FINAL,6531718
+2025-11-02,UChicago,Brandeis,6,0,FINAL,6471648
+2025-11-02,Illinois Tech,Wis. Lutheran,5,1,FINAL,6531721
+2025-11-03,St. Olaf,Saint Mary's (MN),1,0,FINAL,6531916
+2025-11-03,Augsburg,Macalester,2,1,FINAL,6531915
+2025-11-03,Occidental,Chapman,2,0,FINAL,6531954
+2025-11-04,Babson,Wheaton (MA),1,3,FINAL,6532105
+2025-11-04,Wilmington (OH),Baldwin Wallace,3,1,FINAL,6531840
+2025-11-04,Mount Union,Ohio Northern,1,1,FINAL/PK,6531953
+2025-11-04,Skidmore,Ithaca,0,3,FINAL,6532085
+2025-11-04,MIT,Wellesley,1,0,FINAL (OT),6532104
+2025-11-04,RIT,Union (NY),1,0,FINAL,6532107
+2025-11-04,Marymount (VA),Neumann,4,0,FINAL,6531498
+2025-11-04,Penn College,St. Mary's (MD),0,2,FINAL,6532233
+2025-11-04,Maryville (TN),Asbury,1,1,FINAL/PK,6531195
+2025-11-04,Hope,Trine,1,1,FINAL/PK,6531364
+2025-11-04,Rowan,TCNJ,0,0,FINAL/PK,6531494
+2025-11-04,Emerson,WPI,1,2,FINAL,6532103
+2025-11-04,Messiah,Eastern,3,0,FINAL,6532117
+2025-11-04,Belhaven,Piedmont,1,0,FINAL,6531194
+2025-11-04,Calvin,Kalamazoo,3,1,FINAL,6531365
+2025-11-04,Montclair St.,New Jersey City,2,1,FINAL,6531495
+2025-11-04,Marywood,Gwynedd Mercy,0,1,FINAL,6531499
+2025-11-04,Mt. St. Joseph,Hanover,1,1,FINAL/PK,6531670
+2025-11-04,Rose-Hulman,Transylvania,3,1,FINAL,6531671
+2025-11-04,Misericordia,Arcadia,3,0,FINAL,6532064
+2025-11-04,Springfield,Coast Guard,4,2,FINAL,6532102
+2025-11-04,York (PA),Stevenson,1,2,FINAL,6532116
+2025-11-04,Stevens,Lebanon Valley,2,1,FINAL,6532122
+2025-11-04,Franklin & Marshall,Gettysburg,2,1,FINAL,6532175
+2025-11-04,Dickinson,Washington Col.,5,0,FINAL,6532176
+2025-11-04,Penn St. Harrisburg,Penn St.-Berks,4,0,FINAL,6532216
+2025-11-04,Yeshiva,York (NY),0,1,FINAL,6477362
+2025-11-05,Plattsburgh St.,Fredonia,2,1,FINAL,6531697
+2025-11-05,Brevard,Mary Baldwin,4,0,FINAL,6532055
+2025-11-05,Pitt.-Greensburg,Alfred St.,0,0,FINAL/PK,6531405
+2025-11-05,UW-River Falls,Wis.-Oshkosh,3,1,FINAL,6531919
+2025-11-05,Batten,Shenandoah,2,1,FINAL,6532114
+2025-11-05,Cortland,Buffalo St.,5,0,FINAL,6531696
+2025-11-05,SUNY Brockport,Hartwick,1,0,FINAL,6531823
+2025-11-05,Wash. & Lee,Bridgewater (VA),3,2,FINAL (OT),6532023
+2025-11-05,Eastern Conn. St.,WestConn,0,2,FINAL,6532179
+2025-11-05,Salem St.,Framingham St.,1,1,FINAL/PK,6532290
+2025-11-05,Penn St.-Behrend,Penn St.-Altoona,4,0,FINAL,6531406
+2025-11-05,Merchant Marine,St. Joseph's (L.I.),0,2,FINAL,6531691
+2025-11-05,UMSV,Mt. St. Mary (NY),4,2,FINAL,6531692
+2025-11-05,Hartford,U New England,1,0,FINAL,6531739
+2025-11-05,Southern Va.,Greensboro,9,0,FINAL,6532054
+2025-11-05,Pomona-Pitzer,Occidental,3,0,FINAL,6532325
+2025-11-05,Bethany Lutheran,Wis.-Superior,0,3,FINAL,6532316
+2025-11-05,Rivier,Lasell,1,0,FINAL,6531905
+2025-11-05,Keene St.,Southern Me.,2,3,FINAL (OT),6532178
+2025-11-05,Northwestern-St. Paul,Minn.-Morris,8,1,FINAL,6532315
+2025-11-05,St. John Fisher,Nazareth,2,0,FINAL,6532397
+2025-11-05,Scranton,Susquehanna,1,0,FINAL,6531412
+2025-11-05,Lycoming,Catholic,0,1,FINAL,6531413
+2025-11-05,Waynesburg,Saint Vincent,2,0,FINAL,6531601
+2025-11-05,Endicott,Suffolk,0,0,FINAL/PK,6531738
+2025-11-05,Emmanuel (MA),Regis (MA),2,0,FINAL,6531906
+2025-11-05,Illinois Tech,Dominican (IL),4,0,FINAL,6532059
+2025-11-05,Grove City,Franciscan,1,0,FINAL,6531600
+2025-11-05,Central (IA),Dubuque,0,4,FINAL,6531409
+2025-11-05,North Park,Elmhurst,2,1,FINAL,6531722
+2025-11-05,North Central (IL),Wheaton (IL),4,0,FINAL,6531723
+2025-11-05,Simpson,Loras,0,1,FINAL,6532234
+2025-11-05,MSOE,Edgewood,3,0,FINAL,6532550
+2025-11-05,Wis.-Whitewater,Wis.-Stevens Point,1,2,FINAL,6531920
+2025-11-05,Cal Lutheran,Claremont-M-S,2,1,FINAL,6532326
+2025-11-06,MIT,Wheaton (MA),3,0,FINAL,6532571
+2025-11-06,Springfield,WPI,3,2,FINAL,6532578
+2025-11-06,Hardin-Simmons,Howard Payne,5,1,FINAL,6532217
+2025-11-06,Oglethorpe,Centre,0,3,FINAL,6532288
+2025-11-06,Concordia (TX),Austin,3,0,FINAL,6532309
+2025-11-06,Augsburg,St. Catherine,1,2,FINAL,6531921
+2025-11-06,Carleton,St. Olaf,1,0,FINAL (OT),6531922
+2025-11-06,Sewanee,Southwestern (TX),2,0,FINAL,6532289
+2025-11-06,Greenville,Westminster (MO),1,0,FINAL,6531698
+2025-11-06,St. Thomas (TX),Hendrix,0,3,FINAL,6532421
+2025-11-06,Otterbein,Ohio Northern,0,1,FINAL,6532223
+2025-11-06,Mary Hardin-Baylor,East Tex. Baptist,3,0,FINAL,6532218
+2025-11-06,John Carroll,Kenyon,1,0,FINAL,6531898
+2025-11-06,DePauw,Denison,0,1,FINAL,6531899
+2025-11-06,Capital,Wilmington (OH),2,3,FINAL,6532224
+2025-11-06,Spalding,Webster,4,0,FINAL,6531699
+2025-11-07,Salisbury,Chris. Newport,0,1,FINAL,6532220
+2025-11-07,William Smith,RIT,1,2,FINAL (OT),6532358
+2025-11-07,Lake Forest,Grinnell,1,0,FINAL,6531894
+2025-11-07,Concordia (TX),Texas Lutheran,1,0,FINAL,6532433
+2025-11-07,Trinity (TX),Centre,2,0,FINAL,6532287
+2025-11-07,Vassar,Ithaca,1,0,FINAL (OT),6532359
+2025-11-07,Mary Washington,UC Santa Cruz,0,1,FINAL,6532219
+2025-11-07,Hendrix,McMurry,0,2,FINAL,6532434
+2025-11-07,Illinois Col.,Lawrence,0,1,FINAL,6531893
+2025-11-07,Rhodes,Sewanee,1,0,FINAL,6532286
+2025-11-07,Wis.-Stevens Point,Wis.-La Crosse,0,9,FINAL,6531918
+2025-11-07,Johns Hopkins,Dickinson,1,0,FINAL,6532174
+2025-11-07,Worcester St.,Framingham St.,1,0,FINAL,6532310
+2025-11-07,Swarthmore,Franklin & Marshall,1,0,FINAL,6532177
+2025-11-07,Westfield St.,Bridgewater St.,2,0,FINAL,6532477
+2025-11-07,Montclair St.,Rowan,1,1,FINAL/PK,6532488
+2025-11-07,UW-River Falls,Wis.-Platteville,0,0,FINAL/PK,6531917
+2025-11-08,John Jay,CCNY,3,0,FINAL,6532093
+2025-11-08,Lesley,Maine Maritime,3,1,FINAL,6532482
+2025-11-08,Emmanuel (MA),Rivier,2,1,FINAL,6532484
+2025-11-08,Brevard,Southern Va.,0,0,FINAL/PK,6532487
+2025-11-08,Pomona-Pitzer,Cal Lutheran,1,2,FINAL,6532708
+2025-11-08,NYU,Brandeis,0,1,FINAL,6474713
+2025-11-08,Illinois Tech,MSOE,3,1,FINAL,6532476
+2025-11-08,Calvin,Hope,2,1,FINAL,6532485
+2025-11-08,Endicott,Hartford,0,2,FINAL,6532493
+2025-11-08,Southern Me.,WestConn,3,0,FINAL,6532588
+2025-11-08,Marymount (VA),Gwynedd Mercy,4,0,FINAL,6532707
+2025-11-08,St. Catherine,Carleton,0,1,FINAL,6532709
+2025-11-08,MIT,Springfield,3,0,FINAL,6532711
+2025-11-08,Lake Forest,Lawrence,1,0,FINAL,6532719
+2025-11-08,Cortland,Plattsburgh St.,3,2,FINAL,6532739
+2025-11-08,Messiah,Stevenson,4,0,FINAL,6532512
+2025-11-08,Pacific Lutheran,Whitworth,1,0,FINAL,6472705
+2025-11-08,Linfield,Lewis & Clark,3,0,FINAL,6473057
+2025-11-08,Willamette,Pacific (OR),1,1,FINAL,6474461
+2025-11-08,Puget Sound,Whitman,2,0,FINAL,6477105
+2025-11-08,Dubuque,Loras,0,1,FINAL,6532439
+2025-11-08,Penn St.-Behrend,Pitt.-Greensburg,7,0,FINAL,6532483
+2025-11-08,North Central (IL),North Park,4,0,FINAL,6532492
+2025-11-08,Wash. & Lee,Batten,1,1,FINAL/PK,6532511
+2025-11-08,Northwestern-St. Paul,Wis.-Superior,0,1,FINAL,6532619
+2025-11-08,WashU,UChicago,1,1,FINAL,6471650
+2025-11-08,Belhaven,Asbury,2,1,FINAL,6532481
+2025-11-08,Tufts,Colby,3,2,FINAL,6532057
+2025-11-08,Penn St. Harrisburg,St. Mary's (MD),2,2,FINAL/PK,6532475
+2025-11-08,Scranton,Catholic,1,0,FINAL,6532486
+2025-11-08,St. Joseph's (L.I.),UMSV,2,1,FINAL,6532491
+2025-11-08,Greenville,Spalding,0,0,FINAL/PK,6532859
+2025-11-08,Grove City,Waynesburg,1,0,FINAL,6532451
+2025-11-08,Misericordia,Stevens,0,3,FINAL,6532513
+2025-11-08,Mary Hardin-Baylor,Hardin-Simmons,0,1,FINAL (OT),6532819
+2025-11-08,Carnegie Mellon,CWRU,1,1,FINAL,6473689
+2025-11-08,Williams,Middlebury,2,1,FINAL,6532056
+2025-11-08,Rose-Hulman,Hanover,1,0,FINAL,6532490
+2025-11-08,Rochester (NY),Emory,0,1,FINAL,6472636
+2025-11-09,Chris. Newport,UC Santa Cruz,1,0,FINAL (OT),6532880
+2025-11-09,McMurry,Concordia (TX),1,0,FINAL,6532657
+2025-11-09,Denison,John Carroll,0,1,FINAL,6532626
+2025-11-09,Swarthmore,Johns Hopkins,1,2,FINAL,6532710
+2025-11-09,Worcester St.,Westfield St.,0,1,FINAL,6532712
+2025-11-09,Trinity (TX),Rhodes,3,0,FINAL,6532896
+2025-11-09,Wilmington (OH),Ohio Northern,3,2,FINAL,6532610
+2025-11-09,Wis.-La Crosse,Wis.-Platteville,2,0,FINAL,6532654
+2025-11-09,Vassar,RIT,1,0,FINAL,6532694
+2025-11-09,Puget Sound,Whitworth,1,0,FINAL,6472706
+2025-11-09,Lewis & Clark,Willamette,1,1,FINAL,6473060
+2025-11-09,Pacific Lutheran,Whitman,3,0,FINAL,6474858
+2025-11-09,George Fox,Linfield,0,1,FINAL,6475360
+2025-11-09,Tufts,Williams,1,1,FINAL/PK,6532892
