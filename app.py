@@ -336,12 +336,8 @@ def compute_npi_context(season: str, sport: str, effective_df: pd.DataFrame, has
 
     if not result.attrs.get("converged", True):
         st.warning(
-            "⚠️ **NPI did not converge for this set of games** (hit the "
-            f"{result.attrs.get('iterations', '?')}-iteration limit without "
-            "settling on a stable answer). This typically happens early in a "
-            "season, when most teams have only played 1-2 games -- the "
-            "numbers below may be unreliable and can change significantly "
-            "as more games are collected."
+            "⚠️ **NPI did not converge for this set of games.** This typically happens early in a "
+            "season, when most teams have only played 1-2 games. Please come back later or add results."
         )
 
     return {
@@ -379,8 +375,7 @@ def render_rankings_tab(season: str, sport: str, effective_df: pd.DataFrame, has
 
     if not ctx["converged"]:
         st.info(
-            "Rankings are hidden until NPI converges for this data -- see the "
-            "warning above. Check back once more games have been collected."
+            "Rankings are hidden, NPI did not converge."
         )
         return
 
