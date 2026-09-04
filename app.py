@@ -344,7 +344,12 @@ def compute_npi_context(season: str, sport: str, effective_df: pd.DataFrame, has
             "as more games are collected."
         )
 
-    return {"result": result, "df_scope": df_scope, "caption": caption}
+    return {
+        "result": result,
+        "df_scope": df_scope,
+        "caption": caption,
+        "converged": result.attrs.get("converged", True),
+    }
 
 
 def render_rankings_tab(season: str, sport: str, effective_df: pd.DataFrame, has_data: bool, ctx: dict):
@@ -370,6 +375,13 @@ def render_rankings_tab(season: str, sport: str, effective_df: pd.DataFrame, has
 
     if ctx is None:
         st.info("No games played by the selected date yet.")
+        return
+
+    if not ctx["converged"]:
+        st.info(
+            "Rankings are hidden until NPI converges for this data -- see the "
+            "warning above. Check back once more games have been collected."
+        )
         return
 
     st.caption(ctx["caption"])
@@ -398,6 +410,13 @@ def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, 
 
     if ctx is None:
         st.info("No games played by the selected date yet.")
+        return
+
+    if not ctx["converged"]:
+        st.info(
+            "Team lookup is hidden until NPI converges for this data -- see the "
+            "warning above. Check back once more games have been collected."
+        )
         return
 
     result = ctx["result"]
