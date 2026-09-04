@@ -662,7 +662,7 @@ def fetch_raw_season(sport: str, start: date, end: date, out_dir: str = ".", deb
     """Fetches (resumably) into the raw CSV, applying only manual-exclusion
     filtering. Cross-division filtering happens later, in filter_to_final."""
     sport_path = SPORT_PATHS[sport]
-    raw_path = _raw_csv_path(sport, out_dir)
+    raw_path = _raw_csv_path(sport, out_dir, season)
     manual_exclusions = _load_manual_exclusions(out_dir)
     if manual_exclusions:
         print(f"Loaded {len(manual_exclusions)} manually-excluded game_id(s) from manual_exclusions.csv")

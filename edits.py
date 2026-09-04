@@ -8,7 +8,8 @@ directly as the CSV file label collector.py writes to
 
 Two data sources get merged into one "effective" set of games per
 (season, sport):
-  - a base CSV collected by collector.py (only exists for the 2025 season)
+  - a base CSV collected by collector.py, if one exists yet for that
+    season/sport (d3_{sport}_{season}.csv)
   - an "edits" dict layered on top, recording:
       "removed":   game_ids from the base CSV the user deleted
       "overrides": {game_id: {changed_field: new_value, ...}} for base
@@ -16,10 +17,13 @@ Two data sources get merged into one "effective" set of games per
       "added":     brand-new games the user entered by hand, each with a
                    generated "manual_..." game_id
 
-2026 has no base CSV at all -- every 2026 game is a manual addition, so
-the exact same merge logic handles both seasons: for 2026, base_df is
-just empty, "removed"/"overrides" are no-ops, and "added" is the entire
-season.
+A season/sport with no base CSV yet (nothing collected) is handled by
+the exact same merge logic -- base_df is just empty, "removed"/
+"overrides" are no-ops, and "added" is the entire season. Whether a given
+season "has real data" is a question app.py answers by checking whether
+load_base() actually returned anything -- nothing here is hardcoded to a
+specific year, so a brand-new season starts empty and fills in
+automatically the first time collector.py is run for it.
 
 DELIBERATELY NO PERSISTENCE HERE. Edits live in Streamlit's
 st.session_state (see app.py), not on disk -- each browser session is a
@@ -42,10 +46,12 @@ EDITABLE_FIELDS = ("date", "home_team", "away_team", "home_score", "away_score",
 EMPTY_EDITS = {"removed": [], "overrides": {}, "added": []}
 
 
-def base_csv_path(season: str, sport: str, out_dir: str = "."):
-    """Only 2025 has a collected base file. Returns None for other seasons."""
-    if season != "2025":
-        return None
+def base_csv_path(season: str, sport: str, out_dir: str = ".") -> str:
+    """Path to collector.py's output CSV for this season/sport. Always
+    returns a path (never None) -- load_base() below checks whether the
+    file actually exists, so any season collector.py has been run for
+    (2025, 2026, or a future year) is picked up with no hardcoded year
+    check here."""
     return os.path.join(out_dir, f"d3_{sport}_{season}.csv")
 
 
