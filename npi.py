@@ -164,25 +164,34 @@ def calculate_npi(
     Returns
     -------
     pd.DataFrame
-        DataFrame with columns: team, npi, games_played. Also carries two
-        diagnostic values in result_df.attrs (doesn't change the columns
-        or break any existing caller that only looks at the columns):
-          "converged"  : True if max_change dropped below `tolerance`
-                          before max_iterations was reached, else False.
+        DataFrame with columns: team, npi, games_played, converged. The
+        "converged" column is per-team: True if that team's own
+        iteration-to-iteration change was below `tolerance` at the point
+        the loop stopped, False if it was still moving by more than that
+        -- see CONVERGENCE below. Also carries two summary values in
+        result_df.attrs (doesn't change the columns or break any existing
+        caller that only looks at them):
+          "converged"  : True only if EVERY team's own column above is
+                          True (i.e. the whole computation reached a
+                          stable fixed point before max_iterations).
           "iterations" : how many iterations actually ran.
-        CONVERGENCE ISN'T GUARANTEED -- see module docstring. With very
-        few games (e.g. early in a season, most teams with 1-2 games),
-        the hard win/loss-inclusion thresholds can create a feedback loop
-        with no fixed point, so the iteration oscillates indefinitely
-        instead of settling down. When that happens this function still
-        returns a DataFrame (whatever npi_scores holds when the loop
-        exhausts max_iterations), but that value is essentially arbitrary
-        -- it depends on which phase of the oscillation the loop happened
-        to stop on. attrs["converged"] = False is the caller's signal
-        that the returned npi values shouldn't be trusted as-is.
+
+    CONVERGENCE ISN'T GUARANTEED -- see module docstring. With very few
+    games (e.g. early in a season, most teams with 1-2 games), the hard
+    win/loss-inclusion thresholds can create a feedback loop with no
+    fixed point, so the iteration oscillates indefinitely for the
+    specific team(s) involved instead of settling down. When that
+    happens, this is usually confined to a handful of teams (and their
+    direct opponents) rather than the whole league -- the per-team
+    "converged" column lets a caller show every team whose value *did*
+    stabilize while flagging just the ones that didn't, rather than
+    discarding an entire season's rankings over one or two sparse-schedule
+    teams. A team's own npi value when "converged" is False is
+    essentially arbitrary -- it depends on which phase of that team's
+    oscillation the loop happened to stop on.
     """
     if df.empty:
-        empty = pd.DataFrame(columns=['team', 'npi', 'games_played'])
+        empty = pd.DataFrame(columns=['team', 'npi', 'games_played', 'converged'])
         empty.attrs['converged'] = True
         empty.attrs['iterations'] = 0
         return empty
@@ -198,6 +207,7 @@ def calculate_npi(
 
     converged = False
     iteration = 0
+    team_diffs = {team: 0.0 for team in teams}
     for iteration in range(max_iterations):
         old_npi = npi_scores.copy()
         game_npis = {team: [] for team in teams}
@@ -329,7 +339,8 @@ def calculate_npi(
             else:
                 npi_scores[team] = min_loss_val
 
-        max_change = max(abs(npi_scores[team] - old_npi[team]) for team in teams)
+        team_diffs = {team: abs(npi_scores[team] - old_npi[team]) for team in teams}
+        max_change = max(team_diffs.values())
         if max_change < tolerance:
             converged = True
             break
@@ -340,6 +351,7 @@ def calculate_npi(
             'team': team,
             'npi': npi_scores[team],
             'games_played': len(game_npis[team]),
+            'converged': team_diffs[team] < tolerance,
         })
 
     result_df = pd.DataFrame(results)

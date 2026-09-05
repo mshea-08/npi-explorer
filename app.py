@@ -335,9 +335,11 @@ def compute_npi_context(season: str, sport: str, effective_df: pd.DataFrame, has
     )
 
     if not result.attrs.get("converged", True):
+        n_unstable = int((~result["converged"]).sum())
         st.warning(
-            "⚠️ **NPI did not converge for this set of games.** This typically happens early in a "
-            "season, when most teams have only played 1-2 games. Please come back later or add results."
+            f"⚠️ NPI algorithm did not fully converge. {n_unstable} team(s) "
+            "have not stabilized. For more accurate results, check back "
+            "after more games."
         )
 
     return {
@@ -373,25 +375,29 @@ def render_rankings_tab(season: str, sport: str, effective_df: pd.DataFrame, has
         st.info("No games played by the selected date yet.")
         return
 
-    if not ctx["converged"]:
-        st.info(
-            "Rankings are hidden, NPI did not converge."
-        )
-        return
-
     st.caption(ctx["caption"])
 
     result_display = ctx["result"].copy()
     result_display.insert(0, "rank", range(1, len(result_display) + 1))
-    result_display["npi"] = result_display["npi"].round(2)
+    result_display["npi"] = result_display["npi"].map(lambda x: f"{x:.2f}")
+    result_display["Stability"] = result_display["converged"].apply(lambda ok: "" if ok else "⚠️")
+    unstable_mask = ~result_display["converged"]
+    result_display = result_display.drop(columns=["converged"])
 
     team_filter = st.text_input("Filter by team name (optional)", key=f"filter_{season}_{sport}")
     if team_filter:
-        result_display = result_display[
-            result_display["team"].str.contains(team_filter, case=False, na=False)
-        ]
+        keep = result_display["team"].str.contains(team_filter, case=False, na=False)
+        result_display = result_display[keep]
+        unstable_mask = unstable_mask[keep]
 
-    st.dataframe(result_display, width="stretch", hide_index=True)
+    def _highlight_unstable(row):
+        is_unstable = unstable_mask.loc[row.name]
+        return ["background-color: #6b5900" if is_unstable else "" for _ in row]
+
+    st.dataframe(
+        result_display.style.apply(_highlight_unstable, axis=1),
+        width="stretch", hide_index=True,
+    )
 
 
 def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, has_data: bool, ctx: dict):
@@ -405,13 +411,6 @@ def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, 
 
     if ctx is None:
         st.info("No games played by the selected date yet.")
-        return
-
-    if not ctx["converged"]:
-        st.info(
-            "Team lookup is hidden until NPI converges for this data -- see the "
-            "warning above. Check back once more games have been collected."
-        )
         return
 
     result = ctx["result"]
@@ -429,10 +428,17 @@ def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, 
         return
 
     npi_lookup = result.set_index("team")["npi"]
+    converged_lookup = result.set_index("team")["converged"]
     team_row = result[result["team"] == team]
     if not team_row.empty:
         rank = int(result.index[result["team"] == team][0]) + 1
         st.metric(f"{team} — NPI", f"{team_row.iloc[0]['npi']:.2f}", help=f"Rank #{rank} of {len(result)}")
+        if not team_row.iloc[0]["converged"]:
+            st.warning(
+                f"⚠️ **{team}'s NPI hasn't stabilized yet** (still oscillating due "
+                "to too few games played) -- the number above may change "
+                "significantly as more games are collected."
+            )
 
     team_games = df_scope[(df_scope["home_team"] == team) | (df_scope["away_team"] == team)].copy()
     if has_neutral_col:
@@ -460,20 +466,34 @@ def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, 
         else:
             location = "Home" if is_home else "Away"
 
+        opp_npi = f"{npi_lookup[opponent]:.2f}" if opponent in npi_lookup.index else None
+        opp_stable = bool(converged_lookup[opponent]) if opponent in converged_lookup.index else True
+
         rows.append({
             "date": g["date"].date() if pd.notna(g["date"]) else None,
             "location": location,
             "opponent": opponent,
             "result": outcome,
             "score": score_str,
-            "opponent_npi": round(npi_lookup[opponent], 2) if opponent in npi_lookup.index else None,
+            "opponent_npi": opp_npi,
+            "Stability": "" if opp_stable else "⚠️",
         })
 
     if not rows:
         st.info(f"No games found for {team} in the selected date range.")
         return
 
-    st.dataframe(pd.DataFrame(rows), width="stretch", hide_index=True)
+    schedule_df = pd.DataFrame(rows)
+    unstable_mask = schedule_df["Stability"] == "⚠️"
+
+    def _highlight_unstable(row):
+        is_unstable = unstable_mask.loc[row.name]
+        return ["background-color: #6b5900" if is_unstable else "" for _ in row]
+
+    st.dataframe(
+        schedule_df.style.apply(_highlight_unstable, axis=1),
+        width="stretch", hide_index=True,
+    )
 
 
 def render_introduction():
@@ -599,25 +619,21 @@ def main():
             "away from 1.0, this will cause a small margin of error in scores "
             "for any team with an unflagged neutral-site game."
         )
-    else:
-        st.info(
-            "ℹ️ Neutral-site games can't be auto-detected for any sport (see the "
-            "\"Neutral site\" checkbox in the Edit/Add Games tab) -- this only "
-            "affects your numbers here if you adjust boost_mult/discount_mult "
-            "away from their 1.0 (no-op) defaults in the NPI parameters sidebar."
-        )
 
     base_df = load_official_base(season, sport)
     has_data = not base_df.empty
     effective_df = get_effective_games(season, sport, base_df=base_df)
 
     games_tab_label = "Edit Games" if has_data else "Add Games"
-    tab_rankings, tab_games, tab_lookup = st.tabs(["Rankings", games_tab_label, "Team Lookup"])
 
-    # Computed once here (not inside either tab) so the NPI-parameter
-    # sidebar widgets render exactly once per rerun, and both tabs below
-    # see the identical result/date-scope.
+    # Computed BEFORE st.tabs() (not inside either tab) so any warning it
+    # emits (e.g. non-convergence) renders above the tab bar instead of
+    # trailing after whichever tab's content happens to be showing, and so
+    # the NPI-parameter sidebar widgets render exactly once per rerun with
+    # both tabs below sharing the identical result/date-scope.
     ctx = compute_npi_context(season, sport, effective_df, has_data)
+
+    tab_rankings, tab_games, tab_lookup = st.tabs(["Rankings", games_tab_label, "Team Lookup"])
 
     with tab_rankings:
         render_rankings_tab(season, sport, effective_df, has_data, ctx)
