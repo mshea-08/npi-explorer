@@ -435,9 +435,8 @@ def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, 
         st.metric(f"{team} — NPI", f"{team_row.iloc[0]['npi']:.2f}", help=f"Rank #{rank} of {len(result)}")
         if not team_row.iloc[0]["converged"]:
             st.warning(
-                f"⚠️ **{team}'s NPI hasn't stabilized yet** (still oscillating due "
-                "to too few games played) -- the number above may change "
-                "significantly as more games are collected."
+                f"⚠️ {team}'s NPI did not converge. The number above may "
+                "change significantly as more games are collected."
             )
 
     team_games = df_scope[(df_scope["home_team"] == team) | (df_scope["away_team"] == team)].copy()
