@@ -22,7 +22,7 @@ from npi import calculate_npi
 
 st.set_page_config(page_title="D3 NPI", layout="wide")
 
-SEASONS = ["2025", "2026"]
+SEASONS = ["2026", "2025"]
 
 # Sport keys 
 SPORTS = ["mens_soccer", "womens_soccer", "womens_volleyball", "womens_field_hockey"]
@@ -41,10 +41,7 @@ CACHE_LABELS = {
     "womens_field_hockey": "womens_field_hockey",
 }
 
-# Default NPI parameters per sport. boost_mult/discount_mult default to
-# 1.0 (a no-op) for soccer/volleyball since the NCAA doesn't apply a
-# location weight there, but sliders are exposed for every sport so users
-# can experiment with a location multiplier regardless of sport.
+# Default NPI parameters per sport
 DEFAULT_PARAMS = {
     "mens_soccer": dict(win_dial=0.15, qwb_mult=0.75, qwb_threshold=54.0, min_wins=10,
                          boost_mult=1.0, discount_mult=1.0),
@@ -563,6 +560,11 @@ algorithm, there are a lot of little reasons why the numbers presented
 here can vary from the official results. Please think of this as
 <strong>approximate NPI</strong>.</p>
 
+<p>Early season results struggle to converge and will change <em>significantly</em> 
+as rankings stabilize. From last years data, I expect NPI rankings to consistently 
+converge after ~5 games per team. When teams are between 2-4 games, there is a high 
+risk for oscillatory cycles.</p>
+
 <p>For field hockey I <span class="npi-hl-pink">know</span> the numbers
 are not exact. This is because the database where I source my games
 from does not accurately denote neutral site games and I have not found
@@ -582,6 +584,11 @@ capacity to check all the games. If you are a field hockey person and
 would like to notify me of neutral site games I am also happy to put
 those in the database&mdash;please send me the teams and date of the
 game.</p>
+
+<h3 id="ai-use">AI Use Disclaimer</h3>
+
+<p>The NPI algorithm was developed by me. The app and data collecting was 
+developed using Claude.</p>
 """,
         unsafe_allow_html=True,
     )
