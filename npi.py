@@ -25,6 +25,7 @@ def calculate_npi(
     discount_mult=1.0,
     max_iterations=1000,
     tolerance=1e-6,
+    warn_threshold=1e-3,
 ):
     """
     Calculate Net Performance Index (NPI) for teams in a league.
@@ -55,15 +56,32 @@ def calculate_npi(
     max_iterations : int, default=1000
         Maximum iterations for convergence
     tolerance : float, default=1e-6
-        Convergence tolerance
+        Convergence tolerance. Unchanged/authoritative -- this is what
+        actually governs the iteration loop (see `converged` below).
+        Left as-is regardless of `warn_threshold`.
+    warn_threshold : float, default=1e-3
+        Reporting-only cutoff, does not affect the math or the iteration
+        loop at all. A team can fail the strict `tolerance` check (e.g.
+        because it's caught in a tiny non-decaying oscillation) without
+        that being practically meaningful. `flag_for_review` uses this
+        looser threshold so trivial sub-tolerance wobble isn't reported
+        as something to investigate.
 
     Returns
     -------
     pd.DataFrame
-        DataFrame with columns: team, npi, games_played, converged. The
-        "converged" column is per-team: True if that team's own
+        DataFrame with columns: team, npi, games_played, converged,
+        final_diff, flag_for_review.
+        "converged" is per-team: True if that team's own
         iteration-to-iteration change was below `tolerance` at the point
-        the loop stopped, False if it was still moving by more than that. 
+        the loop stopped, False if it was still moving by more than that.
+        "final_diff" is that same final iteration-to-iteration change,
+        as a raw number (not thresholded), so the actual size of any
+        residual movement can be inspected directly.
+        "flag_for_review" is True only if a team is not converged AND its
+        final_diff exceeds `warn_threshold` -- i.e. movement large enough
+        to plausibly matter, as opposed to microscopic oscillation that
+        happens to sit above the strict `tolerance` cutoff.
         Also carries two summary values in result_df.attrs:
           "converged"  : True only if EVERY team's own column above is
                           True (i.e. the whole computation reached a
@@ -71,7 +89,7 @@ def calculate_npi(
           "iterations" : how many iterations actually ran.
     """
     if df.empty:
-        empty = pd.DataFrame(columns=['team', 'npi', 'games_played', 'converged'])
+        empty = pd.DataFrame(columns=['team', 'npi', 'games_played', 'converged', 'final_diff', 'flag_for_review'])
         empty.attrs['converged'] = True
         empty.attrs['iterations'] = 0
         return empty
@@ -212,11 +230,14 @@ def calculate_npi(
 
     results = []
     for team in teams:
+        is_converged = team_diffs[team] < tolerance
         results.append({
             'team': team,
             'npi': npi_scores[team],
             'games_played': len(game_npis[team]),
-            'converged': team_diffs[team] < tolerance,
+            'converged': is_converged,
+            'final_diff': team_diffs[team],
+            'flag_for_review': (not is_converged) and (team_diffs[team] > warn_threshold),
         })
 
     result_df = pd.DataFrame(results)
