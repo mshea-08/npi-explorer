@@ -332,11 +332,15 @@ def compute_npi_context(season: str, sport: str, effective_df: pd.DataFrame, has
     )
 
     if not result.attrs.get("converged", True):
-        n_unstable = int((~result["converged"]).sum())
+        n_major = int(result["flag_for_review"].sum())
+        n_minor = int((~result["converged"] & ~result["flag_for_review"]).sum())
         st.warning(
-            f"⚠️ NPI algorithm did not fully converge. {n_unstable} team(s) "
-            "have not stabilized. For more accurate results, check back "
-            "after more games."
+            f"⚠️ NPI algorithm did not fully converge. {n_major} team(s) have "
+            "major convergence warnings (exceeded tolerance of 0.001) and "
+            f"{n_minor} team(s) have minor convergence warnings (exceeded "
+            "tolerance of 1e-6, but did not exceed tolerance of 0.001). For "
+            "more accurate results, check back after more games have been "
+            "played."
         )
 
     return {
@@ -377,9 +381,9 @@ def render_rankings_tab(season: str, sport: str, effective_df: pd.DataFrame, has
     result_display = ctx["result"].copy()
     result_display.insert(0, "rank", range(1, len(result_display) + 1))
     result_display["npi"] = result_display["npi"].map(lambda x: f"{x:.2f}")
-    result_display["Stability"] = result_display["converged"].apply(lambda ok: "" if ok else "⚠️")
-    unstable_mask = ~result_display["converged"]
-    result_display = result_display.drop(columns=["converged"])
+    result_display["Stability"] = result_display["flag_for_review"].apply(lambda flagged: "⚠️" if flagged else "")
+    unstable_mask = result_display["flag_for_review"]
+    result_display = result_display.drop(columns=["converged", "final_diff", "flag_for_review"])
 
     team_filter = st.text_input("Filter by team name (optional)", key=f"filter_{season}_{sport}")
     if team_filter:
@@ -425,12 +429,12 @@ def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, 
         return
 
     npi_lookup = result.set_index("team")["npi"]
-    converged_lookup = result.set_index("team")["converged"]
+    flag_lookup = result.set_index("team")["flag_for_review"]
     team_row = result[result["team"] == team]
     if not team_row.empty:
         rank = int(result.index[result["team"] == team][0]) + 1
         st.metric(f"{team} — NPI", f"{team_row.iloc[0]['npi']:.2f}", help=f"Rank #{rank} of {len(result)}")
-        if not team_row.iloc[0]["converged"]:
+        if team_row.iloc[0]["flag_for_review"]:
             st.warning(
                 f"⚠️ {team}'s NPI did not converge. The number above may "
                 "change significantly as more games are collected."
@@ -463,7 +467,7 @@ def render_team_lookup_tab(season: str, sport: str, effective_df: pd.DataFrame, 
             location = "Home" if is_home else "Away"
 
         opp_npi = f"{npi_lookup[opponent]:.2f}" if opponent in npi_lookup.index else None
-        opp_stable = bool(converged_lookup[opponent]) if opponent in converged_lookup.index else True
+        opp_stable = not bool(flag_lookup[opponent]) if opponent in flag_lookup.index else True
 
         rows.append({
             "date": g["date"].date() if pd.notna(g["date"]) else None,
