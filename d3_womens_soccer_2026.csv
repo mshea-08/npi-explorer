@@ -1306,3 +1306,230 @@ date,home_team,away_team,home_score,away_score,status,game_id,neutral_site
 2026-09-24,Rivier,Nichols,7,1,FINAL,6612065,False
 2026-09-24,Howard Payne,Mary Hardin-Baylor,0,2,FINAL,6612812,False
 2026-09-24,Carnegie Mellon,Capital,1,0,FINAL,6612937,False
+2026-09-25,Lasell,New England Col.,5,0,FINAL,6613955,False
+2026-09-25,Kenyon,Otterbein,1,0,FINAL,6613110,False
+2026-09-25,Rhode Island Col.,Southern Me.,1,0,FINAL,6612487,False
+2026-09-25,Roger Williams,Endicott,1,1,FINAL,6613078,False
+2026-09-25,Connecticut Col.,Hamilton,0,2,FINAL,6614671,False
+2026-09-25,Thiel,Bethany (WV),2,0,FINAL,6612717,False
+2026-09-25,Coast Guard,Babson,1,1,FINAL,6613223,False
+2026-09-25,SUNY Maritime,Manhattanville,0,3,FINAL,6613645,False
+2026-09-25,Beloit,Marian (WI),0,1,FINAL,6614809,False
+2026-09-25,Millsaps,Centenary (LA),2,4,FINAL,6613254,False
+2026-09-25,Neumann,Penn St.-Altoona,0,2,FINAL,6614198,False
+2026-09-25,MIT,Tufts,0,2,FINAL,6614470,False
+2026-09-25,Centre,WashU,2,4,FINAL,6612994,False
+2026-09-25,Emmanuel (MA),Albertus Magnus,1,1,FINAL,6613489,False
+2026-09-25,Wis.-Eau Claire,Dubuque,2,0,FINAL,6613669,False
+2026-09-25,Aurora,MSOE,0,3,FINAL,6613870,False
+2026-09-25,Saint Vincent,Wash. & Jeff.,2,0,FINAL,6614149,False
+2026-09-25,St. Joseph's (ME),Norwich,0,1,FINAL,6640211,False
+2026-09-25,Oglethorpe,Emory,0,5,FINAL,6614489,False
+2026-09-25,Merchant Marine,St. Joseph's (Brkln),10,0,FINAL,6615341,False
+2026-09-25,Southwestern (TX),St. Thomas (TX),3,1,FINAL,6612409,False
+2026-09-25,Texas Lutheran,Trinity (TX),0,1,FINAL,6612238,False
+2026-09-26,Piedmont,Belhaven,0,2,FINAL,6615320,False
+2026-09-26,Salem St.,Framingham St.,0,1,FINAL,6614244,False
+2026-09-26,Wesleyan (CT),Bates,3,1,FINAL,6613495,False
+2026-09-26,TCNJ,Berry,3,0,FINAL,6612826,False
+2026-09-26,Eastern,Gwynedd Mercy,2,0,FINAL,6613211,False
+2026-09-26,Keene St.,UMass Boston,0,0,FINAL,6613556,False
+2026-09-26,Austin,Neb. Wesleyan,3,0,FINAL,6613735,False
+2026-09-26,Western New Eng.,Wentworth,1,0,FINAL,6613772,False
+2026-09-26,Springfield,Smith,3,0,FINAL,6614604,False
+2026-09-26,Colby,Trinity (CT),2,0,FINAL,6615235,False
+2026-09-26,Bowdoin,Middlebury,1,4,FINAL,6612549,False
+2026-09-26,Franklin & Marshall,Swarthmore,0,1,FINAL,6612925,False
+2026-09-26,Brevard,Methodist,1,0,FINAL,6613123,False
+2026-09-26,Denison,CWRU,3,2,FINAL,6613305,False
+2026-09-26,Penn St.-Berks,Cedar Crest,7,0,FINAL,6614016,False
+2026-09-26,Penn St.-Behrend,Buffalo St.,7,0,FINAL,6614130,False
+2026-09-26,Roanoke,Sweet Briar,2,0,FINAL,6614142,False
+2026-09-26,WPI,Mount Holyoke,3,0,FINAL,6614225,False
+2026-09-26,SUNY Brockport,Keuka,4,1,FINAL,6614307,False
+2026-09-26,William Peace,Southern Va.,0,5,FINAL,6614324,False
+2026-09-26,North Central (IL),Ill. Wesleyan,2,2,FINAL,6614417,False
+2026-09-26,Westminster (MO),Eureka,12,1,FINAL,6614929,False
+2026-09-26,Westfield St.,Bridgewater St.,1,0,FINAL,6614955,False
+2026-09-26,Benedictine (IL),Wis. Lutheran,1,3,FINAL,6615064,False
+2026-09-26,Allegheny,Saint Francis,2,1,FINAL,6611959,False
+2026-09-26,Oberlin,Mount Union,0,2,FINAL,6612279,False
+2026-09-26,Wilson,Keystone,10,0,FINAL,6612373,False
+2026-09-26,Grove City,Waynesburg,2,1,FINAL,6612394,False
+2026-09-26,Penn St. Harrisburg,Notre Dame (MD),5,0,FINAL,6612531,False
+2026-09-26,Westminster (PA),Franciscan,0,1,FINAL,6612644,False
+2026-09-26,Adrian,Baldwin Wallace,0,2,FINAL,6612658,False
+2026-09-26,MUW,Spalding,0,6,FINAL,6612675,False
+2026-09-26,Alverno,Wis.-Whitewater,0,12,FINAL,6612756,False
+2026-09-26,Randolph,Wash. & Lee,0,6,FINAL,6613090,False
+2026-09-26,Williams,Amherst,3,1,FINAL,6613234,False
+2026-09-26,Geneva,Pitt.-Greensburg,1,0,FINAL,6613362,False
+2026-09-26,Bluffton,Transylvania,1,2,FINAL,6613439,False
+2026-09-26,Bridgewater (VA),Randolph-Macon,2,0,FINAL,6613526,False
+2026-09-26,Marymount (VA),Delaware Valley,3,0,FINAL,6613678,False
+2026-09-26,Nazareth,Russell Sage,5,0,FINAL,6613826,False
+2026-09-26,SUNY Oneonta,Eastern Conn. St.,1,0,FINAL,6613931,False
+2026-09-26,Cairn,Lancaster Bible,1,1,FINAL,6613953,False
+2026-09-26,Elmira,Houghton,2,2,FINAL,6614032,False
+2026-09-26,Berea,Rose-Hulman,0,0,FINAL,6614441,False
+2026-09-26,VTSU Castleton,Plymouth St.,1,4,FINAL,6614584,False
+2026-09-26,Manchester,Earlham,1,1,FINAL,6614628,False
+2026-09-26,Stevenson,Mary Washington,1,2,FINAL,6614747,False
+2026-09-26,SUNY Delhi,SUNY Potsdam,1,2,FINAL,6614922,False
+2026-09-26,SUNY Geneseo,SUNY Poly,6,0,FINAL,6615377,False
+2026-09-26,Fredonia,John Carroll,3,2,FINAL,6615381,False
+2026-09-26,Principia,Maranatha Baptist,3,2,FINAL,6615394,False
+2026-09-26,Salisbury,Hood,4,1,FINAL,6639922,False
+2026-09-26,Macalester,Hamline,1,0,FINAL,6615163,False
+2026-09-26,La Roche,Alfred St.,0,1,FINAL,6611987,False
+2026-09-26,UChicago,Hope,2,0,FINAL,6612124,False
+2026-09-26,St. Olaf,Augsburg,2,0,FINAL,6612424,False
+2026-09-26,Concordia Chicago,Lakeland,4,0,FINAL,6612692,False
+2026-09-26,East. Mennonite,Guilford,1,0,FINAL,6613156,False
+2026-09-26,Chapman,Whittier,1,0,FINAL,6613717,False
+2026-09-26,Augustana (IL),Carroll (WI),2,3,FINAL,6613799,False
+2026-09-26,North Park,Wheaton (IL),0,2,FINAL,6614158,False
+2026-09-26,Wittenberg,Trine,1,2,FINAL,6614426,False
+2026-09-26,Saint Mary's (MN),St. Scholastica,3,1,FINAL,6614532,False
+2026-09-26,Messiah,Arcadia,4,0,FINAL,6614596,False
+2026-09-26,Bard,William Smith,0,2,FINAL,6614620,False
+2026-09-26,Union (NY),Clarkson,0,0,FINAL,6614639,False
+2026-09-26,St. Catherine,Saint Benedict,2,0,FINAL,6614693,False
+2026-09-26,Gustavus Adolphus,Bethel (MN),0,3,FINAL,6614937,False
+2026-09-26,York (PA),Stevens,2,1,FINAL,6615371,False
+2026-09-26,RIT,Rensselaer,2,1,FINAL,6638637,False
+2026-09-26,Grinnell,Ripon,1,0,FINAL,6612093,False
+2026-09-26,Concordia-M'head,Carleton,0,5,FINAL,6612346,False
+2026-09-26,Cornell College,Knox,0,3,FINAL,6613325,False
+2026-09-26,Monmouth (IL),Lawrence,0,4,FINAL,6613414,False
+2026-09-26,Luther,Illinois Col.,2,0,FINAL,6613985,False
+2026-09-26,St. John Fisher,Hartwick,4,1,FINAL,6612076,False
+2026-09-26,Martin Luther,Northwestern-St. Paul,0,6,FINAL,6612304,False
+2026-09-26,Lynchburg,Hollins,9,0,FINAL,6612899,False
+2026-09-26,Skidmore,St. Lawrence,1,1,FINAL,6612968,False
+2026-09-26,Pfeiffer,N.C. Wesleyan,0,1,FINAL,6613019,False
+2026-09-26,Ithaca,Vassar,0,0,FINAL,6613186,False
+2026-09-26,Ursinus,McDaniel,0,1,FINAL,6613563,False
+2026-09-26,Rochester (NY),Misericordia,1,1,FINAL,6613756,False
+2026-09-26,Wis.-Oshkosh,Loras,0,2,FINAL,6613894,False
+2026-09-26,Minn.-Morris,Wis.-Superior,0,4,FINAL,6614121,False
+2026-09-26,Carthage,Millikin,2,2,FINAL,6614170,False
+2026-09-26,St. Mary's (MD),Penn St.-Abington,4,0,FINAL,6614259,False
+2026-09-26,St. Mary's (IN),Lake Forest,0,1,FINAL,6614684,False
+2026-09-26,Colby-Sawyer,Mitchell,8,0,FINAL,6615084,False
+2026-09-26,Bethany Lutheran,North Central (MN),7,0,FINAL,6615125,False
+2026-09-26,SUNY Cobleskill,SUNY Canton,1,0,FINAL,6615326,False
+2026-09-26,VTSU Lyndon,Me.-Presque Isle,1,2,FINAL,6612116,False
+2026-09-26,Me.-Farmington,Lesley,1,4,FINAL,6612839,False
+2026-09-26,Dominican (IL),St. Norbert,4,0,FINAL,6612037,False
+2026-09-26,Greensboro,Salem (NC),8,0,FINAL,6612020,False
+2026-09-26,Elizabethtown,Wilkes,0,1,FINAL,6612581,False
+2026-09-26,Washington Col.,Dickinson,2,4,FINAL,6612709,False
+2026-09-26,Lycoming,Catholic,0,1,FINAL,6612873,False
+2026-09-26,Chatham,Hiram,3,1,FINAL,6613069,False
+2026-09-26,Mount Aloysius,Marywood,0,6,FINAL,6613281,False
+2026-09-26,Juniata,Moravian,0,1,FINAL,6613571,False
+2026-09-26,Gettysburg,Muhlenberg,2,0,FINAL,6613869,False
+2026-09-26,Scranton,Susquehanna,1,1,FINAL,6614190,False
+2026-09-26,Wis.-Stevens Point,Coe,2,0,FINAL,6614283,False
+2026-09-26,Ohio Northern,Calvin,0,1,FINAL,6614653,False
+2026-09-26,Johns Hopkins,Haverford,2,0,FINAL,6615109,False
+2026-09-26,Lyon,Greenville,1,0,FINAL,6615169,False
+2026-09-26,Concordia Wisconsin,Wis.-Platteville,0,3,FINAL,6611940,False
+2026-09-26,Illinois Tech,Edgewood,7,1,FINAL,6614871,False
+2026-09-26,Blackburn,Webster,0,5,FINAL,6642443,False
+2026-09-26,DePauw,Wilmington (OH),3,0,FINAL,6612220,False
+2026-09-26,UW-River Falls,Crown (MN),5,0,FINAL,6612287,False
+2026-09-26,Caltech,Pomona-Pitzer,0,7,FINAL,6613968,False
+2026-09-26,Covenant,Huntingdon,4,1,FINAL,6614911,False
+2026-09-26,Anderson (IN),Mt. St. Joseph,2,5,FINAL,6615211,False
+2026-09-26,Linfield,Lewis & Clark,2,0,FINAL,6612502,False
+2026-09-26,Pacific (OR),Whitworth,2,1,FINAL,6612734,False
+2026-09-26,Willamette,Puget Sound,0,2,FINAL,6613143,False
+2026-09-26,McMurry,Hardin-Simmons,1,2,FINAL,6612142,False
+2026-09-26,Alfred,Utica,0,0,FINAL,6612441,False
+2026-09-26,Bethany (WV),Ohio Wesleyan,0,3,FINAL,6612798,False
+2026-09-26,Schreiner,Mary Hardin-Baylor,0,2,FINAL,6612813,False
+2026-09-26,Shenandoah,Batten,1,2,FINAL,6613342,False
+2026-09-26,Meredith,Mary Baldwin,2,1,FINAL,6614065,False
+2026-09-26,LaGrange,Agnes Scott,1,0,FINAL,6614648,False
+2026-09-26,Maine Maritime,VTSU-Johnson,2,1,FINAL,6614737,False
+2026-09-26,Howard Payne,East Tex. Baptist,1,0,FINAL,6615195,False
+2026-09-26,Franklin,Hanover,0,2,FINAL,6612745,False
+2026-09-26,Capital,Asbury,2,0,FINAL,6612888,False
+2026-09-26,Heidelberg,Albion,0,2,FINAL,6614409,False
+2026-09-26,King's (PA),Bryn Mawr,0,0,FINAL,6613596,False
+2026-09-26,Redlands,CMS,0,3,FINAL,6612156,False
+2026-09-26,La Verne,Cal Lutheran,0,1,FINAL,6615026,False
+2026-09-27,Montclair St.,Berry,4,3,FINAL,6613452,False
+2026-09-27,Marietta,Centre,1,2,FINAL,6614055,False
+2026-09-27,Emory,Lynchburg,1,0,FINAL,6614268,False
+2026-09-27,VTSU Lyndon,SUNY Canton,0,2,FINAL,6614772,False
+2026-09-27,SUNY Delhi,Hilbert,1,0,FINAL,6615223,False
+2026-09-27,St. Catherine,Wis.-Stout,5,1,FINAL,6612856,False
+2026-09-27,Concordia (TX),Dallas,1,0,FINAL,6612381,False
+2026-09-27,Rockford,Marian (WI),0,10,FINAL,6613893,False
+2026-09-27,Texas Lutheran,Southwestern (TX),0,1,FINAL,6612239,False
+2026-09-27,Buena Vista,Saint Mary's (MN),0,1,FINAL,6614534,False
+2026-09-27,Trinity (TX),St. Thomas (TX),5,0,FINAL,6612410,False
+2026-09-27,Piedmont,Maryville (TN),1,1,FINAL,6613199,False
+2026-09-27,George Fox,Linfield,0,2,FINAL,6612519,False
+2026-09-27,Pacific (OR),Whitman,1,3,FINAL,6612735,False
+2026-09-27,Willamette,Pacific Lutheran,1,5,FINAL,6615129,False
+2026-09-28,Dean,Rivier,0,2,FINAL,6639924,False
+2026-09-28,Hollins,East. Mennonite,1,9,FINAL,6612898,False
+2026-09-28,Rhode Island Col.,Lesley,2,1,FINAL,6612488,False
+2026-09-28,WestConn,UMass Dartmouth,1,1,FINAL,6613173,False
+2026-09-28,Gwynedd Mercy,Albright,0,3,FINAL,6614611,False
+2026-09-28,Wis.-La Crosse,MSOE,4,1,FINAL,6614316,False
+2026-09-28,Emerson,Salve Regina,0,5,FINAL,6613734,False
+2026-09-28,New England Col.,Nichols,1,0,FINAL,6612597,False
+2026-09-28,Rutgers-Newark,Medgar Evers,13,0,FINAL,6642315,False
+2026-09-28,Illinois Tech,Carthage,4,1,FINAL,6614874,False
+2026-09-29,Old Westbury,Sarah Lawrence,0,3,FINAL,6612782,False
+2026-09-29,Saint Francis,Grove City,0,3,FINAL,6612395,False
+2026-09-29,Brevard,Sewanee,1,0,FINAL,6613290,False
+2026-09-29,Bluffton,Kenyon,1,4,FINAL,6613441,False
+2026-09-29,Plymouth St.,Salem St.,1,0,FINAL,6614896,False
+2026-09-29,Bethany (WV),Penn St.-Altoona,0,3,FINAL,6612799,False
+2026-09-29,Springfield,Endicott,1,2,FINAL,6613079,False
+2026-09-29,Husson,Thomas (ME),4,0,FINAL,6613382,False
+2026-09-29,Notre Dame (MD),Cedar Crest,3,2,FINAL,6614017,False
+2026-09-29,Wilson,Lancaster Bible,0,1,FINAL,6614521,False
+2026-09-29,Old Westbury,Sarah Lawrence,0,3,FINAL,6614823,False
+2026-09-29,Manhattanville,UMSV,0,2,FINAL,6614853,False
+2026-09-29,St. Mary's (MD),Penn St. Harrisburg,0,2,FINAL,6612532,False
+2026-09-29,Hamilton,St. Lawrence,2,0,FINAL,6612969,False
+2026-09-29,Cairn,Penn St.-Abington,0,3,FINAL,6613959,False
+2026-09-29,Beloit,Knox,1,0,FINAL,6612094,False
+2026-09-29,Carleton,St. Olaf,2,1,FINAL,6612425,False
+2026-09-29,Chatham,Thiel,3,1,FINAL,6612719,False
+2026-09-29,Monmouth (IL),Cornell College,4,1,FINAL,6613417,False
+2026-09-29,Grinnell,Luther,0,1,FINAL,6614359,False
+2026-09-29,Wis.-Stevens Point,Ripon,6,1,FINAL,6614399,False
+2026-09-29,Saint Benedict,Saint Mary's (MN),5,1,FINAL,6614535,False
+2026-09-29,Lake Forest,Illinois Col.,3,1,FINAL,6614685,False
+2026-09-29,Houghton,Hilbert,4,0,FINAL,6615409,False
+2026-09-29,Hamline,St. Scholastica,0,1,FINAL,6615478,False
+2026-09-29,Penn St.-Berks,Penn College,2,4,FINAL,6640875,False
+2026-09-29,St. Joseph's (L.I.),Purchase,3,0,FINAL,6612472,False
+2026-09-29,Fitchburg St.,Brandeis,0,3,FINAL,6613331,False
+2026-09-29,Mount Aloysius,Mount Union,0,4,FINAL,6613560,False
+2026-09-29,SUNY Maritime,Mt. St. Mary (NY),0,9,FINAL,6613646,False
+2026-09-29,Colby-Sawyer,Mass. Maritime,3,1,FINAL,6615008,False
+2026-09-29,Trinity (CT),Wesleyan (CT),3,1,FINAL,6615433,False
+2026-09-29,Widener,Haverford,0,2,FINAL,6612345,False
+2026-09-29,Ohio Wesleyan,Capital,0,3,FINAL,6612938,False
+2026-09-29,Bates,Bowdoin,3,0,FINAL,6613497,False
+2026-09-29,Scranton,NYU,0,0,FINAL,6613608,False
+2026-09-29,Geneva,Westminster (PA),0,0,FINAL,6613671,False
+2026-09-29,Bard,Union (NY),0,2,FINAL,6614621,False
+2026-09-29,Merchant Marine,Farmingdale St.,1,0,FINAL,6615190,False
+2026-09-29,Baldwin Wallace,John Carroll,4,2,FINAL,6615383,False
+2026-09-29,CWRU,Heidelberg,1,0,FINAL,6613306,False
+2026-09-29,Wis.-Stout,Lawrence,1,1,FINAL,6612857,False
+2026-09-29,Dubuque,Wis.-Platteville,2,1,FINAL,6613412,False
+2026-09-29,Carroll (WI),Wis.-Oshkosh,1,1,FINAL,6613800,False
+2026-09-29,Augsburg,Concordia-M'head,0,3,FINAL,6612347,False
+2026-09-29,East Tex. Baptist,Centenary (LA),3,1,FINAL,6614710,False
+2026-09-29,Macalester,Gustavus Adolphus,2,1,FINAL,6614939,False
