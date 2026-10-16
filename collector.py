@@ -153,6 +153,9 @@ DEFAULT_DIVISION_RATE_LIMIT = 4.0  # requests/sec, aggregate across all workers;
 DEFAULT_SEASON = "2025"
 
 SHOOTOUT_MARKERS = ("SO", "PK", "PKS", "SHOOTOUT", "PENALTIES")
+# Non-final statuses that will never become FINAL -- a date whose only
+# unfinished games are these can still be marked done.
+DEAD_STATUS_MARKERS = ("CANCEL", "PPD", "POSTPONED", "FORFEIT")
 
 FIELDNAMES = ["date", "home_team", "away_team", "home_score", "away_score", "status", "game_id", "neutral_site"]
 
@@ -443,6 +446,34 @@ def _load_provisional_teams(out_dir: str, season: str = DEFAULT_SEASON) -> set:
     return teams
 
 
+PLACEHOLDER_TEAM_NAMES = {"TBA", "TBD", "BYE", ""}
+
+
+def _load_game_overrides(out_dir: str) -> dict:
+    """
+    game_overrides.csv -- columns: game_id,home_team,away_team. Replaces
+    team names for specific games before cross-division filtering. Blank
+    cells keep the name from ncaa.com. Exists because ncaa.com sometimes
+    never fills in a tournament opponent and leaves the placeholder "TBA"
+    (e.g. WashU vs Rhodes, game 6612992, 2026-09-20), which would
+    otherwise be dropped as an unknown/non-D3 team. Shared across sports
+    and seasons, since game_ids are globally unique.
+    """
+    path = os.path.join(out_dir, "game_overrides.csv")
+    if not os.path.exists(path):
+        return {}
+    overrides = {}
+    with open(path, newline="") as f:
+        for row in csv.DictReader(f):
+            gid = (row.get("game_id") or "").strip()
+            if gid:
+                overrides[gid] = {
+                    "home_team": (row.get("home_team") or "").strip(),
+                    "away_team": (row.get("away_team") or "").strip(),
+                }
+    return overrides
+
+
 def _known_teams_path(sport: str, out_dir: str, season: str = DEFAULT_SEASON) -> str:
     label = SPORT_CONFIG[sport]["cache_label"]
     return os.path.join(out_dir, f"d3_known_teams_{label}_{season}.csv")
@@ -553,13 +584,16 @@ def _parse_game(game_wrapper: dict, game_date: date):
 
 
 def fetch_day(sport_path: str, d: date, debug: bool = False):
-    """Returns kept_games for the day."""
+    """Returns (kept_games, pending_descriptions). kept_games is None if
+    the fetch itself failed. pending_descriptions lists games on this date
+    that aren't final yet (e.g. weather-suspended) -- if non-empty, the
+    date should be re-fetched on a later run."""
     url = _scoreboard_url(sport_path, d)
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = requests.get(url, timeout=15)
             if resp.status_code == 404:
-                return []
+                return [], []
             resp.raise_for_status()
             data = resp.json()
             if debug:
@@ -568,13 +602,29 @@ def fetch_day(sport_path: str, d: date, debug: bool = False):
                 print("--- END RAW ---")
             games_raw = data.get("games", [])
             results = [_parse_game(g, d) for g in games_raw]
-            return [g for g, reason in results if reason == "ok"]
+            kept = [g for g, reason in results if reason == "ok"]
+            # Games that aren't FINAL yet (suspended, in progress, not
+            # started) but also aren't permanently dead (canceled/postponed).
+            # If any exist, the caller must NOT mark this date done, or a
+            # suspended game that's completed later (and back-filled onto
+            # its ORIGINAL date by ncaa.com) would never be picked up.
+            pending = []
+            for g_wrap, (_, reason) in zip(games_raw, results):
+                if reason != "not_finished":
+                    continue
+                g = g_wrap.get("game", g_wrap)
+                st = f"{g.get('finalMessage') or ''} {g.get('gameState') or ''}".upper()
+                if any(m in st for m in DEAD_STATUS_MARKERS):
+                    continue
+                title = g.get("title") or g.get("gameID", "?")
+                pending.append(f"{title} [{(g.get('finalMessage') or g.get('gameState') or '?').strip()}]")
+            return kept, pending
         except (requests.RequestException, json.JSONDecodeError) as e:
             if attempt == MAX_RETRIES:
                 print(f"  [WARN] failed on {d.isoformat()} after {MAX_RETRIES} attempts: {e}", file=sys.stderr)
-                return []
+                return None, []  # None = fetch failed; don't mark the date done
             time.sleep(1.0 * attempt)
-    return []
+    return None, []
 
 
 def inspect_day(sport_path: str, d: date):
@@ -657,21 +707,47 @@ def _migrate_legacy_final_to_raw(sport: str, out_dir: str, season: str = DEFAULT
             dst.write(src.read())
 
 
+def _load_existing_game_ids(raw_path: str) -> set:
+    if not os.path.exists(raw_path):
+        return set()
+    with open(raw_path, newline="") as f:
+        return {row["game_id"] for row in csv.DictReader(f) if row.get("game_id")}
+
+
 def fetch_raw_season(sport: str, start: date, end: date, out_dir: str = ".", debug: bool = False,
-                      season: str = DEFAULT_SEASON) -> str:
+                      season: str = DEFAULT_SEASON, refetch_dates: set = None) -> str:
     """Fetches (resumably) into the raw CSV, applying only manual-exclusion
-    filtering. Cross-division filtering happens later, in filter_to_final."""
+    filtering. Cross-division filtering happens later, in filter_to_final.
+
+    SUSPENDED / UNFINISHED GAMES
+    -------------------------------
+    A date is only marked done once every (non-canceled) game on it is
+    FINAL. Weather-suspended games are completed days later but ncaa.com
+    keeps them under their ORIGINAL date -- so if a date were marked done
+    while one of its games was still suspended, that game would be lost
+    forever. Dates with unfinished games are simply re-fetched on the next
+    run. Games already in the raw CSV (by game_id) are never written
+    twice, which is what makes re-fetching a date safe.
+
+    refetch_dates: ISO date strings to re-fetch even if already marked
+    done (for dates that were marked done before this fix existed)."""
     sport_path = SPORT_PATHS[sport]
     raw_path = _raw_csv_path(sport, out_dir, season)
     manual_exclusions = _load_manual_exclusions(out_dir)
     if manual_exclusions:
         print(f"Loaded {len(manual_exclusions)} manually-excluded game_id(s) from manual_exclusions.csv")
 
-    already_done = _load_done_dates(raw_path)
+    refetch_dates = refetch_dates or set()
+    if refetch_dates == {"ALL"}:
+        refetch_dates = set(_load_done_dates(raw_path))
+    already_done = _load_done_dates(raw_path) - refetch_dates
+    existing_ids = _load_existing_game_ids(raw_path)
     file_exists = os.path.exists(raw_path)
 
     total_games = 0
     total_dropped_manual = 0
+    pending_dates = {}
+    recovered = []
     with open(raw_path, "a", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         if not file_exists:
@@ -680,30 +756,66 @@ def fetch_raw_season(sport: str, start: date, end: date, out_dir: str = ".", deb
         for d in _daterange(start, end):
             if d.isoformat() in already_done:
                 continue
-            games = fetch_day(sport_path, d, debug=debug)
+            games, pending = fetch_day(sport_path, d, debug=debug)
+            if games is None:
+                continue  # fetch failed -- leave undone so the next run retries it
 
             kept = []
             dropped_manual = 0
+            already_have = 0
             for g in games:
                 if g["game_id"] in manual_exclusions:
                     dropped_manual += 1
                     continue
+                if g["game_id"] and g["game_id"] in existing_ids:
+                    already_have += 1
+                    continue
                 kept.append(g)
+                existing_ids.add(g["game_id"])
             total_dropped_manual += dropped_manual
 
             for g in kept:
                 writer.writerow(g)
+                if d.isoformat() in refetch_dates:
+                    # This date had been marked done, so any game appearing
+                    # now was previously missed (e.g. suspended, then completed).
+                    recovered.append(g)
             f.flush()
             total_games += len(kept)
-            _append_done_date(raw_path, d)
 
-            dropped_note = f", dropped {dropped_manual} manually excluded" if dropped_manual else ""
-            print(f"  {d.isoformat()}: {len(kept)} games{dropped_note}")
+            if pending:
+                pending_dates[d.isoformat()] = pending
+            elif d.isoformat() not in _load_done_dates(raw_path):
+                _append_done_date(raw_path, d)
+
+            notes = []
+            if already_have:
+                notes.append(f"{already_have} already in raw file")
+            if dropped_manual:
+                notes.append(f"dropped {dropped_manual} manually excluded")
+            if pending:
+                notes.append(f"{len(pending)} not final yet -- will re-check next run")
+            note_str = f" ({'; '.join(notes)})" if notes else ""
+            print(f"  {d.isoformat()}: {len(kept)} new games{note_str}")
             time.sleep(REQUEST_DELAY_SECONDS)
 
     print(f"\nRaw fetch done. {total_games} new games added to {raw_path}.")
     if total_dropped_manual:
         print(f"  Manually-excluded games dropped: {total_dropped_manual}")
+    if refetch_dates:
+        if recovered:
+            print(f"  RECOVERED {len(recovered)} game(s) missing from earlier runs:")
+            for g in recovered:
+                print(f"    {g['date']}  game {g['game_id']}: {g['away_team']} {g['away_score']} "
+                      f"at {g['home_team']} {g['home_score']}")
+        else:
+            print("  Re-check found no games missing from earlier runs.")
+    if pending_dates:
+        print(f"  {len(pending_dates)} date(s) left open because some games aren't final yet "
+              f"(suspended, in progress, or stuck in ncaa.com's feed):")
+        for ds, items in sorted(pending_dates.items()):
+            for item in items:
+                print(f"    {ds}: {item}")
     return raw_path
 
 
@@ -755,6 +867,12 @@ def filter_to_final(sport: str, out_dir: str = ".", debug: bool = False,
     else:
         print(f"No {provisional_path} found -- provisional-team filtering skipped for {season}.")
 
+    overrides = _load_game_overrides(out_dir)
+    if overrides:
+        print(f"Loaded {len(overrides)} game override(s) from {os.path.join(out_dir, 'game_overrides.csv')}")
+    applied_overrides = 0
+    placeholder_games = []
+
     total = 0
     kept = 0
     dropped_cross = 0
@@ -774,8 +892,19 @@ def filter_to_final(sport: str, out_dir: str = ".", debug: bool = False,
         writer.writeheader()
         for row in reader:
             total += 1
+            ov = overrides.get(row.get("game_id", "").strip())
+            if ov:
+                row = dict(row)
+                if ov["home_team"]:
+                    row["home_team"] = ov["home_team"]
+                if ov["away_team"]:
+                    row["away_team"] = ov["away_team"]
+                applied_overrides += 1
             home_team = row["home_team"].strip()
             away_team = row["away_team"].strip()
+
+            if home_team.upper() in PLACEHOLDER_TEAM_NAMES or away_team.upper() in PLACEHOLDER_TEAM_NAMES:
+                placeholder_games.append(row)
 
             if home_team in provisional_teams or away_team in provisional_teams:
                 dropped_provisional += 1
@@ -807,6 +936,14 @@ def filter_to_final(sport: str, out_dir: str = ".", debug: bool = False,
                     dropped_cross += 1
 
     print(f"Filtered {total} raw games -> {kept} confirmed D3-vs-D3 games in {final_path}.")
+    if applied_overrides:
+        print(f"  Game overrides applied: {applied_overrides}")
+    if placeholder_games:
+        print(f"  {len(placeholder_games)} game(s) have a placeholder team name (TBA/TBD) from ncaa.com and "
+              f"were dropped. Add the real team to game_overrides.csv (game_id,home_team,away_team):")
+        for r in placeholder_games:
+            print(f"    {r['date']}  game {r['game_id']}: {r['away_team']} {r['away_score']} "
+                  f"at {r['home_team']} {r['home_score']}")
     if dropped_provisional:
         print(f"  Provisional-team games dropped: {dropped_provisional}")
 
@@ -837,9 +974,10 @@ def collect_season(sport: str, start: date, end: date, out_dir: str = ".", debug
                     retry_failed_divisions: bool = False,
                     workers: int = DEFAULT_DIVISION_WORKERS,
                     rate_limit: float = DEFAULT_DIVISION_RATE_LIMIT,
-                    season: str = DEFAULT_SEASON):
+                    season: str = DEFAULT_SEASON, refetch_dates: set = None):
     _migrate_legacy_final_to_raw(sport, out_dir, season)
-    fetch_raw_season(sport, start, end, out_dir=out_dir, debug=debug, season=season)
+    fetch_raw_season(sport, start, end, out_dir=out_dir, debug=debug, season=season,
+                     refetch_dates=refetch_dates)
     return filter_to_final(
         sport, out_dir=out_dir, debug=debug, retry_failed_divisions=retry_failed_divisions,
         workers=workers, rate_limit=rate_limit, season=season,
@@ -873,6 +1011,14 @@ def main():
     parser.add_argument("--division-rate-limit", type=float, default=DEFAULT_DIVISION_RATE_LIMIT,
                          help=f"max aggregate division-lookup requests/sec across all workers "
                               f"(default {DEFAULT_DIVISION_RATE_LIMIT}; API allows 5)")
+    parser.add_argument("--refetch", default=None,
+                         help="comma-separated YYYY-MM-DD dates to re-fetch even if already marked "
+                              "done (e.g. a date with a game that was suspended and finished later). "
+                              "Safe: games already in the raw file are never duplicated.")
+    parser.add_argument("--recheck-all", action="store_true",
+                         help="re-fetch every date in --start/--end, even ones already marked done, "
+                              "and list any games that earlier runs missed (e.g. suspended games "
+                              "completed later). No duplicates are written.")
     parser.add_argument("--inspect", action="store_true",
                          help="read-only debugging mode: prints full untruncated scoreboard JSON for "
                               "every game in --start/--end, always re-fetching, writes nothing.")
@@ -909,6 +1055,8 @@ def main():
             retry_failed_divisions=args.retry_failed_divisions,
             workers=args.division_workers, rate_limit=args.division_rate_limit,
             season=args.season,
+            refetch_dates=({"ALL"} if args.recheck_all else
+                           {s.strip() for s in args.refetch.split(",") if s.strip()} if args.refetch else None),
         )
 
 

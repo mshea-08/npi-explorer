@@ -958,3 +958,44 @@ date,home_team,away_team,home_score,away_score,status,game_id,neutral_site
 2026-10-15,Immaculata,Cedar Crest,3,1,FINAL,6623141,False
 2026-10-15,Trinity (CT),Babson,3,2,FINAL,6624047,False
 2026-10-15,Kenyon,Denison,0,2,FINAL,6624128,False
+2026-09-01,Haverford,Lebanon Valley,2,1,FINAL,6623771,False
+2026-09-04,Elizabethtown,Simmons,4,0,FINAL,6623349,False
+2026-09-05,Endicott,SUNY New Paltz,3,2,FINAL,6623329,False
+2026-09-05,Amherst,Connecticut Col.,2,0,FINAL,6623580,False
+2026-09-05,Washington Col.,Batten,3,2,FINAL,6623459,False
+2026-09-05,Westfield St.,Me.-Farmington,5,1,FINAL,6623251,False
+2026-09-06,Ohio Wesleyan,Rochester (NY),1,4,FINAL,6637209,False
+2026-09-09,East. Mennonite,Juniata,0,3,FINAL,6624171,False
+2026-09-09,Oswego St.,Keuka,1,0,FINAL,6623838,False
+2026-09-12,Immaculata,Marywood,2,3,FINAL,6623095,False
+2026-09-12,Shenandoah,Mary Washington,1,2,FINAL,6639242,False
+2026-09-12,SUNY Geneseo,Ithaca,1,2,FINAL,6624209,False
+2026-09-13,Middlebury,Babson,0,1,FINAL,6623048,False
+2026-09-18,UMass Boston,Me.-Farmington,3,5,FINAL,6624191,False
+2026-09-19,John Carroll,DePauw,1,4,FINAL,6642221,False
+2026-09-19,Springfield,Salve Regina,3,2,FINAL,6623957,False
+2026-09-20,Middlebury,Hamilton,4,2,FINAL,6623050,False
+2026-09-20,Colby,Connecticut Col.,3,2,FINAL,6623585,False
+2026-09-23,Juniata,Dickinson,0,4,FINAL,6623226,False
+2026-09-23,Salve Regina,Nichols,2,1,FINAL,6623151,False
+2026-09-26,SUNY Brockport,Hartwick,1,4,FINAL,6644880,False
+2026-09-26,Eastern,Lancaster Bible,7,0,FINAL,6623366,False
+2026-09-29,SUNY Brockport,SUNY Morrisville,6,2,FINAL,6624000,False
+2026-09-29,Russell Sage,Ithaca,0,4,FINAL,6624228,False
+2026-10-02,Russell Sage,SUNY Brockport,1,2,FINAL,6639567,False
+2026-10-03,UMass Boston,UMass Dartmouth,1,4,FINAL,6624194,False
+2026-10-03,Randolph-Macon,Lynchburg,1,3,FINAL,6623527,False
+2026-10-07,SUNY Geneseo,Nazareth,4,0,FINAL,6623652,False
+2026-10-07,FDU-Florham,Gwynedd Mercy,4,0,FINAL,6640184,False
+2026-10-07,John Carroll,Allegheny,1,0,FINAL,6642307,False
+2026-10-10,DeSales,Arcadia,3,0,FINAL,6623874,False
+2026-10-10,Wilson,Gwynedd Mercy,2,0,FINAL,6623971,False
+2026-10-10,Shenandoah,Batten,5,0,FINAL,6623469,False
+2026-10-11,Sewanee,Mary Washington,3,4,FINAL,6623453,False
+2026-10-16,Concordia Wisconsin,Saint Francis,1,2,FINAL,6624068,False
+2026-10-16,Vassar,Skidmore,2,1,FINAL,6623316,False
+2026-10-16,Wm. Paterson,Kean,0,7,FINAL,6623701,False
+2026-10-16,Rochester (NY),Ithaca,2,1,FINAL,6623754,False
+2026-10-16,William Smith,Union (NY),1,0,FINAL,6624010,False
+2026-10-16,Rensselaer,St. Lawrence,5,1,FINAL,6640134,False
+2026-10-16,Kenyon,Sewanee,1,4,FINAL,6623454,False

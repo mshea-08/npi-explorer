@@ -1126,6 +1126,7 @@ date,home_team,away_team,home_score,away_score,status,game_id,neutral_site
 2026-09-20,William Peace,Pfeiffer,1,2,FINAL,6613426,False
 2026-09-20,Thomas (ME),St. Joseph's (ME),0,0,FINAL,6614498,False
 2026-09-20,DePauw,UC Santa Cruz,0,1,FINAL,6637255,False
+2026-09-20,WashU,Rhodes,3,0,FINAL,6612992,False
 2026-09-20,Cornell College,Lake Forest,0,8,FINAL,6642167,False
 2026-09-20,Capital,Albion,2,0,FINAL,6612936,False
 2026-09-20,Elmhurst,Alma,0,1,FINAL,6612202,False
@@ -2371,3 +2372,39 @@ date,home_team,away_team,home_score,away_score,status,game_id,neutral_site
 2026-10-15,Medgar Evers,Brooklyn,0,14,FINAL,6615242,False
 2026-10-15,McMurry,Mary Hardin-Baylor,0,1,FINAL,6612147,False
 2026-10-15,Hardin-Simmons,East Tex. Baptist,5,0,FINAL,6614461,False
+2026-09-01,Regis (MA),UMass Dartmouth,3,2,FINAL,6613166,False
+2026-09-01,MIT,Gordon,5,0,FINAL,6613298,False
+2026-09-04,Wash. & Lee,William Smith,3,1,FINAL,6614730,False
+2026-09-04,Austin,McMurry,0,3,FINAL,6612131,False
+2026-09-05,Whittier,Concordia (TX),2,1,FINAL,6612377,False
+2026-09-05,SUNY Oneonta,Clarkson,1,2,FINAL,6614634,False
+2026-09-05,Goucher,Notre Dame (MD),1,2,FINAL,6614554,False
+2026-09-05,John Carroll,SUNY Brockport,0,3,FINAL,6615380,False
+2026-09-06,Whittier,Marian (WI),1,2,FINAL,6614804,False
+2026-09-06,Central (IA),Saint Benedict,0,3,FINAL,6640977,False
+2026-09-09,Grove City,Carnegie Mellon,1,5,FINAL,6612389,False
+2026-09-12,Whittier,Chapman,0,0,FINAL,6615386,False
+2026-09-12,Penn St.-Altoona,Wilson,4,0,FINAL,6614374,False
+2026-09-16,Regis (MA),Dean,3,0,FINAL,6614447,False
+2026-09-16,SUNY Brockport,SUNY Oneonta,3,1,FINAL,6614949,False
+2026-09-16,Alfred,Houghton,0,1,FINAL,6612439,False
+2026-09-19,Salve Regina,Mount Holyoke,6,0,FINAL,6615303,False
+2026-09-19,Simmons,Colby-Sawyer,0,0,FINAL,6615275,False
+2026-09-22,Mount Holyoke,Mass. Maritime,5,0,FINAL,6615005,False
+2026-09-23,NYU,Montclair St.,2,0,FINAL,6644956,False
+2026-09-26,Muskingum,Wooster,0,8,FINAL,6612912,False
+2026-09-26,Goucher,Drew,0,6,FINAL,6614563,False
+2026-09-26,Worcester St.,MCLA,8,0,FINAL,6613923,False
+2026-09-28,JWU (Providence),Gordon,0,1,FINAL,6613317,False
+2026-09-30,Curry,Lesley,0,1,FINAL,6614429,False
+2026-10-03,Centenary (LA),St. Thomas (TX),2,5,FINAL,6612411,False
+2026-10-03,Lesley,VTSU-Johnson,2,0,FINAL,6614433,False
+2026-10-05,Regis (MA),Mass. Maritime,6,0,FINAL,6614451,False
+2026-10-07,Regis (MA),Elms,1,0,FINAL,6644543,False
+2026-10-10,Saint Joseph (CT),Colby-Sawyer,1,2,FINAL,6613480,False
+2026-10-10,SUNY Brockport,Utica,4,0,FINAL,6615262,False
+2026-10-10,Manhattanville,St. Joseph's (L.I.),0,1,FINAL,6612475,False
+2026-10-16,Dean,Norwich,1,6,FINAL,6639925,False
+2026-10-16,Centre,Maryville (TN),3,1,FINAL,6613202,False
+2026-10-16,Merchant Marine,SUNY Maritime,7,0,FINAL,6613651,False
+2026-10-16,Westminster (PA),Chatham,1,1,FINAL,6613789,False
